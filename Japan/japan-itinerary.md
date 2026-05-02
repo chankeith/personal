@@ -42,8 +42,8 @@ Summer strategy: outdoor sightseeing in the morning and evening, indoor activiti
 | **teamLab Borderless** | Day 3 (July 18) | **April 16, 2026** | [teamLab Borderless Tokyo](https://borderless.teamlab.art/tokyo/) | HIGH | Book as soon as 3-month window opens |
 | **teamLab Kyoto** | Day 7 (July 22) | **April 16, 2026** | [teamLab Kyoto](https://www.teamlab.art/e/massless-kyoto/) | HIGH | Book as soon as 3-month window opens |
 | **Universal Studios Japan** | Day 9 (July 24) | **April 16, 2026** | [USJ Official Site](https://www.usj.co.jp/web/en/us) | HIGH | Book park tickets + Express Pass together |
-| **Shibuya Sky** | Day 13 (July 28) | **April 16, 2026** | [Shibuya Sky Official](https://www.shibuya-scramble-square.com/sky/) | MEDIUM | Sunset slots fill quickly, book early |
 | **Tokyo DisneySea** | Day 12 (July 27) | **May 27, 2026** | [Tokyo Disney Resort](https://www.tokyodisneyresort.jp/en/ticket/) | HIGH | Book tickets; Premier Access on day-of |
+| **Shibuya Sky** | Day 13 (July 28) | **July 14, 2026** | [Shibuya Sky Official](https://www.shibuya-scramble-square.com/sky/) | MEDIUM | Opens ~2 weeks in advance; sunset slots fill quickly |
 | **Odakyu Romancecar** | Day 4 (July 19) | **June 19, 2026** | [Odakyu e-Romancecar](https://www.odakyu.jp/english/romancecar/) | MEDIUM | Reserved seating recommended for comfort |
 | **Shinkansen** | Days 5 & 11 | **June 20 & 26** | [JR East](https://www.jreast.co.jp/multi/en/) or [Klook](https://www.klook.com) | MEDIUM | Can buy on day but reserved seats may sell out |
 | **Hakone Free Pass** | Day 4 (July 19) | Day of travel | [Odakyu Website](https://www.odakyu.jp/english/passes/hakone/) | LOW | Covers transportation + Lake Ashi cruise |
@@ -55,7 +55,6 @@ Book ALL of these on the same day when the 3-month booking window opens:
 - ✅ [teamLab Borderless](https://borderless.teamlab.art/tokyo/) tickets for July 18
 - ✅ [teamLab Kyoto](https://www.teamlab.art/e/massless-kyoto/) tickets for July 22
 - ✅ [Universal Studios Japan](https://www.usj.co.jp/web/en/us) tickets + Express Pass for July 24
-- ✅ [Shibuya Sky](https://www.shibuya-scramble-square.com/sky/) sunset slot for July 28
 
 **📅 May 27, 2026 (2 months before DisneySea):**
 - ✅ [Tokyo DisneySea](https://www.tokyodisneyresort.jp/en/ticket/) tickets for July 27
@@ -65,6 +64,11 @@ Book ALL of these on the same day when the 3-month booking window opens:
 - ✅ **June 19:** [Odakyu Romancecar](https://www.odakyu.jp/english/romancecar/) to Hakone for July 19
 - ✅ **June 20:** [Shinkansen](https://www.jreast.co.jp/multi/en/) Odawara to Kyoto for July 20
 - ✅ **June 26:** [Shinkansen](https://www.jreast.co.jp/multi/en/) Osaka to Tokyo for July 26
+
+**📅 July 14, 2026 (2 weeks before Shibuya Sky):**
+- ✅ [Shibuya Sky](https://www.shibuya-scramble-square.com/sky/) sunset slot for July 28
+  - Book as soon as tickets open (~2 weeks in advance)
+  - Sunset time slots are most popular
 
 **📅 July 2026 (on arrival or day-of):**
 - [Hakone Free Pass](https://www.odakyu.jp/english/passes/hakone/) (July 19)
