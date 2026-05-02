@@ -344,95 +344,145 @@ Summer strategy: outdoor sightseeing in the morning and evening, indoor activiti
 
 ## Sunday, July 27 — Tokyo DisneySea
 
-### Morning
-- Leave Disney Celebration Hotel early and aim to arrive before park opening
-- Use Premier Access / paid fast pass first for the highest-demand attractions
-- Best first-priority rides for your family:
+### Planning assumptions
+- Family of 4 with 2 girls, ages 10 and 13
+- You plan to buy Premier Access / paid fast pass where useful
+- Goal: prioritize highest-rated attractions, avoid long unnecessary cross-park walks, and protect the hottest hours
+
+### Ranked attraction priorities for your family
+1. Soaring: Fantastic Flight
+   - Usually one of the longest waits in the park
+   - Extremely strong reviews
+   - Worth Premier Access
+2. Toy Story Mania!
+   - Very family-friendly
+   - Also tends to carry long waits
+   - Strong Premier Access candidate
+3. Journey to the Center of the Earth
+   - One of the signature DisneySea rides
+   - Strong reviews and good for this age range if they like mild thrills
+4. Anna and Elsa’s Frozen Journey, if available
+   - Very strong fit for girls 10 and 13
+   - High demand if accessible during your visit
+5. Rapunzel’s Lantern Festival, if available
+   - Very good fit for your family
+   - Prioritize only if Fantasy Springs access is possible
+6. Tower of Terror
+   - Excellent if both girls enjoy thrill rides
+   - Lower priority if one dislikes drops
+7. 20,000 Leagues Under the Sea
+   - Good reviewed family ride
+   - Usually easier to fit later in the day
+8. Sindbad’s Storybook Voyage
+   - Low wait, relaxing, underrated, excellent heat-break ride
+9. Turtle Talk
+   - Good indoor seated attraction
+   - Great mid-day heat option
+10. The Magic Lamp Theater
+   - Good backup indoor attraction
+   - Lower priority than the headline rides
+
+### Average-wait strategy
+- Longest-wait attractions typically include:
   - Soaring: Fantastic Flight
   - Toy Story Mania!
+  - Tower of Terror
   - Journey to the Center of the Earth
-  - Tower of Terror if both girls like thrill rides
-- If Fantasy Springs attractions are available during your visit, prioritize those immediately in the app:
-  - Anna and Elsa’s Frozen Journey
-  - Rapunzel’s Lantern Festival
-  - Peter Pan’s Never Land Adventure
-- Start in the land that matches your first reservation or standby strategy
-
-### Afternoon
-- Make the hottest hours your indoor and lower-intensity block
-- Best afternoon attractions for a 10 and 13 year old:
-  - Mermaid Lagoon Theater and indoor Mermaid Lagoon area
+  - Fantasy Springs rides, if operating and accessible
+- Lower-wait attractions that are ideal fillers:
   - Sindbad’s Storybook Voyage
   - Turtle Talk
   - The Magic Lamp Theater
-  - 20,000 Leagues Under the Sea if wait is reasonable
-- Plan a sit-down lunch or shaded break
-- Use this time for snacks, souvenir browsing, and recharging rather than long outdoor lines
+  - Mermaid Lagoon attractions
+  - Aquatopia, depending on time of day
+  - 20,000 Leagues Under the Sea, depending on crowd flow
+
+### Best route for park efficiency
+- The most efficient approach is to avoid zig-zagging repeatedly across the park.
+
+#### Morning route
+- Enter park and immediately secure Premier Access / priority bookings
+- First focus on American Waterfront and Mediterranean Harbor side if your bookings point there:
+  - Toy Story Mania!
+  - Tower of Terror if desired
+  - Soaring: Fantastic Flight
+- If Fantasy Springs is accessible, that area may jump to first priority instead
+- Do not spend early low-crowd time on low-wait attractions
+
+#### Midday route
+- Shift toward cooler and more indoor areas:
+  - Mermaid Lagoon
+  - Arabian Coast
+  - Mysterious Island / nearby indoor options
+- Best midday sequence:
+  - Lunch
+  - Mermaid Lagoon indoor area
+  - Sindbad’s Storybook Voyage
+  - The Magic Lamp Theater
+  - Turtle Talk if timing works
+- This avoids long exposed outdoor queues in peak heat
+
+#### Evening route
+- Move back toward headline rides with better evening conditions:
+  - Journey to the Center of the Earth
+  - 20,000 Leagues Under the Sea
+  - Aquatopia at night
+  - Repeat favorite ride if waits improve
+- Finish in Mediterranean Harbor for atmosphere and possible nighttime entertainment
+
+### Recommended day structure
+
+### Morning
+- Arrive before park opening
+- Immediately buy/select Premier Access for:
+  - Soaring: Fantastic Flight
+  - Toy Story Mania!
+  - One Fantasy Springs attraction if available, otherwise Journey to the Center of the Earth
+- Standby the best available high-value ride with the shortest early wait
+- If your girls like thrills, fit Tower of Terror early or via paid access
+
+### Afternoon
+- Use this as the low-mobility, low-heat block
+- Prioritize:
+  - Sindbad’s Storybook Voyage
+  - Mermaid Lagoon indoor attractions
+  - Turtle Talk
+  - The Magic Lamp Theater
+- Have a sit-down or shaded lunch
+- Snack, cool down, and shop instead of standing in long outdoor lines
 
 ### Evening
-- Return to bigger rides once temperatures drop and waits improve
-- Best evening priorities:
-  - Repeat favorite ride with lower wait
-  - Aquatopia at night
-  - Journey to the Center of the Earth if not done earlier
-  - 20,000 Leagues Under the Sea
-  - Harbor views and nighttime atmosphere in Mediterranean Harbor
-- Watch the nighttime harbor show if one is scheduled during your visit and you have the energy
-
-### Best ride mix for a 10 and 13 year old girl
-- Strong all-around picks:
-  - Soaring: Fantastic Flight
-  - Toy Story Mania!
-  - Sindbad’s Storybook Voyage
-  - Mermaid Lagoon attractions
+- Re-enter headline mode
+- Best evening choices:
+  - Journey to the Center of the Earth
   - 20,000 Leagues Under the Sea
   - Aquatopia
-- Good if they enjoy some thrills:
-  - Journey to the Center of the Earth
-  - Tower of Terror
-  - Indiana Jones Adventure
-- More intense and optional:
-  - Raging Spirits only if everyone is comfortable with coasters and inversions
+  - Repeat best family favorite
+- Watch the harbor at night if everyone still has energy
 
-### Premier Access priorities
-- Highest priority:
-  - Soaring: Fantastic Flight
-  - Toy Story Mania!
-  - Any Fantasy Springs ride you most want, if available
-- Next priority:
-  - Journey to the Center of the Earth
-  - Tower of Terror if thrill rides are a family priority
-- Strategy:
-  - Use paid access for the rides with the worst standby waits
-  - Use standby for lower-wait attractions like Sindbad, Mermaid Lagoon, and some theater attractions
+### Best attractions to skip if time gets tight
+- Raging Spirits unless your whole family specifically wants a stronger coaster
+- Extra cross-park duplication just to chase a moderate attraction
+- Long outdoor standby for lower-tier attractions during mid-day heat
 
 ### Show priorities
-- Best indoor/seated options for heat:
+- Best heat-efficient shows/indoor attractions:
   - Turtle Talk
   - The Magic Lamp Theater
   - Big Band Beat if operating during your visit
-- Best outdoor option:
-  - Night harbor show if scheduled
-- Do not overload on shows; one or two is enough with kids in summer heat
+- Only do one or two shows total so the day does not become too schedule-heavy
 
-### Snack and meal suggestions
-- Good snack targets:
-  - Popcorn in unique Tokyo Disney flavors
+### Snack and meal strategy
+- Best snack targets:
+  - Popcorn in Tokyo Disney flavors
   - Churros
   - Ice cream or shaved ice
   - Gyoza dog if available
   - Little Green Men mochi if available in the resort area
 - Lunch:
-  - Choose a sit-down or shaded indoor option
+  - Sit-down or strongly shaded
 - Dinner:
-  - Eat a bit earlier than peak rush if possible
-
-### Heat strategy
-- Morning: do high-demand outdoor queue rides
-- Afternoon: indoor attractions, Mermaid Lagoon, theaters, lunch, and shopping
-- Evening: return to major rides and scenery
-- Carry fans, cooling towels, refillable water, and small snacks
-- Since you are staying nearby, it is fine to leave before total exhaustion
+  - Eat before peak rush if possible
 
 ### Transportation
 - Disney Celebration Hotel to Tokyo DisneySea: hotel shuttle bus is the easiest option
