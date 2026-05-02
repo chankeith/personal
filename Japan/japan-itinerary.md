@@ -5,16 +5,17 @@ Trip style: classic first-time Japan, great food, some shopping, balanced pace
 Summer strategy: outdoor sightseeing in the morning and evening, indoor activities and breaks in the afternoon
 
 ## Table of Contents
+- [Advance Ticket Purchase Guide](#advance-ticket-purchase-guide)
 - [Tokyo Arrival and First Stay (July 16-18)](#tokyo-arrival-and-first-stay)
   - Day 1: July 16 - Arrive in Tokyo, evening in Ginza
   - Day 2: July 17 - Asakusa morning, then Ginza evening
-  - Day 3: July 18 - Imperial Palace, teamLab Borderless, Tokyo Tower
+  - Day 3: July 18 - Tsukiji, Imperial Palace, teamLab Borderless, Tokyo Tower
 - [Hakone (July 19)](#hakone)
-  - Day 4: July 19 - Travel to Hakone
+  - Day 4: July 19 - Travel to Hakone with Lake Ashi Cruise
 - [Kyoto (July 20-22)](#kyoto)
   - Day 5: July 20 - Hakone to Kyoto
   - Day 6: July 21 - Arashiyama morning, Gion evening
-  - Day 7: July 22 - Fushimi Inari early morning, teamLab Kyoto, central Kyoto
+  - Day 7: July 22 - Fushimi Inari, Uji matcha experience, teamLab Kyoto, central Kyoto
 - [Osaka and Nara (July 23-25)](#osaka-and-nara)
   - Day 8: July 23 - Travel to Osaka
   - Day 9: July 24 - Universal Studios Japan
@@ -23,7 +24,7 @@ Summer strategy: outdoor sightseeing in the morning and evening, indoor activiti
   - Day 11: July 26 - Osaka to Tokyo, then Disney Celebration Hotel
   - Day 12: July 27 - Tokyo DisneySea
 - [Tokyo Final Stay (July 28-August 2)](#tokyo-final-stay)
-  - Day 13: July 28 - Check out Disney, move to Shibuya hotel
+  - Day 13: July 28 - Check out Disney, move to Shibuya hotel, Shibuya Crossing & Sky
   - Day 14: July 29 - Tokyo Station and Ginza
   - Day 15: July 30 - Odaiba
   - Day 16: July 31 - Flexible Tokyo family day
@@ -34,9 +35,55 @@ Summer strategy: outdoor sightseeing in the morning and evening, indoor activiti
 
 ---
 
+## Advance Ticket Purchase Guide
+
+| Attraction | Day | Book By Date | Booking Method | Priority | Notes |
+|------------|-----|--------------|----------------|----------|-------|
+| **teamLab Borderless** | Day 3 (July 18) | **April 18, 2026** | Online via official website | HIGH | Very popular, book as soon as possible |
+| **teamLab Kyoto** | Day 7 (July 22) | **April 22, 2026** | Online via official website | HIGH | Book early for preferred time slot |
+| **Universal Studios Japan** | Day 9 (July 24) | **April 24, 2026** | Online via official USJ website | HIGH | Book park tickets + Express Pass together |
+| **Shibuya Sky** | Day 13 (July 28) | **April 28, 2026** | Online via official website | MEDIUM | Sunset slots fill quickly, book early |
+| **Tokyo DisneySea** | Day 12 (July 27) | **May 27, 2026** | Online via Tokyo Disney Resort website | HIGH | Book tickets + Premier Access on same day |
+| **Odakyu Romancecar** | Day 4 (July 19) | **June 19, 2026** | Online or at station | MEDIUM | Reserved seating recommended for comfort |
+| **Shinkansen (Odawara-Kyoto)** | Day 5 (July 20) | **June 20, 2026** | Online, station, or travel agent | MEDIUM | Can buy on day but reserved seats may sell out |
+| **Shinkansen (Osaka-Tokyo)** | Day 11 (July 26) | **June 26, 2026** | Online, station, or travel agent | MEDIUM | Can buy on day but reserved seats may sell out |
+| **Hakone Free Pass** | Day 4 (July 19) | Day of travel | Odakyu station or online | LOW | Covers transportation + Lake Ashi cruise |
+
+### Booking Timeline by Month:
+
+**📅 April 2026 (3 months before):**
+- ✅ **April 18:** teamLab Borderless tickets for July 18
+- ✅ **April 22:** teamLab Kyoto tickets for July 22
+- ✅ **April 24:** Universal Studios Japan tickets + Express Pass for July 24
+- ✅ **April 28:** Shibuya Sky sunset slot for July 28
+
+**📅 May 2026 (2 months before):**
+- ✅ **May 27:** Tokyo DisneySea tickets for July 27
+  - Premier Access purchased in-app on July 27 (day of visit)
+
+**📅 June 2026 (1 month before):**
+- ✅ **June 19:** Odakyu Romancecar to Hakone for July 19
+- ✅ **June 20:** Shinkansen Odawara to Kyoto for July 20
+- ✅ **June 26:** Shinkansen Osaka to Tokyo for July 26
+
+**📅 July 2026 (on arrival or day-of):**
+- Hakone Free Pass (July 19)
+- Local train tickets
+- Most restaurant reservations (book 1-2 weeks ahead for popular spots)
+
+### Important Notes:
+- **Universal Studios Japan Express Pass:** Choose between Express Pass 4 or 7 based on crowd levels
+- **Tokyo DisneySea Premier Access:** Purchase in-app on the day, prioritize: Frozen, Rapunzel, Soaring, Toy Story Mania
+- **teamLab venues:** Timed entry tickets, arrive on time or you may lose your slot
+- **Shibuya Sky:** Sunset time slots (6-7 PM in summer) are most popular
+
+---
+
 ## Tokyo Arrival and First Stay
 
 ## Wednesday, July 16 — Arrive in Tokyo, evening in Ginza
+
+**Hotel:** Sotetsu Fresa Inn Ginza-Nanachome
 
 ### Morning
 - In transit
@@ -44,7 +91,8 @@ Summer strategy: outdoor sightseeing in the morning and evening, indoor activiti
 ### Afternoon
 - Arrive at Haneda at 3:40 PM
 - Clear immigration
-- Transfer to hotel, check in, shower, and rest briefly indoors
+- Transfer to Sotetsu Fresa Inn Ginza-Nanachome
+- Check in, shower, and rest briefly indoors
 
 ### Evening
 - Head to Ginza
@@ -156,15 +204,31 @@ Summer strategy: outdoor sightseeing in the morning and evening, indoor activiti
 
 ---
 
-## Friday, July 18 — Imperial Palace, teamLab Borderless, Tokyo Tower
+## Friday, July 18 — Tsukiji, Imperial Palace, teamLab Borderless, Tokyo Tower
 
-### Morning
-- Start at the Imperial Palace East Gardens area near Ginza
+### Early Morning - Tsukiji Area
+- **Tsukiji Outer Market** ⭐⭐⭐ - Famous food market
+  - Arrive early (7-8 AM) for best selection and freshness
+  - Browse fresh seafood, street food, kitchen supplies
+  - Try: tamagoyaki (Japanese omelet), fresh sashimi, grilled seafood skewers, fruit
+  - Great breakfast/brunch spot
+  - 1-1.5 hours
+- **Tsukiji Hongan-ji Temple** ⭐⭐ - Unique Indian-style Buddhist temple
+  - 5-minute walk from outer market
+  - Distinctive architecture, peaceful atmosphere
+  - Quick visit: 15-20 minutes
+  - Optional if time is tight
+
+**Total Tsukiji time:** 1.5-2 hours
+
+### Late Morning
+- Walk or short taxi to Imperial Palace East Gardens area
 - Enjoy a relaxed outdoor walk before the heat builds
+- 30-45 minutes
 
 ### Afternoon
 - Move indoors to teamLab Borderless
-- Have lunch in the Azabudai Hills area before or after the exhibit
+- Have lunch in the Azabudai Hills area before or after the exhibit (or eat more at Tsukiji if still hungry)
 
 ### Evening
 - Head to Tokyo Tower in the late afternoon or near sunset
@@ -186,21 +250,39 @@ Summer strategy: outdoor sightseeing in the morning and evening, indoor activiti
 ## Saturday, July 19 — Travel to Hakone
 
 ### Morning
-- Breakfast and check out
+- Breakfast and check out from Sotetsu Fresa Inn Ginza-Nanachome
+- Travel to Shinjuku Station
+- Board Odakyu Romancecar to Hakone-Yumoto
 
 ### Afternoon
-- Travel to Hakone
-- Check in and rest
+- Arrive in Hakone
+- **Lake Ashi Cruise** ⭐⭐⭐ - Scenic pirate ship cruise
+  - Beautiful views of Mt. Fuji (weather permitting)
+  - Cruise between Hakone-machi/Moto-Hakone and Togendai
+  - 30-40 minutes one way
+  - Perfect family activity with photo opportunities
+- Optional: Hakone Shrine torii gate at lakeside (quick photo stop)
+- Check in to ryokan and rest
 
 ### Evening
-- Onsen and ryokan dinner
+- Onsen experience at ryokan
+- Kaiseki dinner at ryokan
 
 ### Food focus
 - Enjoy a ryokan kaiseki-style dinner with local tofu, mountain vegetables, and seasonal dishes
+- Breakfast at ryokan next morning before departure
 
 ### Transportation
-- Odakyu Romancecar train from Shinjuku to Hakone-Yumoto
-- Local bus, ropeway, or taxi in Hakone
+- Tokyo (Shinjuku) to Hakone-Yumoto: Odakyu Romancecar train (~90 minutes)
+- Hakone-Yumoto to Lake Ashi area: Hakone Tozan Bus or taxi
+- Lake Ashi: Pirate ship cruise
+- Around Hakone: Local bus, ropeway, or taxi to ryokan
+
+### Hakone tips
+- Consider Hakone Free Pass for unlimited transportation
+- Lake Ashi cruise is weather-dependent for Mt. Fuji views
+- Keep afternoon flexible for ryokan check-in time
+- Don't overpack the day - focus on cruise and relaxation before onsen
 
 ---
 
@@ -258,19 +340,35 @@ Summer strategy: outdoor sightseeing in the morning and evening, indoor activiti
 
 ---
 
-## Tuesday, July 22 — Fushimi Inari early morning, teamLab Kyoto, central Kyoto
+## Tuesday, July 22 — Fushimi Inari early morning, Uji matcha experience, teamLab Kyoto, central Kyoto
 
 ### Morning
 - Early start to Fushimi Inari Shrine before the heat and crowds build
 - Walk through the iconic torii gate tunnels
 - Go as far up the mountain as energy allows, but don't feel pressured to reach the summit
 - Best strategy: enjoy the lower gates and turn back when it gets too hot or crowded
-- Return to central Kyoto by late morning
+- Return by mid-morning
+
+### Late Morning - Uji Matcha Experience
+- Travel to Uji (15-20 minutes from Fushimi Inari via JR Nara Line)
+- **Byodoin Temple** ⭐⭐⭐ - UNESCO World Heritage site with Phoenix Hall (on 10 yen coin)
+  - Beautiful temple and gardens
+  - 30-45 minutes
+- **Uji Matcha Experience** ⭐⭐⭐
+  - Visit famous matcha shops on Omotesando Street
+  - Try authentic Uji matcha soft serve, matcha parfaits, or matcha sweets
+  - Recommended shops: Nakamura Tokichi, Tsujiri, or Itohkyuemon
+  - Browse tea shops and purchase high-quality matcha
+  - 45-60 minutes
+- **Uji River walk** - Brief stroll along scenic river if time permits
+
+**Total Uji time:** 1.5-2 hours
 
 ### Afternoon
+- Return to central Kyoto
 - teamLab Kyoto as the main indoor feature of the afternoon
 - This keeps you indoors during peak heat
-- Lunch before or after teamLab, near the venue or in central Kyoto
+- Lunch before or after teamLab (or have matcha treats in Uji as lunch)
 - If time allows, visit Nishiki Market or nearby covered shopping streets
 - Use cafés and department-store style breaks to stay out of the heat
 
@@ -279,16 +377,25 @@ Summer strategy: outdoor sightseeing in the morning and evening, indoor activiti
 - Keep the evening flexible and easy before Osaka transfer next day
 
 ### Food focus
-- Near Fushimi Inari: inari-zushi (fried tofu sushi), traditional sweets, matcha
+- Near Fushimi Inari: inari-zushi (fried tofu sushi), traditional sweets
+- **In Uji:** Authentic Uji matcha soft serve ⭐⭐⭐, matcha parfaits, matcha soba, matcha sweets
 - Near teamLab/central Kyoto: katsu, soba, curry rice, omurice, parfaits
 - At Nishiki Market: tamagoyaki, skewers, sesame sweets, mochi, pickles
 
 ### Transportation
 - Hotel to Fushimi Inari: JR Nara Line to Inari Station (5 min walk to shrine) or Keihan Line to Fushimi-Inari Station
-- Fushimi Inari back to central Kyoto: JR Nara Line or Keihan Line
+- Fushimi Inari to Uji: JR Nara Line to Uji Station (15-20 minutes, 2 stops)
+- Uji back to central Kyoto: JR Nara Line to Kyoto Station (20 minutes)
 - Central Kyoto to teamLab Kyoto: taxi preferred, or subway/bus depending on exact venue
 - teamLab to central Kyoto/Nishiki: taxi or subway/bus
 - Downtown to hotel: taxi, subway, or bus
+
+### Uji tips
+- Uji is the birthplace of Japanese green tea culture
+- Byodoin Temple is iconic and worth the visit
+- Matcha in Uji is considered the highest quality in Japan
+- The route Fushimi Inari → Uji → Kyoto is very efficient on JR Nara Line
+- Perfect addition without adding significant travel time
 
 ---
 
@@ -828,9 +935,24 @@ Probably skip unless they specifically want something intense:
 - Stay around Shibuya for an easier start, with indoor time, lunch, shopping, and café breaks
 - If energy is still good, add a short visit to Harajuku later in the day
 
+### Early Evening - Shibuya Crossing and Shibuya Sky
+- **Shibuya Crossing** ⭐⭐⭐ - World's busiest pedestrian crossing
+  - Experience the famous scramble crossing at ground level
+  - Best viewed from Starbucks 2nd floor or crossing itself
+  - Take photos and videos of the iconic intersection
+  - 15-20 minutes
+- **Shibuya Sky** ⭐⭐⭐ - Rooftop observation deck (229m high)
+  - Located on top of Shibuya Scramble Square (floors 45-46 and rooftop)
+  - 360-degree panoramic views of Tokyo
+  - See Shibuya Crossing from above
+  - Perfect for sunset views (around 6:30-7:00 PM in summer)
+  - Indoor and outdoor observation areas
+  - 45-60 minutes
+- **Timing:** Arrive at Shibuya Crossing around 5:30-6:00 PM, then go up to Shibuya Sky for sunset
+
 ### Evening
-- Explore Shibuya in the evening when it is cooler
-- Dinner near your Shibuya hotel
+- Dinner near Shibuya after Sky experience
+- Explore Shibuya at night when it's cooler and beautifully lit
 
 ### Food focus
 - In Shibuya: ramen, tonkatsu, omurice, Japanese curry, parfaits, or a depachika-style food hall meal
@@ -840,7 +962,13 @@ Probably skip unless they specifically want something intense:
 - Disney Celebration Hotel to Shin-Urayasu: taxi or bus
 - Shin-Urayasu to Tokyo Station: JR Keiyo Line
 - Tokyo Station to Shibuya: JR Yamanote Line or JR Saikyo Line
-- In Shibuya: walk
+- In Shibuya: walk (Crossing and Sky are 2-3 minutes apart)
+
+### Shibuya Sky tips
+- Book tickets in advance online for specific time slot
+- Sunset time slot is most popular - book early
+- Both indoor and outdoor observation areas available
+- Great photo opportunities of Tokyo skyline and Mt. Fuji (weather permitting)
 
 ---
 
