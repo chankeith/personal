@@ -639,14 +639,13 @@ Why now:
 #### 3. American Waterfront after that
 Continue next into American Waterfront.
 
-Top priorities:
+Top priority:
 - Toy Story Mania!
-- Tower of Terror only if both girls enjoy drop rides
 
 Why this works:
 - keeps your route moving logically without zig-zagging
 - Toy Story Mania is one of the best family attractions in the park
-- Tower of Terror is optional depending on thrill tolerance
+- focus on family-friendly attractions rather than intense drop rides
 
 #### 4. Mysterious Island before midday
 Move next into Mysterious Island.
@@ -730,22 +729,20 @@ Best reasons:
 5. Journey to the Center of the Earth
 
 If one is unavailable:
-- use Peter Pan’s Never Land Adventure
-- or Tower of Terror if your family wants a thrill option
+- use Peter Pan's Never Land Adventure
 
 ### Best attractions for your daughters
 Most likely favorites:
-- Anna and Elsa’s Frozen Journey
-- Rapunzel’s Lantern Festival
-- Peter Pan’s Never Land Adventure
+- Anna and Elsa's Frozen Journey
+- Rapunzel's Lantern Festival
+- Peter Pan's Never Land Adventure
 - Soaring: Fantastic Flight
 - Toy Story Mania!
 - Mermaid Lagoon
-- Sindbad’s Storybook Voyage
+- Sindbad's Storybook Voyage
 
 Good if they enjoy some thrills:
 - Journey to the Center of the Earth
-- Tower of Terror
 - Indiana Jones Adventure
 
 Probably skip unless they specifically want something intense:
@@ -753,7 +750,6 @@ Probably skip unless they specifically want something intense:
 
 ### Best things to skip if time gets tight
 - Raging Spirits
-- long standby for Tower of Terror
 - extra backtracking just for a moderate attraction
 - outdoor lines during the hottest part of the day
 
