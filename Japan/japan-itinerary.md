@@ -370,149 +370,175 @@ Summer strategy: outdoor sightseeing in the morning and evening, indoor activiti
 ### Planning assumptions
 - Family of 4 with 2 girls, ages 10 and 13
 - You plan to buy Premier Access / paid fast pass where useful
-- Goal: prioritize highest-rated attractions, avoid long unnecessary cross-park walks, and protect the hottest hours
+- This version assumes Fantasy Springs is accessible
+- Goal: prioritize highest-value attractions early, reduce walking, and use indoor areas during peak heat
 
-### Ranked attraction priorities for your family
-1. Soaring: Fantastic Flight
-   - Usually one of the longest waits in the park
-   - Extremely strong reviews
-   - Worth Premier Access
-2. Toy Story Mania!
-   - Very family-friendly
-   - Also tends to carry long waits
-   - Strong Premier Access candidate
-3. Journey to the Center of the Earth
-   - One of the signature DisneySea rides
-   - Strong reviews and good for this age range if they like mild thrills
-4. Anna and Elsa’s Frozen Journey, if available
-   - Very strong fit for girls 10 and 13
-   - High demand if accessible during your visit
-5. Rapunzel’s Lantern Festival, if available
-   - Very good fit for your family
-   - Prioritize only if Fantasy Springs access is possible
-6. Tower of Terror
-   - Excellent if both girls enjoy thrill rides
-   - Lower priority if one dislikes drops
-7. 20,000 Leagues Under the Sea
-   - Good reviewed family ride
-   - Usually easier to fit later in the day
-8. Sindbad’s Storybook Voyage
-   - Low wait, relaxing, underrated, excellent heat-break ride
-9. Turtle Talk
-   - Good indoor seated attraction
-   - Great mid-day heat option
-10. The Magic Lamp Theater
-   - Good backup indoor attraction
-   - Lower priority than the headline rides
+### Best overall strategy
+- Morning: hardest-to-get rides
+- Afternoon: coolest indoor areas
+- Evening: favorite repeats, scenic rides, and nighttime atmosphere
 
-### Average-wait strategy
-- Longest-wait attractions typically include:
-  - Soaring: Fantastic Flight
-  - Toy Story Mania!
-  - Tower of Terror
-  - Journey to the Center of the Earth
-  - Fantasy Springs rides, if operating and accessible
-- Lower-wait attractions that are ideal fillers:
-  - Sindbad’s Storybook Voyage
-  - Turtle Talk
-  - The Magic Lamp Theater
-  - Mermaid Lagoon attractions
-  - Aquatopia, depending on time of day
-  - 20,000 Leagues Under the Sea, depending on crowd flow
+### Best ride and area flow
 
-### Best route for park efficiency
-- The most efficient approach is to avoid zig-zagging repeatedly across the park.
+#### 1. Fantasy Springs first
+Make Fantasy Springs your first priority in the app and in your physical route.
 
-#### Morning route
-- Enter park and immediately secure Premier Access / priority bookings
-- First focus on American Waterfront and Mediterranean Harbor side if your bookings point there:
-  - Toy Story Mania!
-  - Tower of Terror if desired
-  - Soaring: Fantastic Flight
-- If Fantasy Springs is accessible, that area may jump to first priority instead
-- Do not spend early low-crowd time on low-wait attractions
+Best order inside Fantasy Springs:
+1. Anna and Elsa’s Frozen Journey
+2. Rapunzel’s Lantern Festival
+3. Peter Pan’s Never Land Adventure
 
-#### Midday route
-- Shift toward cooler and more indoor areas:
-  - Mermaid Lagoon
-  - Arabian Coast
-  - Mysterious Island / nearby indoor options
-- Best midday sequence:
-  - Lunch
-  - Mermaid Lagoon indoor area
-  - Sindbad’s Storybook Voyage
-  - The Magic Lamp Theater
-  - Turtle Talk if timing works
-- This avoids long exposed outdoor queues in peak heat
+Why first:
+- highest demand
+- strongest thematic fit for your daughters
+- easiest to enjoy while energy is high
+- avoids risking later access problems
 
-#### Evening route
-- Move back toward headline rides with better evening conditions:
-  - Journey to the Center of the Earth
-  - 20,000 Leagues Under the Sea
-  - Aquatopia at night
-  - Repeat favorite ride if waits improve
-- Finish in Mediterranean Harbor for atmosphere and possible nighttime entertainment
+#### 2. Mediterranean Harbor next
+After Fantasy Springs, move toward Mediterranean Harbor.
 
-### If Fantasy Springs access is available
-- Make Fantasy Springs your first priority in the app
-- Best order:
-  1. Anna and Elsa’s Frozen Journey
-  2. Rapunzel’s Lantern Festival
-  3. Peter Pan’s Never Land Adventure
-  4. Soaring: Fantastic Flight
-  5. Toy Story Mania!
-  6. Journey to the Center of the Earth
+Top priority:
+- Soaring: Fantastic Flight
 
-### Original non-Fantasy-Springs route
-- If Fantasy Springs access does not work out, follow this route:
-  1. Soaring: Fantastic Flight
-  2. Toy Story Mania!
-  3. Journey to the Center of the Earth
-  4. 20,000 Leagues Under the Sea
-  5. Mermaid Lagoon indoor block
-  6. Sindbad’s Storybook Voyage
-  7. The Magic Lamp Theater or Turtle Talk
-  8. Aquatopia or repeat favorite
-  9. Harbor show / Mediterranean Harbor at night
+Why now:
+- one of the highest-rated rides in the entire park
+- usually one of the longest waits
+- best done early or through Premier Access
 
-### Why both plans are included
-- Fantasy Springs is the best-case route if access works
-- The original route remains the most efficient fallback and still gives you an excellent day
+#### 3. American Waterfront after that
+Continue next into American Waterfront.
 
-### Recommended day structure
+Top priorities:
+- Toy Story Mania!
+- Tower of Terror only if both girls enjoy drop rides
 
-### Morning
-- Arrive before park opening
-- Immediately buy/select Premier Access for:
-  - Soaring: Fantastic Flight
-  - Toy Story Mania!
-  - One Fantasy Springs attraction if available, otherwise Journey to the Center of the Earth
-- Standby the best available high-value ride with the shortest early wait
-- If your girls like thrills, fit Tower of Terror early or via paid access
+Why this works:
+- keeps your route moving logically without zig-zagging
+- Toy Story Mania is one of the best family attractions in the park
+- Tower of Terror is optional depending on thrill tolerance
 
-### Afternoon
-- Use this as the low-mobility, low-heat block
-- Prioritize:
-  - Sindbad’s Storybook Voyage
-  - Mermaid Lagoon indoor attractions
-  - Turtle Talk
-  - The Magic Lamp Theater
-- Have a sit-down or shaded lunch
-- Snack, cool down, and shop instead of standing in long outdoor lines
+#### 4. Mysterious Island before midday
+Move next into Mysterious Island.
 
-### Evening
-- Re-enter headline mode
-- Best evening choices:
-  - Journey to the Center of the Earth
-  - 20,000 Leagues Under the Sea
-  - Aquatopia
-  - Repeat best family favorite
-- Watch the harbor at night if everyone still has energy
+Top priorities:
+- Journey to the Center of the Earth
+- 20,000 Leagues Under the Sea
 
-### Best attractions to skip if time gets tight
-- Raging Spirits unless your whole family specifically wants a stronger coaster
-- Extra cross-park duplication just to chase a moderate attraction
-- Long outdoor standby for lower-tier attractions during mid-day heat
+Why here:
+- Journey is one of the signature DisneySea rides
+- 20,000 Leagues fits naturally in the same area
+- helps you finish major headline attractions before the worst heat
+
+### Midday heat and rest plan
+
+#### 5. Lunch and cooling break
+Around late morning or early afternoon:
+- have lunch indoors or in strong shade
+- avoid committing to another long exposed outdoor line
+- use this block to rest and reset
+
+#### 6. Mermaid Lagoon block
+After lunch, move into Mermaid Lagoon.
+
+Why this is ideal:
+- mostly indoor
+- visually fun for kids
+- low-stress area for cooling down
+- good place for gentler attractions, photos, and rest
+
+#### 7. Arabian Coast block
+After Mermaid Lagoon, move into Arabian Coast.
+
+Best attractions:
+- Sindbad’s Storybook Voyage
+- The Magic Lamp Theater
+
+Why this is efficient:
+- close to Mermaid Lagoon
+- lower waits than the headline rides
+- excellent use of the hottest part of the day
+
+#### 8. Optional indoor attraction
+If energy is still good, fit in:
+- Turtle Talk
+
+Best use:
+- one more indoor seated attraction before shifting back to evening rides
+
+### Evening plan
+
+#### 9. Return to headline rides or favorites
+Once temperatures drop, move back toward major attractions.
+
+Best evening choices:
+- repeat favorite ride from earlier
+- Journey to the Center of the Earth if not completed
+- 20,000 Leagues Under the Sea
+- Aquatopia at night
+
+Why evening is good:
+- cooler weather
+- better atmosphere
+- sometimes improved waits
+- Aquatopia is especially fun at night
+
+#### 10. End in Mediterranean Harbor
+Finish the night around Mediterranean Harbor.
+
+Best reasons:
+- best nighttime atmosphere in the park
+- strongest photo area
+- likely harbor show location if scheduled
+- easier emotional finish than one more stressful queue
+
+### Best Premier Access priorities
+1. Anna and Elsa’s Frozen Journey
+2. Rapunzel’s Lantern Festival
+3. Soaring: Fantastic Flight
+4. Toy Story Mania!
+5. Journey to the Center of the Earth
+
+If one is unavailable:
+- use Peter Pan’s Never Land Adventure
+- or Tower of Terror if your family wants a thrill option
+
+### Best attractions for your daughters
+Most likely favorites:
+- Anna and Elsa’s Frozen Journey
+- Rapunzel’s Lantern Festival
+- Peter Pan’s Never Land Adventure
+- Soaring: Fantastic Flight
+- Toy Story Mania!
+- Mermaid Lagoon
+- Sindbad’s Storybook Voyage
+
+Good if they enjoy some thrills:
+- Journey to the Center of the Earth
+- Tower of Terror
+- Indiana Jones Adventure
+
+Probably skip unless they specifically want something intense:
+- Raging Spirits
+
+### Best things to skip if time gets tight
+- Raging Spirits
+- long standby for Tower of Terror
+- extra backtracking just for a moderate attraction
+- outdoor lines during the hottest part of the day
+
+### Practical full route summary
+- Arrive early
+- Fantasy Springs
+- Soaring
+- Toy Story Mania!
+- Journey to the Center of the Earth
+- 20,000 Leagues Under the Sea
+- lunch
+- Mermaid Lagoon
+- Sindbad’s Storybook Voyage
+- The Magic Lamp Theater or Turtle Talk
+- Aquatopia at night
+- harbor show or Mediterranean Harbor photos
 
 ### Show priorities
 - Best heat-efficient shows/indoor attractions:
