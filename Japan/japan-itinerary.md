@@ -453,6 +453,32 @@ Summer strategy: outdoor sightseeing in the morning and evening, indoor activiti
   - Repeat favorite ride if waits improve
 - Finish in Mediterranean Harbor for atmosphere and possible nighttime entertainment
 
+### If Fantasy Springs access is available
+- Make Fantasy Springs your first priority in the app
+- Best order:
+  1. Anna and Elsa’s Frozen Journey
+  2. Rapunzel’s Lantern Festival
+  3. Peter Pan’s Never Land Adventure
+  4. Soaring: Fantastic Flight
+  5. Toy Story Mania!
+  6. Journey to the Center of the Earth
+
+### Original non-Fantasy-Springs route
+- If Fantasy Springs access does not work out, follow this route:
+  1. Soaring: Fantastic Flight
+  2. Toy Story Mania!
+  3. Journey to the Center of the Earth
+  4. 20,000 Leagues Under the Sea
+  5. Mermaid Lagoon indoor block
+  6. Sindbad’s Storybook Voyage
+  7. The Magic Lamp Theater or Turtle Talk
+  8. Aquatopia or repeat favorite
+  9. Harbor show / Mediterranean Harbor at night
+
+### Why both plans are included
+- Fantasy Springs is the best-case route if access works
+- The original route remains the most efficient fallback and still gives you an excellent day
+
 ### Recommended day structure
 
 ### Morning
