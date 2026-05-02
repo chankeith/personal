@@ -70,13 +70,18 @@ Summer strategy: outdoor sightseeing in the morning and evening, indoor activiti
    - Smaller but historically significant
    - Optional if time is tight
    - 10 minutes
-6. **Sumida Park** ⭐ - Riverside park along Sumida River
+6. **Chacha Futatsume** ⭐⭐⭐ - Famous matcha ice cream shop
+   - Must-try matcha soft serve, perfect summer treat
+   - Located near the temple area
+   - Great break after temple walking
+   - 15-20 minutes
+7. **Sumida Park** ⭐ - Riverside park along Sumida River
    - **Skip or very brief** - low impact compared to temple complex
    - Only worthwhile if: weather is unusually pleasant, you finish temple early, girls need a break from crowds
-   - Better use of time: more Nakamise shopping or earlier lunch
+   - Better use of time: more Nakamise shopping or Chacha Futatsume
    - 15-20 minutes if included
 
-**Total Asakusa time:** 1.5-2 hours (without Sumida Park), 2-2.5 hours (with park)
+**Total Asakusa time:** 1.5-2 hours (without Sumida Park), 2-2.5 hours (with park and Chacha Futatsume)
 
 ### Late Morning/Midday
 - Stay in Asakusa for lunch before heat peaks
@@ -85,6 +90,7 @@ Summer strategy: outdoor sightseeing in the morning and evening, indoor activiti
   - **Tendon** ⭐⭐⭐ - Tempura over rice, filling and delicious
   - **Soba** ⭐⭐ - Cold soba perfect for summer
   - **Unagi** ⭐⭐⭐ - Grilled eel, Asakusa has excellent options
+- **Alternative:** Have Chacha Futatsume matcha ice cream as a light lunch/snack if you prefer to eat a bigger meal later
 
 ### Afternoon
 - Return to hotel or stay in covered/air-conditioned areas during peak heat (12-3 PM)
@@ -108,7 +114,7 @@ Summer strategy: outdoor sightseeing in the morning and evening, indoor activiti
   - Japanese pudding, fruit sandos, wagashi, seasonal sweets
 
 ### Food focus
-- **Asakusa:** ningyo-yaki (small cakes), senbei (rice crackers), matcha sweets, temple-street snacks, tempura/tendon
+- **Asakusa:** Chacha Futatsume matcha ice cream ⭐⭐⭐, ningyo-yaki (small cakes), senbei (rice crackers), matcha sweets, temple-street snacks, tempura/tendon
 - **Ginza:** depachika treasures, Japanese pudding, fruit sandos, tonkatsu, sushi
 
 ### Transportation
