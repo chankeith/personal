@@ -47,44 +47,87 @@ Summer strategy: outdoor sightseeing in the morning and evening, indoor activiti
 
 ---
 
-## Thursday, July 17 — Asakusa day, then Ginza evening
+## Thursday, July 17 — Asakusa morning, then Ginza evening
 
-### Morning
-- Go to Asakusa
-- Visit Senso-ji
-- Walk Nakamise
-- See Kaminarimon
-- Optional short stop at Asakusa Shrine
+### Morning - Asakusa (arrive early to beat crowds and heat)
+**Efficient route through the temple complex:**
+1. **Kaminarimon Gate** ⭐⭐⭐ - Tokyo's most iconic gate with massive red lantern
+   - Best photo spot, arrive early for fewer crowds
+   - 5 minutes
+2. **Nakamise Shopping Street** ⭐⭐⭐ - 250m traditional shopping street
+   - Browse traditional snacks, souvenirs, and crafts
+   - Try ningyo-yaki, senbei, matcha sweets
+   - 20-30 minutes
+3. **Hozomon Gate** ⭐⭐ - Impressive two-story gate
+   - Second major gate before main hall
+   - Quick photo stop
+   - 5 minutes
+4. **Senso-ji Temple Main Hall** ⭐⭐⭐ - Tokyo's oldest and most significant Buddhist temple
+   - Main worship hall with incense burner
+   - Beautiful architecture and atmosphere
+   - 15-20 minutes
+5. **Asakusa Shrine** ⭐⭐ - Shinto shrine adjacent to Buddhist temple
+   - Smaller but historically significant
+   - Optional if time is tight
+   - 10 minutes
+6. **Sumida Park** ⭐ - Riverside park along Sumida River
+   - **Skip or very brief** - low impact compared to temple complex
+   - Only worthwhile if: weather is unusually pleasant, you finish temple early, girls need a break from crowds
+   - Better use of time: more Nakamise shopping or earlier lunch
+   - 15-20 minutes if included
+
+**Total Asakusa time:** 1.5-2 hours (without Sumida Park), 2-2.5 hours (with park)
+
+### Late Morning/Midday
+- Stay in Asakusa for lunch before heat peaks
+- **Best lunch options:**
+  - **Tempura** ⭐⭐⭐ - Asakusa specialty, light and crispy
+  - **Tendon** ⭐⭐⭐ - Tempura over rice, filling and delicious
+  - **Soba** ⭐⭐ - Cold soba perfect for summer
+  - **Unagi** ⭐⭐⭐ - Grilled eel, Asakusa has excellent options
 
 ### Afternoon
-- Stay in Asakusa for lunch
-- Good lunch styles:
-  - Tempura
-  - Soba
-  - Tendon
-  - Unagi
-- Keep the hottest hours light with dessert, shaded browsing, or a short hotel break
+- Return to hotel or stay in covered/air-conditioned areas during peak heat (12-3 PM)
+- Options:
+  - Hotel rest break (recommended after Day 1 arrival)
+  - Browse covered shopping arcades near Asakusa
+  - Indoor café with matcha desserts or kakigori
+  - Early departure to Ginza for air-conditioned shopping
 
-### Late afternoon and evening
-- Return to Ginza
-- More shopping at UNIQLO Ginza and GU Ginza
-- Have dinner in between shopping
-- Good Ginza dinner styles:
-  - Tonkatsu
-  - Udon
-  - Sushi
-  - Omurice
-- Optional dessert after dinner at Mitsukoshi Ginza depachika
+### Late afternoon and evening - Ginza
+- Head to Ginza when temperatures drop (after 4-5 PM)
+- **UNIQLO Ginza** - flagship store, great for family shopping
+- **GU Ginza** - affordable fashion, adjacent to UNIQLO
+- Dinner between shopping sessions
+- **Best Ginza dinner options:**
+  - **Tonkatsu** ⭐⭐⭐ - Breaded pork cutlet, Japanese comfort food
+  - **Udon** ⭐⭐ - Hearty noodles, good for kids
+  - **Sushi** ⭐⭐⭐ - Ginza has excellent options at various price points
+  - **Omurice** ⭐⭐ - Omelet over rice, kid-friendly
+- **Mitsukoshi Ginza depachika** - basement food hall, perfect for dessert or snacks
+  - Japanese pudding, fruit sandos, wagashi, seasonal sweets
 
 ### Food focus
-- In Asakusa, try ningyo-yaki, senbei, matcha sweets, and temple-street snacks
-- In Ginza, use depachika and Japanese casual dining instead of international food
+- **Asakusa:** ningyo-yaki (small cakes), senbei (rice crackers), matcha sweets, temple-street snacks, tempura/tendon
+- **Ginza:** depachika treasures, Japanese pudding, fruit sandos, tonkatsu, sushi
 
 ### Transportation
-- Hotel or Ginza to Asakusa: Tokyo Metro Ginza Line direct or Toei Asakusa Line
-- In Asakusa: walk
-- Asakusa to Ginza: Tokyo Metro Ginza Line direct
-- In Ginza: walk
+- Hotel or Ginza to Asakusa: **Tokyo Metro Ginza Line direct** (most efficient) or Toei Asakusa Line
+- In Asakusa: walk (all attractions within 10-minute walk)
+- Asakusa to Ginza: **Tokyo Metro Ginza Line direct** (15-20 minutes, no transfers)
+- In Ginza: walk (compact shopping district)
+
+### Efficiency notes
+- **Removed Meiji Shrine** - saves 1.5-2 hours of travel time, eliminates backtracking
+- **Sumida Park downgraded** - low impact, better to spend time on temple complex or rest
+- **Direct Ginza Line** between Asakusa and Ginza - no transfers, very efficient
+- **Afternoon rest period** - important after Day 1 arrival, helps manage jet lag and summer heat
+- **Total travel time:** ~30-40 minutes for the day vs. 2+ hours with Meiji Shrine
+
+### Attraction ratings explained
+⭐⭐⭐ = Must-see, high impact, worth prioritizing
+⭐⭐ = Good but optional if time is tight
+⭐ = Low priority, skip if needed
 
 ---
 
@@ -190,15 +233,20 @@ Summer strategy: outdoor sightseeing in the morning and evening, indoor activiti
 
 ---
 
-## Tuesday, July 22 — teamLab Kyoto + central Kyoto
+## Tuesday, July 22 — Fushimi Inari early morning, teamLab Kyoto, central Kyoto
 
 ### Morning
-- teamLab Kyoto as the main indoor feature of the day
-- This uses the cooler morning for transit and lets you stay mostly indoors before peak heat
+- Early start to Fushimi Inari Shrine before the heat and crowds build
+- Walk through the iconic torii gate tunnels
+- Go as far up the mountain as energy allows, but don't feel pressured to reach the summit
+- Best strategy: enjoy the lower gates and turn back when it gets too hot or crowded
+- Return to central Kyoto by late morning
 
 ### Afternoon
-- Lunch near the venue or in central Kyoto
-- Continue with Nishiki Market or nearby covered shopping streets
+- teamLab Kyoto as the main indoor feature of the afternoon
+- This keeps you indoors during peak heat
+- Lunch before or after teamLab, near the venue or in central Kyoto
+- If time allows, visit Nishiki Market or nearby covered shopping streets
 - Use cafés and department-store style breaks to stay out of the heat
 
 ### Evening
@@ -206,11 +254,14 @@ Summer strategy: outdoor sightseeing in the morning and evening, indoor activiti
 - Keep the evening flexible and easy before Osaka transfer next day
 
 ### Food focus
+- Near Fushimi Inari: inari-zushi (fried tofu sushi), traditional sweets, matcha
 - Near teamLab/central Kyoto: katsu, soba, curry rice, omurice, parfaits
 - At Nishiki Market: tamagoyaki, skewers, sesame sweets, mochi, pickles
 
 ### Transportation
-- Hotel to teamLab Kyoto: taxi preferred, or subway/bus depending on exact venue
+- Hotel to Fushimi Inari: JR Nara Line to Inari Station (5 min walk to shrine) or Keihan Line to Fushimi-Inari Station
+- Fushimi Inari back to central Kyoto: JR Nara Line or Keihan Line
+- Central Kyoto to teamLab Kyoto: taxi preferred, or subway/bus depending on exact venue
 - teamLab to central Kyoto/Nishiki: taxi or subway/bus
 - Downtown to hotel: taxi, subway, or bus
 
@@ -242,24 +293,204 @@ Summer strategy: outdoor sightseeing in the morning and evening, indoor activiti
 
 ## Osaka and Nara
 
-## Thursday, July 24 — Osaka market and food streets
+## Thursday, July 24 — Universal Studios Japan
 
-### Morning
-- Kuromon Market
+### Planning assumptions
+- Family of 4 with 2 girls, ages 10 and 13
+- You plan to buy Express Pass where useful
+- Goal: prioritize highest-value attractions early, reduce walking, and use indoor areas during peak heat
 
-### Afternoon
-- Covered arcades in Namba and Shinsaibashi
+### Best overall strategy
+- Morning: hardest-to-get rides and newest attractions
+- Afternoon: coolest indoor areas and shows
+- Evening: favorite repeats, scenic rides, and nighttime atmosphere
 
-### Evening
-- Dotonbori
+### Best ride and area flow
+
+#### 1. Super Nintendo World first
+Make Super Nintendo World your first priority in the app and in your physical route.
+
+Best order inside Super Nintendo World:
+1. Mario Kart: Koopa's Challenge
+2. Yoshi's Adventure
+3. Power-Up Band activities and photo opportunities
+
+Why first:
+- highest demand area in the entire park
+- requires timed entry or Express Pass
+- best experienced while energy is high
+- avoids risking later access problems
+
+#### 2. The Wizarding World of Harry Potter next
+After Super Nintendo World, move to Harry Potter area.
+
+Top priorities:
+- Harry Potter and the Forbidden Journey
+- Flight of the Hippogriff
+
+Why now:
+- second-highest demand area
+- immersive themed land perfect for your daughters' ages
+- best done early or through Express Pass
+- allows time to explore Hogsmeade village
+
+#### 3. Minion Park after that
+Continue next into Minion Park.
+
+Top priority:
+- Minion Mayhem
+
+Why this works:
+- popular family attraction
+- indoor and air-conditioned
+- good transition before midday heat
+
+#### 4. Hollywood area before midday
+Move next into Hollywood area.
+
+Top priorities:
+- Hollywood Dream: The Ride (if both girls enjoy coasters)
+- Space Fantasy: The Ride
+
+Why here:
+- helps you finish major thrill rides before the worst heat
+- Space Fantasy is indoor and unique
+
+### Midday heat and rest plan
+
+#### 5. Lunch and cooling break
+Around late morning or early afternoon:
+- have lunch indoors or in strong shade
+- avoid committing to another long exposed outdoor line
+- use this block to rest and reset
+
+#### 6. Indoor attractions block
+After lunch, focus on indoor experiences.
+
+Best attractions:
+- Sing on Tour
+- Sesame Street 4-D Movie Magic
+- Shrek's 4-D Adventure
+
+Why this is ideal:
+- all indoor and air-conditioned
+- visually fun for kids
+- low-stress area for cooling down
+- good place for gentler attractions and rest
+
+#### 7. Water-based attractions
+If it's very hot, consider:
+- Jurassic Park: The Ride (expect to get wet)
+
+Best use:
+- cooling off during the hottest part of the day
+- fun experience that doubles as heat relief
+
+### Evening plan
+
+#### 8. Return to headline rides or favorites
+Once temperatures drop, move back toward major attractions.
+
+Best evening choices:
+- repeat favorite ride from earlier
+- Harry Potter area at night (beautiful lighting)
+- Hollywood Dream: The Ride at night
+- Any missed priority attractions
+
+Why evening is good:
+- cooler weather
+- better atmosphere
+- sometimes improved waits
+- Harry Potter area is especially magical at night
+
+#### 9. End with nighttime entertainment
+Finish the night with shows or parades if scheduled.
+
+Best reasons:
+- easier emotional finish than one more stressful queue
+- great photo opportunities
+- memorable way to end the day
+
+### Best Express Pass priorities
+1. Mario Kart: Koopa's Challenge
+2. Harry Potter and the Forbidden Journey
+3. Minion Mayhem
+4. Hollywood Dream: The Ride
+5. Space Fantasy: The Ride
+
+If one is unavailable:
+- use Flight of the Hippogriff
+- or Jurassic Park: The Ride
+
+### Best attractions for your daughters
+Most likely favorites:
+- Mario Kart: Koopa's Challenge
+- Yoshi's Adventure
+- Harry Potter and the Forbidden Journey
+- Flight of the Hippogriff
+- Minion Mayhem
+- Sing on Tour
+- Space Fantasy: The Ride
+
+Good if they enjoy some thrills:
+- Hollywood Dream: The Ride
+- Jurassic Park: The Ride
+
+Probably skip unless they specifically want something intense:
+- The Flying Dinosaur (very intense coaster)
+- Hollywood Dream: The Ride - Backdrop (reverse version)
+
+### Best things to skip if time gets tight
+- The Flying Dinosaur
+- Backdrop version of Hollywood Dream
+- extra backtracking just for a moderate attraction
+- outdoor lines during the hottest part of the day
+- attractions with very long waits that don't match your daughters' interests
+
+### Practical full route summary
+- Arrive early
+- Super Nintendo World (Mario Kart, Yoshi's Adventure)
+- The Wizarding World of Harry Potter (Forbidden Journey, Flight of the Hippogriff, explore Hogsmeade)
+- Minion Mayhem
+- Hollywood Dream or Space Fantasy
+- lunch
+- Sing on Tour
+- Sesame Street 4-D Movie Magic
+- Shrek's 4-D Adventure
+- Jurassic Park: The Ride if hot
+- Harry Potter area at night
+- nighttime entertainment if scheduled
+
+### Show and parade strategy
+- Check the daily schedule upon arrival
+- Best heat-efficient shows/indoor attractions:
+  - Sing on Tour
+  - Sesame Street 4-D Movie Magic
+  - Shrek's 4-D Adventure
+  - WaterWorld (outdoor but shaded seating available)
+- Only do one or two shows total so the day does not become too schedule-heavy
+
+### Snack and meal strategy
+- Best snack targets:
+  - Butterbeer in Harry Potter area
+  - Mario-themed snacks in Super Nintendo World
+  - Minion popcorn buckets
+  - Turkey legs
+  - Churros
+- Lunch:
+  - Three Broomsticks in Harry Potter area
+  - Minion-themed restaurants
+  - Any indoor restaurant with air conditioning
+- Dinner:
+  - Eat before peak rush if possible
+  - Consider eating in the park or nearby Universal CityWalk
 
 ### Food focus
-- Grilled scallops, wagyu skewers, fruit cups, takoyaki, melon pan ice cream
-- Dinner as okonomiyaki or kushikatsu
+- Butterbeer, Mario-themed foods, Minion snacks, turkey legs, Japanese-style theme park foods
 
 ### Transportation
-- To Kuromon Market: Osaka Metro Sennichimae Line or Sakaisuji Line
-- Walk between Kuromon, Namba, Shinsaibashi, and Dotonbori
+- Hotel to Universal Studios Japan: JR Yumesaki Line to Universal City Station (2-minute walk to park entrance)
+- Alternative: Osaka Metro to Nishikujo, then JR Yumesaki Line
 
 ---
 
