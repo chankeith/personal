@@ -212,9 +212,9 @@ Book ALL of these on the same day when the 3-month booking window opens:
 
 ---
 
-## Friday, July 18 — Tsukiji, Imperial Palace, teamLab Borderless, Tokyo Tower
+## Friday, July 18 — Tsukiji, Hamarikyu Gardens, Imperial Palace, teamLab Borderless, Ginza
 
-### Early Morning - Tsukiji Area
+### Early Morning - Tsukiji Area (7:00-9:00 AM)
 - **Tsukiji Outer Market** ⭐⭐⭐ - Famous food market
   - Arrive early (7-8 AM) for best selection and freshness
   - Browse fresh seafood, street food, kitchen supplies
@@ -229,27 +229,87 @@ Book ALL of these on the same day when the 3-month booking window opens:
 
 **Total Tsukiji time:** 1.5-2 hours
 
-### Late Morning
-- Walk or short taxi to Imperial Palace East Gardens area
-- Enjoy a relaxed outdoor walk before the heat builds
-- 30-45 minutes
+### Morning - Hamarikyu Gardens (9:00-10:00 AM)
+- **Hamarikyu Gardens** ⭐⭐⭐ - Traditional Japanese garden
+  - 5-minute walk from Tsukiji
+  - Beautiful tidal pond garden with teahouse
+  - Seasonal flowers and traditional landscaping
+  - Peaceful oasis in the city
+  - Optional: Matcha tea at Nakajima-no-Ochaya teahouse
+  - 45-60 minutes
+  - Perfect transition between market and palace
 
-### Afternoon
-- Move indoors to teamLab Borderless
-- Have lunch in the Azabudai Hills area before or after the exhibit (or eat more at Tsukiji if still hungry)
+**Total Hamarikyu time:** 1 hour
 
-### Evening
-- Head to Tokyo Tower in the late afternoon or near sunset
-- Have dinner nearby
+### Late Morning - Imperial Palace Area (10:00-11:00 AM)
+- **Imperial Palace** (1-1 Chiyoda, Chiyoda City, Tokyo)
+  - Imperial Palace East Gardens - beautiful traditional gardens
+  - Walk along palace grounds
+  - 30-45 minutes
+- **Shimo-dokanbori Moat** - Scenic moat surrounding palace
+  - Photo opportunity
+  - 10 minutes
+- **Sakurada-mon Gate** ⭐⭐ - Historic gate
+  - One of the original gates of Edo Castle
+  - Quick photo stop
+  - 5-10 minutes
+
+**Total Imperial Palace time:** 1 hour
+
+### Afternoon - teamLab Borderless (12:00-3:00 PM)
+- **teamLab Borderless: MORI Building DIGITAL ART MUSEUM** ⭐⭐⭐
+  - Location: Azabudai Hills Garden Plaza B, B1 (Toranomon, 5 Chome-9)
+  - Immersive digital art experience
+  - Plan 2-3 hours to fully explore
+  - Book timed entry tickets in advance
+- **Lunch at Azabudai Hills Garden Plaza B**
+  - Multiple dining options in the complex
+  - Convenient location before or after teamLab
+  - Japanese, international, cafés available
+
+### Late Afternoon - Ginza Shopping (3:30-6:00 PM)
+- Return to Ginza for shopping
+- **UNIQLO Ginza** - Flagship store (if not fully explored on Day 1)
+- **Ginza Six** - Luxury shopping mall with rooftop garden
+- **Mitsukoshi Ginza depachika** - Basement food hall
+- Other Ginza boutiques and department stores
+- Relaxed café break if needed
+
+### Evening (6:00-8:00 PM)
+- Dinner in Ginza
+- Return to hotel
 
 ### Food focus
-- Near Azabudai Hills: soba, tonkatsu, Japanese curry, or teishoku
-- Near Tokyo Tower: tempura, ramen, sukiyaki, or grilled set meals
+- **Breakfast:** Tsukiji Outer Market - fresh seafood, tamagoyaki, street food
+- **Optional:** Matcha tea at Hamarikyu Gardens teahouse
+- **Lunch:** Azabudai Hills Garden Plaza B - variety of Japanese and international options
+- **Dinner:** Ginza - tonkatsu, sushi, tempura, or Japanese set meals
 
-### Transportation
-- Hotel or Ginza to Imperial Palace: taxi, or Tokyo Metro Marunouchi Line to Otemachi or Tokyo Station area then walk
-- Imperial Palace to teamLab Borderless: taxi preferred
-- teamLab Borderless to Tokyo Tower: taxi preferred
+### Transportation - Optimized Linear Route
+- Hotel to Tsukiji: Tokyo Metro Hibiya Line or taxi (10-15 min)
+- Tsukiji to Hamarikyu Gardens: **5-minute walk** ✅
+- Hamarikyu to Imperial Palace: Walk (20 min) or taxi (10 min)
+- Imperial Palace to teamLab (Azabudai Hills): Taxi (15 min) or Tokyo Metro
+- Azabudai Hills to Ginza: Taxi (10 min) or Tokyo Metro Hibiya Line
+- Ginza to hotel: **Walk (5-10 min)** ✅
+
+**Total travel time for day:** ~45 minutes (very efficient!)
+
+### Day 3 Tips
+- **Book teamLab tickets in advance** - timed entry required
+- **Start early at Tsukiji** - best selection and fewer crowds
+- **Hamarikyu Gardens** - perfect peaceful break between market bustle and palace
+- **Imperial Palace** - outdoor portion best done before midday heat
+- **teamLab** - perfect indoor activity during hottest part of day (12-3 PM)
+- **Ginza shopping** - late afternoon when it's cooler
+- **Linear route** - no backtracking, each stop flows naturally to the next
+
+### Why This Route Works
+✅ **Geographic efficiency:** Tsukiji → Hamarikyu (5 min walk) → Imperial Palace (20 min) → teamLab (15 min) → Ginza (10 min)
+✅ **Activity balance:** Market energy → Garden calm → Palace history → Digital art → Shopping
+✅ **Heat management:** Outdoor activities morning, indoor afternoon, shopping late afternoon
+✅ **Cultural variety:** Traditional gardens + modern art in one day
+✅ **No wasted time:** Minimal travel, maximum experience
 
 ---
 
