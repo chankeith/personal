@@ -1,10 +1,21 @@
 # Japan Family Itinerary
 
-Family of 4: 2 adults and 2 girls, ages 10 and 13  
-Trip style: classic first-time Japan, great food, some shopping, balanced pace  
+Family of 4: 2 adults and 2 girls, ages 10 and 13
+Trip style: classic first-time Japan, great food, some shopping, balanced pace
 Summer strategy: outdoor sightseeing in the morning and evening, indoor activities and breaks in the afternoon
 
+## Table of Contents
+- [Tokyo Arrival and First Stay](#tokyo-arrival-and-first-stay)
+- [Hakone](#hakone)
+- [Kyoto](#kyoto)
+- [Osaka and Nara](#osaka-and-nara)
+- [Tokyo Disney Resort Stay](#tokyo-disney-resort-stay)
+- [Tokyo Final Stay](#tokyo-final-stay)
+- [Departure](#departure)
+
 ---
+
+## Tokyo Arrival and First Stay
 
 ## Wednesday, July 16 — Arrive in Tokyo, evening in Ginza
 
@@ -102,6 +113,8 @@ Summer strategy: outdoor sightseeing in the morning and evening, indoor activiti
 
 ---
 
+## Hakone
+
 ## Saturday, July 19 — Travel to Hakone
 
 ### Morning
@@ -122,6 +135,8 @@ Summer strategy: outdoor sightseeing in the morning and evening, indoor activiti
 - Local bus, ropeway, or taxi in Hakone
 
 ---
+
+## Kyoto
 
 ## Sunday, July 20 — Hakone to Kyoto
 
@@ -144,6 +159,8 @@ Summer strategy: outdoor sightseeing in the morning and evening, indoor activiti
 - Kyoto Station to hotel: taxi
 
 ---
+
+## Kyoto
 
 ## Monday, July 21 — Arashiyama morning, Gion evening
 
@@ -199,6 +216,8 @@ Summer strategy: outdoor sightseeing in the morning and evening, indoor activiti
 
 ---
 
+## Osaka and Nara
+
 ## Wednesday, July 23 — Travel to Osaka
 
 ### Morning
@@ -220,6 +239,8 @@ Summer strategy: outdoor sightseeing in the morning and evening, indoor activiti
 - Umeda to Namba: Osaka Metro Midosuji Line
 
 ---
+
+## Osaka and Nara
 
 ## Thursday, July 24 — Osaka market and food streets
 
@@ -315,6 +336,8 @@ Summer strategy: outdoor sightseeing in the morning and evening, indoor activiti
   - More walking through the park and garden areas
 
 ---
+
+## Tokyo Disney Resort Stay
 
 ## Saturday, July 26 — Osaka to Tokyo, then Disney Celebration Hotel
 
