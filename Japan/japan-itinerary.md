@@ -5,13 +5,32 @@ Trip style: classic first-time Japan, great food, some shopping, balanced pace
 Summer strategy: outdoor sightseeing in the morning and evening, indoor activities and breaks in the afternoon
 
 ## Table of Contents
-- [Tokyo Arrival and First Stay](#tokyo-arrival-and-first-stay)
-- [Hakone](#hakone)
-- [Kyoto](#kyoto)
-- [Osaka and Nara](#osaka-and-nara)
-- [Tokyo Disney Resort Stay](#tokyo-disney-resort-stay)
-- [Tokyo Final Stay](#tokyo-final-stay)
-- [Departure](#departure)
+- [Tokyo Arrival and First Stay (July 16-18)](#tokyo-arrival-and-first-stay)
+  - Day 1: July 16 - Arrive in Tokyo, evening in Ginza
+  - Day 2: July 17 - Asakusa morning, then Ginza evening
+  - Day 3: July 18 - Imperial Palace, teamLab Borderless, Tokyo Tower
+- [Hakone (July 19)](#hakone)
+  - Day 4: July 19 - Travel to Hakone
+- [Kyoto (July 20-22)](#kyoto)
+  - Day 5: July 20 - Hakone to Kyoto
+  - Day 6: July 21 - Arashiyama morning, Gion evening
+  - Day 7: July 22 - Fushimi Inari early morning, teamLab Kyoto, central Kyoto
+- [Osaka and Nara (July 23-25)](#osaka-and-nara)
+  - Day 8: July 23 - Travel to Osaka
+  - Day 9: July 24 - Universal Studios Japan
+  - Day 10: July 25 - Nara day trip
+- [Tokyo Disney Resort Stay (July 26-27)](#tokyo-disney-resort-stay)
+  - Day 11: July 26 - Osaka to Tokyo, then Disney Celebration Hotel
+  - Day 12: July 27 - Tokyo DisneySea
+- [Tokyo Final Stay (July 28-August 2)](#tokyo-final-stay)
+  - Day 13: July 28 - Check out Disney, move to Shibuya hotel
+  - Day 14: July 29 - Tokyo Station and Ginza
+  - Day 15: July 30 - Odaiba
+  - Day 16: July 31 - Flexible Tokyo family day
+  - Day 17: August 1 - Shibuya and Shinjuku revisit
+  - Day 18: August 2 - Last full day
+- [Departure (August 3)](#departure)
+  - Day 19: August 3 - Departure day
 
 ---
 
