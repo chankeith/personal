@@ -1398,6 +1398,8 @@ Probably skip unless they specifically want something intense:
 
 ---
 
+## Tokyo Final Stay
+
 ## Monday, July 28 — Check out Disney Celebration Hotel, then head to your Shibuya hotel
 
 **Hotel:** Shibuya hotel (TBD)
@@ -1630,6 +1632,8 @@ Probably skip unless they specifically want something intense:
 - Use Tokyo Metro subway for central neighborhoods
 
 ---
+
+## Departure
 
 ## Sunday, August 3 — Departure day
 
