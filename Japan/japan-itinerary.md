@@ -13,21 +13,21 @@ Summer strategy: outdoor sightseeing in the morning and evening, indoor activiti
 - [Hakone (July 19)](#hakone)
   - Day 4: July 19 - Travel to Hakone with Lake Ashi Cruise
 - [Kyoto (July 20-22)](#kyoto)
-  - Day 5: July 20 - Hakone to Kyoto
-  - Day 6: July 21 - Fushimi Inari early morning, Arashiyama, Gion evening
-  - Day 7: July 22 - Uji matcha experience, teamLab Kyoto, central Kyoto
+  - Day 5: July 20 - Hakone to Kyoto, Nishiki Market, Gion evening
+  - Day 6: July 21 - Fushimi Inari, Arashiyama, Golden Pavilion, Pontocho
+  - Day 7: July 22 - Kiyomizu-dera, Sannen-zaka/Ninen-zaka, Uji matcha, teamLab Kyoto
 - [Osaka and Nara (July 23-25)](#osaka-and-nara)
-  - Day 8: July 23 - Kyoto to Nara to Osaka (Nara stopover with luggage forwarding)
+  - Day 8: July 23 - Kyoto to Nara to Osaka (Nara stopover), Dotonbori food crawl
   - Day 9: July 24 - Universal Studios Japan
-  - Day 10: July 25 - Flexible Osaka day
+  - Day 10: July 25 - Flexible Osaka day (Castle, Shinsekai, Kuromon Market, or Umeda Sky)
 - [Tokyo Disney Resort Stay (July 26-27)](#tokyo-disney-resort-stay)
   - Day 11: July 26 - Osaka to Tokyo, then Disney Celebration Hotel
   - Day 12: July 27 - Tokyo DisneySea
 - [Tokyo Final Stay (July 28-August 2)](#tokyo-final-stay)
-  - Day 13: July 28 - Check out Disney, move to Shibuya hotel, Shibuya Crossing & Sky
-  - Day 14: July 29 - Tokyo Station and Ginza
-  - Day 15: July 30 - Odaiba
-  - Day 16: July 31 - Flexible Tokyo family day
+  - Day 13: July 28 - Check out Disney, Shibuya hotel, Harajuku, Shibuya Crossing & Sky
+  - Day 14: July 29 - Meiji Shrine, Tokyo Station, Ginza
+  - Day 15: July 30 - Sumida River/Skytree, Akihabara
+  - Day 16: July 31 - Flexible Tokyo family day (Odaiba, Kamakura, or relaxed day)
   - Day 17: August 1 - Shibuya and Shinjuku revisit
   - Day 18: August 2 - Last full day
 - [Departure (August 3)](#departure)
@@ -46,6 +46,8 @@ Summer strategy: outdoor sightseeing in the morning and evening, indoor activiti
 | **Shibuya Sky** | Day 13 (July 28) | **July 14, 2026** | [Shibuya Sky Official](https://www.shibuya-scramble-square.com/sky/) | MEDIUM | Opens ~2 weeks in advance; sunset slots fill quickly |
 | **Odakyu Romancecar** | Day 4 (July 19) | **June 19, 2026** | [Odakyu e-Romancecar](https://www.odakyu.jp/english/romancecar/) | MEDIUM | Reserved seating recommended for comfort |
 | **Shinkansen** | Days 5 & 11 | **June 20 & 26** | [JR East](https://www.jreast.co.jp/multi/en/) or [Klook](https://www.klook.com) | MEDIUM | Can buy on day but reserved seats may sell out |
+| **Tokyo Skytree** | Day 15 (July 30) | Day of or 1-2 days before | [Tokyo Skytree Official](https://www.tokyo-skytree.jp/en/) | OPTIONAL | Can buy tickets on-site; advance booking saves time |
+| **Umeda Sky Building** | Day 10 (July 25) | Day of or 1-2 days before | [Umeda Sky Building](https://www.kuchu-teien.com/en/) | OPTIONAL | Can buy tickets on-site; rarely sells out |
 | **Hakone Free Pass** | Day 4 (July 19) | Day of travel | [Odakyu Website](https://www.odakyu.jp/english/passes/hakone/) | LOW | Covers transportation + Lake Ashi cruise |
 
 ### Booking Timeline by Month:
