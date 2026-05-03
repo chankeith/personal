@@ -102,15 +102,24 @@ Book ALL of these on the same day when the 3-month booking window opens:
 - Transfer to Sotetsu Fresa Inn Ginza-Nanachome
 - Check in, shower, and rest briefly indoors
 
-### Evening
+### Evening (6:00-8:30 PM)
 - Head to Ginza
-- 6:00 PM noodle dinner option 1: Tokyo Abura Soba Ginza
-- Backup noodle option 2: Hanamaru Udon Ginza
-- Shopping at UNIQLO Ginza
-- Then browse GU Ginza
-- Dessert or snack stop:
-  - Mitsukoshi Ginza depachika
-  - Ginza Cozy Corner
+- **6:00 PM:** Dinner
+  - Option 1: Tokyo Abura Soba Ginza
+  - Option 2: Hanamaru Udon Ginza
+- **7:00-8:30 PM:** Shopping (before stores close at 8:00-9:00 PM)
+  - **UNIQLO Ginza** (closes 9:00 PM)
+  - **GU Ginza** (closes 9:00 PM)
+  - **Department stores** (close 8:00 PM): Mitsukoshi, Matsuya, Wako
+- **Dessert or late snack:**
+  - Mitsukoshi Ginza depachika (closes 8:00 PM)
+  - Ginza Cozy Corner (closes 9:00 PM)
+  - Convenience stores (24/7) for late-night snacks
+
+**⏰ Shopping Hours Note:**
+- Most Ginza department stores close at 8:00 PM
+- UNIQLO and GU stay open until 9:00 PM
+- Plan shopping before 8:00 PM to maximize options
 
 ### Food focus
 - Try Japanese pudding, fruit sandos, melon pan, dorayaki, or seasonal wagashi
