@@ -200,18 +200,18 @@ Book ALL of these on the same day when the 3-month booking window opens:
   - Indoor café with matcha desserts or kakigori
   - Early departure to Ginza for air-conditioned shopping
 
-### Late Afternoon and Evening - Ginza (4:00-8:30 PM)
-- **4:00-5:00 PM:** Head to Ginza when temperatures drop
-- **5:00-6:30 PM:** Dinner (eat before shopping to maximize time)
+### Late Afternoon and Evening - Ginza
+- Head to Ginza when temperatures drop
+- Dinner (eat before shopping to maximize time)
   - **Tonkatsu** ⭐⭐⭐ - Breaded pork cutlet, Japanese comfort food
   - **Udon** ⭐⭐ - Hearty noodles, good for kids
   - **Sushi** ⭐⭐⭐ - Ginza has excellent options at various price points
   - **Omurice** ⭐⭐ - Omelet over rice, kid-friendly
-- **6:30-8:00 PM:** Shopping (before department stores close)
+- Shopping (before department stores close)
   - **UNIQLO Ginza** (closes 9:00 PM) - flagship store, great for family shopping
   - **GU Ginza** (closes 9:00 PM) - affordable fashion, adjacent to UNIQLO
   - **Department stores** (close 8:00 PM): Mitsukoshi, Matsuya, Wako
-- **8:00-8:30 PM:** Dessert or late snack
+- Dessert or late snack
   - **Mitsukoshi Ginza depachika** (closes 8:00 PM) - basement food hall
   - Japanese pudding, fruit sandos, wagashi, seasonal sweets
   - Convenience stores (24/7) if depachika is closed
@@ -249,7 +249,7 @@ Book ALL of these on the same day when the 3-month booking window opens:
 
 **Hotel:** Sotetsu Fresa Inn Ginza-Nanachome
 
-### Early Morning - Tsukiji Area (7:00-9:00 AM)
+### Early Morning - Tsukiji Area
 - **Tsukiji Outer Market** ⭐⭐⭐ - Famous food market
   - Arrive early (7-8 AM) for best selection and freshness
   - Browse fresh seafood, street food, kitchen supplies
@@ -264,7 +264,7 @@ Book ALL of these on the same day when the 3-month booking window opens:
 
 **Total Tsukiji time:** 1.5-2 hours
 
-### Morning - Hamarikyu Gardens (9:00-10:00 AM)
+### Morning - Hamarikyu Gardens
 - **Hamarikyu Gardens** ⭐⭐⭐ - Traditional Japanese garden
   - 5-minute walk from Tsukiji
   - Beautiful tidal pond garden with teahouse
@@ -276,7 +276,7 @@ Book ALL of these on the same day when the 3-month booking window opens:
 
 **Total Hamarikyu time:** 1 hour
 
-### Late Morning - Imperial Palace Area (10:00-11:00 AM)
+### Late Morning - Imperial Palace Area
 - **Imperial Palace** (1-1 Chiyoda, Chiyoda City, Tokyo)
   - Imperial Palace East Gardens - beautiful traditional gardens
   - Walk along palace grounds
@@ -291,7 +291,7 @@ Book ALL of these on the same day when the 3-month booking window opens:
 
 **Total Imperial Palace time:** 1 hour
 
-### Afternoon - teamLab Borderless (12:00-3:00 PM)
+### Afternoon - teamLab Borderless
 - **teamLab Borderless: MORI Building DIGITAL ART MUSEUM** ⭐⭐⭐
   - Location: Azabudai Hills Garden Plaza B, B1 (Toranomon, 5 Chome-9)
   - Immersive digital art experience
@@ -302,7 +302,7 @@ Book ALL of these on the same day when the 3-month booking window opens:
   - Convenient location before or after teamLab
   - Japanese, international, cafés available
 
-### Late Afternoon - Ginza Shopping (3:30-6:00 PM)
+### Late Afternoon - Ginza Shopping
 - Return to Ginza for shopping
 - **UNIQLO Ginza** - Flagship store (if not fully explored on Day 1)
 - **Ginza Six** - Luxury shopping mall with rooftop garden
@@ -310,7 +310,7 @@ Book ALL of these on the same day when the 3-month booking window opens:
 - Other Ginza boutiques and department stores
 - Relaxed café break if needed
 
-### Evening (6:00-8:00 PM)
+### Evening
 - Dinner in Ginza
 - Return to hotel
 
@@ -411,7 +411,7 @@ Book ALL of these on the same day when the 3-month booking window opens:
   - **Why skip:** Information centers are low priority when you have limited time; focus on actual sights
 
 ### Evening
-- Check in to Hakone Kowakien Mikawaya Ryokan (by 5:00-6:00 PM)
+- Check in to Hakone Kowakien Mikawaya Ryokan
 - Onsen experience at ryokan
 - Traditional kaiseki dinner at ryokan
 
@@ -438,7 +438,7 @@ Book ALL of these on the same day when the 3-month booking window opens:
 - **Start early** - This is a full day with multiple stops
 - **Weather dependent** - Mt. Fuji views and ropeway operations depend on weather
 - **Flexible timing** - Recommended to skip Open-Air Museum, Owakudani Info Center, Carved Buddha, and Visitor Center to make day more manageable
-- **Check-in time** - Ryokan check-in usually 3:00-6:00 PM, aim for 5:00-6:00 PM after sightseeing
+- **Check-in time** - Ryokan check-in usually 3:00-6:00 PM, aim for late afternoon after sightseeing
 - **Luggage strategy (RECOMMENDED):**
   - **Option 1:** Forward large bags from Tokyo hotel directly to Kyoto hotel (arrives next day)
   - **Option 2:** Use coin lockers at Hakone-Yumoto station
@@ -468,14 +468,14 @@ Book ALL of these on the same day when the 3-month booking window opens:
 - Less exhaustion before Kyoto next day
 
 **Revised Timeline:**
-- 10:30 AM: Arrive Hakone-Yumoto
-- 11:00 AM: Start cable car/ropeway journey
-- 12:00 PM: Owakudani (black eggs + views)
-- 1:30 PM: Pirate ship cruise
-- 2:30 PM: Hakone Shrine + Torii Gate
-- 4:00 PM: Check in to ryokan
-- 4:30 PM: Onsen time
-- 6:00 PM: Kaiseki dinner
+- Late morning: Arrive Hakone-Yumoto
+- Start cable car/ropeway journey
+- Midday: Owakudani (black eggs + views)
+- Early afternoon: Pirate ship cruise
+- Afternoon: Hakone Shrine + Torii Gate
+- Late afternoon: Check in to ryokan
+- Onsen time
+- Evening: Kaiseki dinner
 
 ---
 
@@ -627,12 +627,12 @@ Book ALL of these on the same day when the 3-month booking window opens:
 **Hotel:** Hotel Gran Ms Kyoto (Near Nishiki Market) - recommended
 
 ### Early Morning - Fushimi Inari
-- **Fushimi Inari Shrine** ⭐⭐⭐ - Start very early (7:00-7:30 AM arrival)
+- **Fushimi Inari Shrine** ⭐⭐⭐ - Start very early
 - Walk through the iconic torii gate tunnels before crowds and heat
 - Go as far up the mountain as energy allows
 - Best strategy: enjoy the lower and middle gates, turn back when it gets crowded or hot
 - **Time needed:** 1.5-2 hours
-- Return by 9:00-9:30 AM
+- Return by mid-morning
 
 ### Late Morning - Arashiyama
 - Travel to Arashiyama (30-40 minutes from Fushimi Inari)
@@ -694,7 +694,7 @@ Book ALL of these on the same day when the 3-month booking window opens:
   - UNESCO World Heritage site
   - Stunning wooden stage with panoramic city views
   - Beautiful temple complex and grounds
-  - **Best timing:** Arrive at opening (6:00 AM in summer)
+  - **Best timing:** Arrive at opening (early morning)
   - **Time needed:** 60-90 minutes
 
 - **Sannen-zaka (Sannenzaka)** ⭐⭐⭐ - Charming sloped street
@@ -707,7 +707,7 @@ Book ALL of these on the same day when the 3-month booking window opens:
   - Stone-paved slopes with traditional atmosphere
   - **Combined time for both streets:** 45-60 minutes
 
-**Total morning time:** 2-2.5 hours (complete by 9:00-9:30 AM)
+**Total morning time:** 2-2.5 hours (complete by mid-morning)
 
 ### Mid-Morning - Uji Matcha Experience
 - Travel to Uji from Kyoto Station (20-25 minutes via JR Nara Line)
@@ -722,7 +722,7 @@ Book ALL of these on the same day when the 3-month booking window opens:
   - 45-60 minutes
 - **Uji River walk** - Brief stroll along scenic river if time permits
 
-**Total Uji time:** 1.5-2 hours (complete by 12:00-12:30 PM)
+**Total Uji time:** 1.5-2 hours (complete by midday)
 
 ### Afternoon - teamLab Kyoto
 - Return to central Kyoto
@@ -781,32 +781,32 @@ Book ALL of these on the same day when the 3-month booking window opens:
 ## Wednesday, July 23 — Kyoto to Nara to Osaka (Nara Stopover)
 
 ### Morning in Kyoto
-- **8:00 AM:** Arrange luggage forwarding service (takkyubin) at hotel
+- Arrange luggage forwarding service (takkyubin) at hotel early in the morning
   - Send all large bags directly to Osaka hotel
   - Cost: ~¥2,000-2,500 per bag
   - Bags arrive same day (late afternoon/evening) or next morning
   - Keep only day bags with essentials
-- **9:00 AM:** Check out from Kyoto hotel
-- **9:30 AM:** Depart for Nara via Kintetsu Line
+- Check out from Kyoto hotel
+- Depart for Nara via Kintetsu Line
 
 ### Mid-Morning to Early Afternoon in Nara
-- **10:00 AM:** Arrive Kintetsu Nara Station
-- **10:15 AM - 12:30 PM:** Nara Park and Todai-ji
+- Arrive Kintetsu Nara Station
+- Nara Park and Todai-ji
   - **Nara Park** ⭐⭐⭐ - Feed and photograph the famous deer
   - **Todai-ji Temple** ⭐⭐⭐ - Giant Buddha statue, one of Japan's most iconic temples
   - Walk through the park, enjoy the open space
   - Perfect for kids - interactive deer experience
-- **12:30 PM - 1:30 PM:** Lunch in Nara
+- Lunch in Nara
   - Udon, soba, curry rice, or traditional Japanese set meals
   - Try kakinoha-zushi (persimmon leaf sushi) - Nara specialty
-- **1:30 PM:** Depart Nara for Osaka
+- Depart Nara for Osaka
 
 ### Afternoon in Osaka
-- **2:00 PM:** Arrive Osaka (Namba area)
-- **2:30 PM:** Check in to hotel
+- Arrive Osaka (Namba area)
+- Check in to hotel
   - Luggage will arrive later today or tomorrow morning
   - Relax and refresh after travel
-- **3:00 PM - 5:00 PM:** Explore Umeda area
+- Afternoon: Explore Umeda area
   - Indoor time in department stores
   - Depachika (basement food halls)
   - Air-conditioned shopping and browsing
@@ -1166,16 +1166,16 @@ Probably skip unless they specifically want something intense:
 ## Saturday, July 26 — Osaka to Tokyo, then Disney Celebration Hotel
 
 ### Morning in Osaka
-- **8:00 AM:** Arrange luggage forwarding at hotel
+- Arrange luggage forwarding at hotel early in the morning
   - Send large bags from Osaka hotel → Final Tokyo hotel (Shibuya area)
   - Bags will arrive July 28 or 29
   - Cost: ~¥2,000-2,500 per bag
   - Keep only Disney overnight bags (2 nights at Disney Celebration Hotel)
-- **9:00 AM:** Check out from Osaka hotel
-- **9:30-10:00 AM:** Depart for Tokyo via Shinkansen
+- Check out from Osaka hotel
+- Depart for Tokyo via Shinkansen (mid-morning)
 
 ### Afternoon in Tokyo
-- **12:00-1:00 PM:** Arrive Tokyo Station
+- Arrive Tokyo Station (early afternoon)
 - Light stop in central Tokyo after arrival, ideally around Tokyo Station or Ginza
 - Use this time for lunch, snacks, depachika browsing, and indoor rest
 
@@ -1423,10 +1423,10 @@ Probably skip unless they specifically want something intense:
   - Located on top of Shibuya Scramble Square (floors 45-46 and rooftop)
   - 360-degree panoramic views of Tokyo
   - See Shibuya Crossing from above
-  - Perfect for sunset views (around 6:30-7:00 PM in summer)
+  - Perfect for sunset views
   - Indoor and outdoor observation areas
   - 45-60 minutes
-- **Timing:** Arrive at Shibuya Crossing around 5:30-6:00 PM, then go up to Shibuya Sky for sunset
+- **Timing:** Arrive at Shibuya Crossing in late afternoon, then go up to Shibuya Sky for sunset
 
 ### Evening
 - Dinner near Shibuya after Sky experience
