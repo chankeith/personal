@@ -14,12 +14,12 @@ Summer strategy: outdoor sightseeing in the morning and evening, indoor activiti
   - Day 4: July 19 - Travel to Hakone with Lake Ashi Cruise
 - [Kyoto (July 20-22)](#kyoto)
   - Day 5: July 20 - Hakone to Kyoto
-  - Day 6: July 21 - Arashiyama morning, Gion evening
-  - Day 7: July 22 - Fushimi Inari, Uji matcha experience, teamLab Kyoto, central Kyoto
+  - Day 6: July 21 - Fushimi Inari early morning, Arashiyama, Gion evening
+  - Day 7: July 22 - Uji matcha experience, teamLab Kyoto, central Kyoto
 - [Osaka and Nara (July 23-25)](#osaka-and-nara)
-  - Day 8: July 23 - Travel to Osaka
+  - Day 8: July 23 - Kyoto to Nara to Osaka (Nara stopover with luggage forwarding)
   - Day 9: July 24 - Universal Studios Japan
-  - Day 10: July 25 - Nara day trip
+  - Day 10: July 25 - Flexible Osaka day
 - [Tokyo Disney Resort Stay (July 26-27)](#tokyo-disney-resort-stay)
   - Day 11: July 26 - Osaka to Tokyo, then Disney Celebration Hotel
   - Day 12: July 27 - Tokyo DisneySea
@@ -321,6 +321,12 @@ Book ALL of these on the same day when the 3-month booking window opens:
 
 ### Morning
 - Breakfast and check out from Sotetsu Fresa Inn Ginza-Nanachome
+- **Luggage forwarding option:** Send large bags from Tokyo hotel to Kyoto hotel
+  - Arrange at hotel front desk morning of July 19
+  - Bags will arrive in Kyoto on July 20 (next day)
+  - Cost: ~¥2,000-2,500 per bag
+  - Travel to Hakone with just overnight bag for ryokan
+  - **Benefit:** No need to manage large luggage on Hakone loop or at ryokan
 - Travel to Shinjuku Station
 - Board Odakyu Romancecar to Hakone-Yumoto (arrive ~10:30 AM)
 
@@ -398,7 +404,11 @@ Book ALL of these on the same day when the 3-month booking window opens:
 - **Weather dependent** - Mt. Fuji views and ropeway operations depend on weather
 - **Flexible timing** - Recommended to skip Open-Air Museum, Owakudani Info Center, Carved Buddha, and Visitor Center to make day more manageable
 - **Check-in time** - Ryokan check-in usually 3:00-6:00 PM, aim for 5:00-6:00 PM after sightseeing
-- **Luggage** - Use coin lockers at Hakone-Yumoto or send luggage ahead to ryokan
+- **Luggage strategy (RECOMMENDED):**
+  - **Option 1:** Forward large bags from Tokyo hotel directly to Kyoto hotel (arrives next day)
+  - **Option 2:** Use coin lockers at Hakone-Yumoto station
+  - **Option 3:** Send luggage from Hakone-Yumoto to ryokan
+  - **Best choice:** Option 1 - eliminates luggage management entirely for Hakone day
 - This is an ambitious itinerary - consider skipping 1-2 stops if traveling with kids gets tiring
 
 ### Recommended Streamlined Itinerary (More Reasonable):
@@ -511,9 +521,10 @@ Book ALL of these on the same day when the 3-month booking window opens:
    - Small price difference (~¥500)
 
 **Luggage Tips:**
+- **RECOMMENDED: Luggage already forwarded** - If you sent bags from Tokyo hotel to Kyoto hotel on July 19, they'll be waiting at Kyoto hotel when you arrive
+- **If not forwarded earlier:** Send bags from ryokan to Kyoto hotel via takkyubin (arrives same day or next morning, ~¥2,000-2,500 per bag)
 - **Overhead racks** on Shinkansen fit medium suitcases
 - **Behind last row** has extra space for large luggage
-- **Luggage forwarding service** (takkyubin) - can send bags ahead from ryokan to Kyoto hotel (arrives next day, ~¥2,000 per bag)
 
 **Train Types:**
 - **Nozomi** - Fastest but NOT covered by JR Pass (if you have one)
@@ -530,54 +541,82 @@ Book ALL of these on the same day when the 3-month booking window opens:
 - **Book Shinkansen tickets 1 month in advance** (June 20, 2026)
 - **Eat breakfast well** at ryokan - it's included and delicious
 - **Buy ekiben** at Odawara Station for train lunch
-- **Keep travel light** - consider luggage forwarding service
+- **Luggage forwarding recommended** - If you forwarded bags from Tokyo to Kyoto on July 19, travel light with just overnight bags
 - **Download offline maps** - Google Maps works offline in Japan
 - **Have cash ready** - for taxis and local buses
 - **Arrive Odawara Station early** - allow 30 min buffer for ticket purchase if not pre-booked
+
+### Luggage Forwarding Summary for Hakone-Kyoto
+**Best Strategy (RECOMMENDED):**
+- **July 19 morning:** Forward large bags from Tokyo hotel → Kyoto hotel (arrives July 20)
+- **July 19-20:** Travel with just overnight bag for Hakone ryokan
+- **July 20:** Large bags waiting at Kyoto hotel when you arrive
+- **Result:** Stress-free travel through Hakone loop and on Shinkansen
+
+**Alternative (If not forwarded from Tokyo):**
+- **July 20 morning:** Arrange forwarding from ryokan to Kyoto hotel
+- Bags arrive same day (late afternoon/evening) or next morning
+- Travel to Kyoto with overnight bags only
 
 ---
 
 ## Kyoto
 
-## Monday, July 21 — Arashiyama morning, Gion evening
+## Monday, July 21 — Fushimi Inari early morning, Arashiyama, Gion evening
 
-### Morning
-- Early Arashiyama
-- Bamboo grove
-- River area
-- Optional quick monkey park only if energy is high
+### Early Morning
+- **Fushimi Inari Shrine** ⭐⭐⭐ - Start very early (7:00-7:30 AM arrival)
+- Walk through the iconic torii gate tunnels before crowds and heat
+- Go as far up the mountain as energy allows
+- Best strategy: enjoy the lower and middle gates, turn back when it gets crowded or hot
+- **Time needed:** 1.5-2 hours
+- Return by 9:00-9:30 AM
+
+### Late Morning
+- Travel to Arashiyama (30-40 minutes from Fushimi Inari)
+- **Arashiyama Bamboo Grove** ⭐⭐⭐
+- River area and scenic walks
+- Optional: Quick monkey park only if energy is high
+- **Time needed:** 2-3 hours
 
 ### Afternoon
 - Return to hotel or central Kyoto for indoor lunch and rest
-- Keep this block intentionally light because Arashiyama is best done early and summer heat will be strong
+- Keep this block intentionally light because morning was active
+- Summer heat will be strong in afternoon
 
 ### Evening
-- Gion
-- Yasaka Shrine
+- **Gion** ⭐⭐⭐
+- **Yasaka Shrine**
+- Traditional streets and machiya houses
 - Dinner in eastern Kyoto
 
 ### Food focus
-- In Arashiyama: yuba, tofu dishes, croquettes, matcha or soft serve
-- In Gion/eastern Kyoto: soba, tempura, tofu cuisine, matcha desserts
+- **Near Fushimi Inari:** Inari-zushi (fried tofu sushi), traditional sweets
+- **In Arashiyama:** Yuba, tofu dishes, croquettes, matcha or soft serve
+- **In Gion/eastern Kyoto:** Soba, tempura, tofu cuisine, matcha desserts
 
 ### Transportation
-- To Arashiyama: JR Sagano Line or taxi
-- Arashiyama back to central Kyoto: JR train or taxi
-- Hotel to Gion in the evening: taxi or bus
+- **Hotel to Fushimi Inari:** JR Nara Line to Inari Station (5 min walk to shrine) or Keihan Line to Fushimi-Inari Station
+- **Fushimi Inari to Arashiyama:**
+  - Option 1: JR Nara Line to Kyoto Station, then JR Sagano Line to Saga-Arashiyama (40 min total)
+  - Option 2: Taxi (30 min, ~¥3,500-4,500)
+- **Arashiyama back to central Kyoto:** JR Sagano Line or taxi
+- **Hotel to Gion in the evening:** Taxi or bus
+
+### Why This Order Works
+- **Beat the crowds:** Fushimi Inari is best experienced early before tour groups arrive
+- **Beat the heat:** Complete outdoor activities (Fushimi Inari + Arashiyama) by late morning
+- **Energy management:** Most active sightseeing in cool morning hours
+- **Geographic efficiency:** South (Fushimi Inari) → West (Arashiyama) → East (Gion) covers different areas
+- **Built-in rest:** Afternoon break after intense morning
+- **Evening reward:** Relaxed Gion exploration when temperatures drop
 
 ---
 
-## Tuesday, July 22 — Fushimi Inari early morning, Uji matcha experience, teamLab Kyoto, central Kyoto
+## Tuesday, July 22 — Uji matcha experience, teamLab Kyoto, central Kyoto
 
-### Morning
-- Early start to Fushimi Inari Shrine before the heat and crowds build
-- Walk through the iconic torii gate tunnels
-- Go as far up the mountain as energy allows, but don't feel pressured to reach the summit
-- Best strategy: enjoy the lower gates and turn back when it gets too hot or crowded
-- Return by mid-morning
-
-### Late Morning - Uji Matcha Experience
-- Travel to Uji (15-20 minutes from Fushimi Inari via JR Nara Line)
+### Morning - Uji Matcha Experience
+- Travel to Uji from hotel (20-25 minutes via JR Nara Line from Kyoto Station)
 - **Byodoin Temple** ⭐⭐⭐ - UNESCO World Heritage site with Phoenix Hall (on 10 yen coin)
   - Beautiful temple and gardens
   - 30-45 minutes
@@ -604,14 +643,12 @@ Book ALL of these on the same day when the 3-month booking window opens:
 - Keep the evening flexible and easy before Osaka transfer next day
 
 ### Food focus
-- Near Fushimi Inari: inari-zushi (fried tofu sushi), traditional sweets
 - **In Uji:** Authentic Uji matcha soft serve ⭐⭐⭐, matcha parfaits, matcha soba, matcha sweets
 - Near teamLab/central Kyoto: katsu, soba, curry rice, omurice, parfaits
 - At Nishiki Market: tamagoyaki, skewers, sesame sweets, mochi, pickles
 
 ### Transportation
-- Hotel to Fushimi Inari: JR Nara Line to Inari Station (5 min walk to shrine) or Keihan Line to Fushimi-Inari Station
-- Fushimi Inari to Uji: JR Nara Line to Uji Station (15-20 minutes, 2 stops)
+- Hotel to Uji: JR Nara Line from Kyoto Station to Uji Station (20 minutes)
 - Uji back to central Kyoto: JR Nara Line to Kyoto Station (20 minutes)
 - Central Kyoto to teamLab Kyoto: taxi preferred, or subway/bus depending on exact venue
 - teamLab to central Kyoto/Nishiki: taxi or subway/bus
@@ -621,32 +658,81 @@ Book ALL of these on the same day when the 3-month booking window opens:
 - Uji is the birthplace of Japanese green tea culture
 - Byodoin Temple is iconic and worth the visit
 - Matcha in Uji is considered the highest quality in Japan
-- The route Fushimi Inari → Uji → Kyoto is very efficient on JR Nara Line
-- Perfect addition without adding significant travel time
+- Perfect cultural addition to your Kyoto experience
 
 ---
 
 ## Osaka and Nara
 
-## Wednesday, July 23 — Travel to Osaka
+## Wednesday, July 23 — Kyoto to Nara to Osaka (Nara Stopover)
 
-### Morning
-- Check out and transfer
+### Morning in Kyoto
+- **8:00 AM:** Arrange luggage forwarding service (takkyubin) at hotel
+  - Send all large bags directly to Osaka hotel
+  - Cost: ~¥2,000-2,500 per bag
+  - Bags arrive same day (late afternoon/evening) or next morning
+  - Keep only day bags with essentials
+- **9:00 AM:** Check out from Kyoto hotel
+- **9:30 AM:** Depart for Nara via Kintetsu Line
 
-### Afternoon
-- Check in
-- Indoor time in Umeda, especially dining floors and depachika
+### Mid-Morning to Early Afternoon in Nara
+- **10:00 AM:** Arrive Kintetsu Nara Station
+- **10:15 AM - 12:30 PM:** Nara Park and Todai-ji
+  - **Nara Park** ⭐⭐⭐ - Feed and photograph the famous deer
+  - **Todai-ji Temple** ⭐⭐⭐ - Giant Buddha statue, one of Japan's most iconic temples
+  - Walk through the park, enjoy the open space
+  - Perfect for kids - interactive deer experience
+- **12:30 PM - 1:30 PM:** Lunch in Nara
+  - Udon, soba, curry rice, or traditional Japanese set meals
+  - Try kakinoha-zushi (persimmon leaf sushi) - Nara specialty
+- **1:30 PM:** Depart Nara for Osaka
+
+### Afternoon in Osaka
+- **2:00 PM:** Arrive Osaka (Namba area)
+- **2:30 PM:** Check in to hotel
+  - Luggage will arrive later today or tomorrow morning
+  - Relax and refresh after travel
+- **3:00 PM - 5:00 PM:** Explore Umeda area
+  - Indoor time in department stores
+  - Depachika (basement food halls)
+  - Air-conditioned shopping and browsing
 
 ### Evening
-- Dotonbori
-- Shinsaibashi
+- **Dotonbori** ⭐⭐⭐ - Iconic Osaka nightlife district
+- **Shinsaibashi** - Shopping arcade
+- Dinner in Namba area
 
 ### Food focus
-- Takoyaki, okonomiyaki, kushikatsu, and kitsune udon
+- **Nara lunch:** Kakinoha-zushi, udon, soba, traditional sweets, mochi
+- **Osaka dinner:** Takoyaki ⭐⭐⭐, okonomiyaki ⭐⭐⭐, kushikatsu, kitsune udon
 
 ### Transportation
-- Kyoto to Osaka: JR Special Rapid train
-- Umeda to Namba: Osaka Metro Midosuji Line
+- **Kyoto to Nara:** Kintetsu Limited Express (35 min, ~¥1,160) or Regular (45 min, ~¥640)
+- **Nara to Osaka (Namba):** Kintetsu Limited Express (35 min, ~¥1,070) or Regular (45 min, ~¥570)
+- **Umeda to Namba:** Osaka Metro Midosuji Line (10 min)
+
+### Luggage Forwarding Details
+**Takkyubin Service (宅急便):**
+- Available at most hotels - ask front desk
+- Major companies: Yamato Transport (Black Cat), Sagawa Express
+- **Process:**
+  1. Request service at hotel checkout (morning of July 23)
+  2. Fill out delivery form with Osaka hotel address
+  3. Pay per bag (~¥2,000-2,500 depending on size)
+  4. Bags picked up from hotel and delivered same day or next morning
+- **Benefits:**
+  - Travel light through Nara with just day bags
+  - No luggage stress while feeding deer or visiting temples
+  - Hands-free sightseeing
+  - Bags waiting at Osaka hotel
+
+### Why This Route Works
+- **Geographic efficiency:** Nara is directly between Kyoto and Osaka on Kintetsu Line
+- **No backtracking:** Straight line route
+- **Perfect timing:** 2.5-3 hours in Nara is ideal (not too rushed, not too long)
+- **Luggage-free:** Forwarding service makes stopover seamless
+- **Saves a full day:** Eliminates need for separate Nara day trip
+- **Better experience:** Morning/early afternoon Nara avoids worst heat
 
 ---
 
@@ -853,77 +939,81 @@ Probably skip unless they specifically want something intense:
 
 ---
 
-## Friday, July 25 — Nara day option
+## Friday, July 25 — Flexible Osaka Day
 
-### Why Nara works for your family
-- Good fit for a 10 and 13 year old because of the deer, open park space, and big temple experience
-- Easy day trip from Osaka
-- Feels very distinctly Japanese without being too complicated
-- Best done early because of the summer heat
+### Why This Day is Now Flexible
+- Nara was moved to July 23 as a stopover between Kyoto and Osaka
+- This creates an extra day in Osaka for relaxation or additional exploration
+- Use this day based on family energy and interests
 
-### Morning
-- Leave Osaka early, but not excessively early
-- Take the Kintetsu train to Kintetsu Nara Station
-- Walk or taxi toward Nara Park
-- Main first stops:
-  - Nara Park
-  - Deer feeding and photos
-  - Todai-ji
-- If the girls are excited about the deer, give this area extra time rather than rushing
+### Option 1: Osaka Castle and Surroundings
+**Morning:**
+- **Osaka Castle** ⭐⭐⭐ - Iconic landmark with museum inside
+- Castle grounds and gardens
+- Photo opportunities
 
-### Afternoon
-- Eat lunch before the hottest part of the day gets too intense
-- Good lunch styles in Nara:
-  - Udon
-  - Soba
-  - Curry rice
-  - Simple Japanese set meals
-- After lunch, keep the afternoon lighter
-- Good options:
-  - Short shaded walks in the park area
-  - Traditional sweets stop
-  - Return to Osaka earlier rather than overextending in the heat
+**Afternoon:**
+- Nearby shopping or rest at hotel
+- Indoor activities during peak heat
 
-### Evening
-- Head back to Osaka
-- Have a relaxed dinner near your hotel or in Namba/Umeda
-- Keep the evening easy
+**Evening:**
+- Return to favorite Osaka spots (Dotonbori, Shinsaibashi)
+- Try any missed Osaka foods
 
-### Food focus
-- Best Nara-specific items to try:
-  - Kakinoha-zushi
-  - Mochi
-  - Traditional sweets
-- Also good:
-  - Matcha desserts
-  - Kakigori if it is very hot
+### Option 2: Kuromon Market and Shopping
+**Morning:**
+- **Kuromon Ichiba Market** ⭐⭐⭐ - "Osaka's Kitchen"
+- Fresh seafood, street food, local specialties
+- Interactive food experience
+
+**Afternoon:**
+- Shopping in Shinsaibashi or Amerikamura
+- Department stores and boutiques
+- Indoor browsing during heat
+
+**Evening:**
+- Relaxed dinner
+- Evening walk in favorite areas
+
+### Option 3: Relaxed Recovery Day
+**Morning:**
+- Sleep in and leisurely breakfast
+- Hotel pool or amenities if available
+
+**Afternoon:**
+- Light shopping or depachika browsing
+- Café time and rest
+- Prepare for USJ tomorrow
+
+**Evening:**
+- Early dinner
+- Early night to rest before Universal Studios Japan
+
+### Option 4: Day Trip to Kobe (If Energy is High)
+**Full Day:**
+- Train to Kobe (30 minutes)
+- Kobe beef lunch
+- Harborland area
+- Return to Osaka evening
+
+### Recommended Choice
+**Option 3 (Relaxed Recovery Day)** is recommended because:
+- Day before Universal Studios Japan (July 24) - WAIT, USJ is July 24, this is July 25 (day AFTER USJ)
+- Mid-trip recovery time after intense USJ day
+- Allows family to recharge
+- Flexibility to do light activities if desired
+- Good buffer before Osaka to Tokyo travel (July 26)
+
+### Food Focus
+- Whatever you're craving or missed earlier
+- More takoyaki, okonomiyaki, or kushikatsu
+- Depachika treats
+- Casual dining
 
 ### Transportation
-- Osaka to Nara:
-  - Kintetsu train is the best option for sightseeing convenience
-  - Go to Kintetsu Nara Station rather than JR Nara Station if possible
-- Kintetsu Nara Station to Nara Park/Todai-ji:
-  - Walk if energy is good
-  - Taxi if you want to save steps in the heat
-- Nara back to Osaka:
-  - Kintetsu train
-
-### Best pacing recommendation
-- Best version is a half-day to early-afternoon Nara plan, not a packed full-day march
-- Prioritize:
-  - Deer
-  - Todai-ji
-  - One lunch stop
-  - One sweets stop
-- Then head back to Osaka before everyone gets worn out
-
-### Best fit attractions
-- Highest priority:
-  - Nara Park
-  - Todai-ji
-- Optional only if energy is still high:
-  - Kasuga Taisha
-  - More walking through the park and garden areas
+- Depends on chosen option
+- Most activities accessible via Osaka Metro
+- Taxis available for convenience
 
 ---
 
@@ -931,16 +1021,23 @@ Probably skip unless they specifically want something intense:
 
 ## Saturday, July 26 — Osaka to Tokyo, then Disney Celebration Hotel
 
-### Morning
-- Return to Tokyo from Osaka
+### Morning in Osaka
+- **8:00 AM:** Arrange luggage forwarding at hotel
+  - Send large bags from Osaka hotel → Final Tokyo hotel (Shibuya area)
+  - Bags will arrive July 28 or 29
+  - Cost: ~¥2,000-2,500 per bag
+  - Keep only Disney overnight bags (2 nights at Disney Celebration Hotel)
+- **9:00 AM:** Check out from Osaka hotel
+- **9:30-10:00 AM:** Depart for Tokyo via Shinkansen
 
-### Afternoon
+### Afternoon in Tokyo
+- **12:00-1:00 PM:** Arrive Tokyo Station
 - Light stop in central Tokyo after arrival, ideally around Tokyo Station or Ginza
 - Use this time for lunch, snacks, depachika browsing, and indoor rest
 
-### Late afternoon
+### Late Afternoon
 - Travel to Disney Celebration Hotel
-- Check in
+- Check in with just Disney overnight bags
 
 ### Evening
 - Keep it easy with dinner near the hotel or at Ikspiari if the family still has energy
@@ -949,9 +1046,16 @@ Probably skip unless they specifically want something intense:
 - Great day for ekiben, depachika meals, sushi, or simple Japanese set meals
 
 ### Transportation
-- Shin-Osaka to Tokyo: Tokaido Shinkansen
+- Shin-Osaka to Tokyo: Tokaido Shinkansen (~2.5 hours)
 - Central Tokyo to Disney Celebration Hotel: JR Keiyo Line or JR Musashino Line to Shin-Urayasu, then taxi or local bus
 - Easiest with luggage: train to Shin-Urayasu plus taxi
+
+### Luggage Forwarding Strategy
+**Recommended approach:**
+- **July 26 morning:** Forward large bags Osaka hotel → Final Tokyo hotel (Shibuya)
+- **July 26-27:** Stay at Disney with just overnight bags (2 nights)
+- **July 28:** Check out Disney, move to Shibuya hotel where large bags are waiting
+- **Result:** No heavy luggage at Disney, seamless transition to final Tokyo hotel
 
 ---
 
@@ -1155,7 +1259,8 @@ Probably skip unless they specifically want something intense:
 ### Morning
 - Check out of Disney Celebration Hotel
 - Travel to your hotel in Shibuya
-- Drop luggage or check in if the room is ready
+- **Large bags already waiting:** Bags forwarded from Osaka on July 26 should be at Shibuya hotel
+- Check in (or drop Disney overnight bags if room not ready)
 
 ### Afternoon
 - Keep this as a lighter Tokyo day after the hotel transfer
