@@ -173,8 +173,8 @@ Book ALL of these on the same day when the 3-month booking window opens:
 - Try Japanese pudding, fruit sandos, melon pan, dorayaki, or seasonal wagashi
 
 ### Transportation
-- Haneda to central Tokyo: Tokyo Monorail plus JR Yamanote Line, or Keikyu Line
-- To Ginza: Tokyo Metro Ginza Line, Marunouchi Line, or Hibiya Line, depending on hotel location
+- Haneda to central Tokyo: Tokyo Monorail to Hamamatsucho (15 min) plus JR Yamanote Line to Ginza area (5-10 min), or Keikyu Line direct to Higashi-Ginza (25-30 min)
+- To Ginza: Tokyo Metro Ginza Line, Marunouchi Line, or Hibiya Line (varies by starting point, typically 10-20 min)
 - In Ginza: walk
 
 ---
@@ -272,9 +272,9 @@ Book ALL of these on the same day when the 3-month booking window opens:
 - **Ginza:** depachika treasures, Japanese pudding, fruit sandos, tonkatsu, sushi
 
 ### Transportation
-- Hotel or Ginza to Asakusa: **Tokyo Metro Ginza Line direct** (most efficient) or Toei Asakusa Line
+- Hotel or Ginza to Asakusa: **Tokyo Metro Ginza Line direct** (15 min, most efficient) or Toei Asakusa Line (12-15 min)
 - In Asakusa: walk (all attractions within 10-minute walk)
-- Asakusa to Ginza: **Tokyo Metro Ginza Line direct** (15-20 minutes, no transfers)
+- Asakusa to Ginza: **Tokyo Metro Ginza Line direct** (15 min, no transfers)
 - In Ginza: walk (compact shopping district)
 
 ### Efficiency notes
@@ -367,11 +367,11 @@ Book ALL of these on the same day when the 3-month booking window opens:
 - **Dinner:** Ginza - tonkatsu, sushi, tempura, or Japanese set meals
 
 ### Transportation - Optimized Linear Route
-- Hotel to Tsukiji: Tokyo Metro Hibiya Line or taxi (10-15 min)
+- Hotel to Tsukiji: Tokyo Metro Hibiya Line (8-10 min) or taxi (10-15 min)
 - Tsukiji to Hamarikyu Gardens: **5-minute walk** ✅
 - Hamarikyu to Imperial Palace: Walk (20 min) or taxi (10 min)
-- Imperial Palace to teamLab (Azabudai Hills): Taxi (15 min) or Tokyo Metro
-- Azabudai Hills to Ginza: Taxi (10 min) or Tokyo Metro Hibiya Line
+- Imperial Palace to teamLab (Azabudai Hills): Taxi (15 min) or Tokyo Metro Hibiya Line (12-15 min)
+- Azabudai Hills to Ginza: Taxi (10 min) or Tokyo Metro Hibiya Line (8-10 min)
 - Ginza to hotel: **Walk (5-10 min)** ✅
 
 **Total travel time for day:** ~45 minutes (very efficient!)
@@ -469,15 +469,15 @@ Book ALL of these on the same day when the 3-month booking window opens:
 
 ### Transportation - Hakone Loop Route
 **Recommended efficient route using Hakone Free Pass:**
-1. Hakone-Yumoto Station → Hakone Open-Air Museum (Tozan Train to Chokoku-no-Mori)
-2. Museum → Gora Station (Tozan Train)
-3. Gora → Sōunzan (Hakone Tozan Cable Car)
-4. Sōunzan → Owakudani → Togendai (Hakone Ropeway)
-5. Togendai → Hakone-machi/Moto-Hakone (Pirate Ship)
-6. Hakone Shrine area (walk from port)
-7. Moto-Hakone → Hakone Kowakien Mikawaya Ryokan (bus or taxi)
+1. Hakone-Yumoto Station → Hakone Open-Air Museum: Tozan Train to Chokoku-no-Mori (10 min)
+2. Museum → Gora Station: Tozan Train (5 min)
+3. Gora → Sōunzan: Hakone Tozan Cable Car (10 min)
+4. Sōunzan → Owakudani → Togendai: Hakone Ropeway (30 min total)
+5. Togendai → Hakone-machi/Moto-Hakone: Pirate Ship (30-40 min)
+6. Hakone Shrine area: walk from port (5-10 min)
+7. Moto-Hakone → Hakone Kowakien Mikawaya Ryokan: bus (15-20 min) or taxi (10 min)
 
-**Alternative:** Tokyo (Shinjuku) to Hakone-Yumoto: Odakyu Romancecar train (~90 minutes)
+**Alternative:** Tokyo (Shinjuku) to Hakone-Yumoto: Odakyu Romancecar train (90 min)
 
 ### Hakone tips
 - **Purchase Hakone Free Pass** - covers all transportation (Romancecar, trains, cable car, ropeway, pirate ship, buses)
@@ -796,12 +796,12 @@ Book ALL of these on the same day when the 3-month booking window opens:
 - **Dinner:** Pontocho dining or casual meal near hotel
 
 ### Transportation
-- **Hotel to Kiyomizu-dera:** Bus #100 or #206 to Gojo-zaka or Kiyomizu-michi stop, then 10-min walk uphill
+- **Hotel to Kiyomizu-dera:** Bus #100 or #206 to Gojo-zaka or Kiyomizu-michi stop (15-20 min), then 10-min walk uphill
   - Alternative: Taxi (15-20 min, ~¥1,500-2,000)
 - **Kiyomizu-dera to Sannen-zaka/Ninen-zaka:** Walk downhill (connected streets)
-- **Sannen-zaka area to Kyoto Station:** Bus or taxi (15-20 min)
-- **Kyoto Station to Uji:** JR Nara Line (20 minutes)
-- **Uji back to central Kyoto:** JR Nara Line to Kyoto Station (20 minutes)
+- **Sannen-zaka area to Kyoto Station:** Bus (20-25 min) or taxi (15-20 min)
+- **Kyoto Station to Uji:** JR Nara Line (20 min)
+- **Uji back to central Kyoto:** JR Nara Line to Kyoto Station (20 min)
 - **Kyoto Station to teamLab Kyoto:** Taxi preferred (15-20 min), or subway/bus depending on exact venue (20-30 min)
 - **teamLab to hotel:** Taxi (10-15 min) or subway/bus (15-25 min)
 
@@ -878,9 +878,9 @@ Book ALL of these on the same day when the 3-month booking window opens:
 - **Osaka evening food crawl:** Takoyaki ⭐⭐⭐, okonomiyaki ⭐⭐⭐, kushikatsu ⭐⭐⭐, kitsune udon, taiyaki, street snacks
 
 ### Transportation
-- **Kyoto to Nara:** Kintetsu Limited Express (35 min, ~¥1,160) or Regular (45 min, ~¥640)
-- **Nara to Osaka (Namba):** Kintetsu Limited Express (35 min, ~¥1,070) or Regular (45 min, ~¥570)
-- **Umeda to Namba:** Osaka Metro Midosuji Line (10 min)
+- **Kyoto to Nara:** Kintetsu Limited Express (35 min, ~¥1,160) or Kintetsu Regular (45 min, ~¥640)
+- **Nara to Osaka (Namba):** Kintetsu Limited Express (35 min, ~¥1,070) or Kintetsu Regular (45 min, ~¥570)
+- **Umeda to Namba:** Osaka Metro Midosuji Line (10 min, 6 stops)
 
 ### Luggage Forwarding Details
 **Takkyubin Service (宅急便):**
@@ -1105,8 +1105,8 @@ Probably skip unless they specifically want something intense:
 - Butterbeer, Mario-themed foods, Minion snacks, turkey legs, Japanese-style theme park foods
 
 ### Transportation
-- Hotel to Universal Studios Japan: JR Yumesaki Line to Universal City Station (2-minute walk to park entrance)
-- Alternative: Osaka Metro to Nishikujo, then JR Yumesaki Line
+- Hotel to Universal Studios Japan: JR Yumesaki Line to Universal City Station (15-20 min from Namba, 2-minute walk to park entrance)
+- Alternative: Osaka Metro Midosuji Line to Nishikujo (12 min), then JR Yumesaki Line (5 min)
 
 ---
 
@@ -1236,8 +1236,8 @@ Probably skip unless they specifically want something intense:
 - Great day for ekiben, depachika meals, sushi, or simple Japanese set meals
 
 ### Transportation
-- Shin-Osaka to Tokyo: Tokaido Shinkansen (~2.5 hours)
-- Central Tokyo to Disney Celebration Hotel: JR Keiyo Line or JR Musashino Line to Shin-Urayasu, then taxi or local bus
+- Shin-Osaka to Tokyo: Tokaido Shinkansen (2.5-3 hours)
+- Central Tokyo to Disney Celebration Hotel: JR Keiyo Line to Shin-Urayasu (25-30 min from Tokyo Station), then taxi (10 min) or local bus (15 min)
 - Easiest with luggage: train to Shin-Urayasu plus taxi
 
 ### Luggage Forwarding Strategy
@@ -1698,8 +1698,8 @@ Probably skip unless they specifically want something intense:
 - Final airport meal or boxed snack run
 
 ### Transportation
-- Tokyo Monorail from Hamamatsucho or Keikyu Line
-- Airport limousine bus if direct from hotel
+- Tokyo Monorail from Hamamatsucho (15 min to Haneda) or Keikyu Line from Shinagawa (15-20 min to Haneda)
+- Airport limousine bus if direct from hotel (varies by location, typically 45-90 min)
 
 ---
 
