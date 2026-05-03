@@ -802,8 +802,8 @@ Book ALL of these on the same day when the 3-month booking window opens:
 - **Sannen-zaka area to Kyoto Station:** Bus or taxi (15-20 min)
 - **Kyoto Station to Uji:** JR Nara Line (20 minutes)
 - **Uji back to central Kyoto:** JR Nara Line to Kyoto Station (20 minutes)
-- **Kyoto Station to teamLab Kyoto:** Taxi preferred, or subway/bus depending on exact venue
-- **teamLab to hotel:** Taxi or subway/bus
+- **Kyoto Station to teamLab Kyoto:** Taxi preferred (15-20 min), or subway/bus depending on exact venue (20-30 min)
+- **teamLab to hotel:** Taxi (10-15 min) or subway/bus (15-25 min)
 
 ### Why This Order Works
 - **Beat the crowds:** Very early Kiyomizu-dera visit before tour groups
@@ -1485,9 +1485,9 @@ Probably skip unless they specifically want something intense:
 - Good day for a relaxed café break after the transfer
 
 ### Transportation
-- Disney Celebration Hotel to Shin-Urayasu: taxi or bus
-- Shin-Urayasu to Tokyo Station: JR Keiyo Line
-- Tokyo Station to Shibuya: JR Yamanote Line or JR Saikyo Line
+- Disney Celebration Hotel to Shin-Urayasu: taxi (10 min) or bus (15 min)
+- Shin-Urayasu to Tokyo Station: JR Keiyo Line (20-25 min)
+- Tokyo Station to Shibuya: JR Yamanote Line (20 min) or JR Saikyo Line (15 min)
 - In Shibuya: walk (Crossing and Sky are 2-3 minutes apart)
 
 ### Shibuya Sky tips
@@ -1539,10 +1539,10 @@ Probably skip unless they specifically want something intense:
 - **Ginza:** Depachika treats, sushi, tonkatsu, Japanese curry, parfaits, fruit sandos
 
 ### Transportation
-- **Shibuya to Meiji Shrine:** JR Yamanote Line to Harajuku Station (2 stops), then 10-min walk
+- **Shibuya to Meiji Shrine:** JR Yamanote Line to Harajuku Station (5 min, 2 stops), then 10-min walk
 - **Meiji Shrine to Tokyo Station:** JR Yamanote Line from Harajuku to Tokyo Station (20 min)
-- **Tokyo Station to Ginza:** Walk (15 min) or Tokyo Metro Marunouchi Line (1 stop)
-- **Ginza to Shibuya:** Tokyo Metro or JR train
+- **Tokyo Station to Ginza:** Walk (15 min) or Tokyo Metro Marunouchi Line (2 min, 1 stop)
+- **Ginza to Shibuya:** Tokyo Metro (15 min) or JR train (20 min)
 
 ---
 
