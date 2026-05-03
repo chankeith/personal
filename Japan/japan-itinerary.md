@@ -1,8 +1,54 @@
 # Japan Family Itinerary
 
-Family of 4: 2 adults and 2 girls, ages 10 and 13
-Trip style: classic first-time Japan, great food, some shopping, balanced pace
-Summer strategy: outdoor sightseeing in the morning and evening, indoor activities and breaks in the afternoon
+## Planning Principles & Design Factors
+
+This itinerary was designed with the following considerations:
+
+### Family Profile
+- **Travelers:** Family of 4 (2 adults, 2 girls ages 10 and 13)
+- **Trip Style:** Classic first-time Japan experience
+- **Focus:** Great food, cultural experiences, some shopping, balanced pace
+- **Duration:** 19 days (July 16 - August 3, 2026)
+
+### Key Design Principles
+
+**1. Time Flexibility**
+- Activity times are generalized (e.g., "morning", "afternoon", "evening") rather than specific hours
+- Allows flexibility to adapt to family energy levels, weather, and crowds
+- Specific times only provided for: transportation schedules, store closing hours, hotel check-in/check-out
+
+**2. Summer Heat Management**
+- Outdoor sightseeing prioritized for early morning and evening
+- Indoor activities and rest periods during peak afternoon heat (12-3 PM)
+- Air-conditioned venues strategically placed in daily schedules
+
+**3. Geographic Efficiency**
+- Routes minimize backtracking and optimize travel time
+- Attractions grouped by area to reduce transit
+- Luggage forwarding (takkyubin) used at key transitions
+
+**4. Energy & Pacing**
+- Built-in rest periods and flexible days
+- Mix of active sightseeing and relaxed exploration
+- Recovery time after intense days (e.g., theme parks)
+
+**5. Practical Information**
+- Google Maps links for all major attractions
+- Star ratings (⭐⭐⭐ must-see, ⭐⭐ recommended, ⭐ optional)
+- Duration estimates for each activity
+- Transportation details with multiple options
+- Food recommendations at each location
+
+**6. Advance Planning**
+- Comprehensive ticket booking guide with specific dates
+- Priority system (HIGH/MEDIUM/OPTIONAL/LOW)
+- Booking timeline organized by month
+
+**7. Family-Friendly Focus**
+- Age-appropriate attractions for 10 and 13-year-olds
+- Mix of cultural sites, modern experiences, and fun activities
+- Food variety including kid-friendly options
+- Shopping opportunities for teens (Harajuku, Akihabara)
 
 ## Table of Contents
 - [Advance Ticket Purchase Guide](#advance-ticket-purchase-guide)
