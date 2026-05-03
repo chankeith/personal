@@ -1199,10 +1199,10 @@ Probably skip unless they specifically want something intense:
 - Casual dining
 
 ### Transportation
-- **To Osaka Castle:** Osaka Metro Tanimachi Line or Chuo Line
-- **To Shinsekai:** Osaka Metro Midosuji Line or Sakaisuji Line to Dobutsuen-mae or Ebisucho
-- **To Kuromon Market:** Osaka Metro Sennichimae Line or Sakaisuji Line to Nippombashi
-- **To Umeda Sky Building:** Osaka Metro to Umeda Station, then 10-min walk
+- **To Osaka Castle:** Osaka Metro Tanimachi Line or Chuo Line (15-20 min from Namba)
+- **To Shinsekai:** Osaka Metro Midosuji Line or Sakaisuji Line to Dobutsuen-mae or Ebisucho (10-15 min from Namba)
+- **To Kuromon Market:** Osaka Metro Sennichimae Line or Sakaisuji Line to Nippombashi (5-10 min from Namba)
+- **To Umeda Sky Building:** Osaka Metro to Umeda Station (10 min from Namba), then 10-min walk
 - Taxis available for convenience
 
 ---
@@ -1630,8 +1630,8 @@ Probably skip unless they specifically want something intense:
 - **Odaiba option:** Ramen, udon, teishoku, international options
 
 ### Transportation
-- **To Kamakura:** JR Yokosuka Line from Tokyo Station
-- **To Odaiba:** Yurikamome train from Shimbashi or Rinkai Line
+- **To Kamakura:** JR Yokosuka Line from Tokyo Station (1 hour)
+- **To Odaiba:** Yurikamome train from Shimbashi (15-20 min) or Rinkai Line (10-15 min)
 - **In Tokyo:** JR trains and Tokyo Metro subway
 
 ---
@@ -1653,7 +1653,7 @@ Probably skip unless they specifically want something intense:
 - Farewell meal: sukiyaki, shabu-shabu, tempura, or polished ramen
 
 ### Transportation
-- Shibuya to Shinjuku: JR Yamanote Line, JR Saikyo Line, or Tokyo Metro Fukutoshin Line
+- Shibuya to Shinjuku: JR Yamanote Line (7 min), JR Saikyo Line (5 min), or Tokyo Metro Fukutoshin Line (8 min)
 
 ---
 
