@@ -757,10 +757,10 @@ Book ALL of these on the same day when the 3-month booking window opens:
 
 ### Mid-Morning - Uji Matcha Experience
 - Travel to Uji from Kyoto Station (20-25 minutes via JR Nara Line)
-- **Byodoin Temple** ⭐⭐⭐ - UNESCO World Heritage site with Phoenix Hall (on 10 yen coin)
+- [**Byodoin Temple**](https://www.google.com/maps/search/Byodoin+Temple+Uji+Kyoto) ⭐⭐⭐ - UNESCO World Heritage site with Phoenix Hall (on 10 yen coin)
   - Beautiful temple and gardens
   - 30-45 minutes
-- **Uji Matcha Experience** ⭐⭐⭐
+- [**Uji Matcha Experience**](https://www.google.com/maps/search/Uji+Matcha+Kyoto) ⭐⭐⭐
   - Visit famous matcha shops on Omotesando Street
   - Try authentic Uji matcha soft serve, matcha parfaits, or matcha sweets
   - Recommended shops: Nakamura Tokichi, Tsujiri, or Itohkyuemon
@@ -773,7 +773,7 @@ Book ALL of these on the same day when the 3-month booking window opens:
 ### Afternoon - teamLab Kyoto
 - Return to central Kyoto
 - Lunch before or after teamLab (or have matcha treats in Uji as lunch)
-- **teamLab Kyoto** ⭐⭐⭐ - Digital art museum experience
+- [**teamLab Kyoto**](https://www.google.com/maps/search/teamLab+Kyoto) ⭐⭐⭐ - Digital art museum experience
   - Interactive digital art installations
   - Perfect indoor activity during peak heat
   - Great for kids and families
@@ -838,8 +838,8 @@ Book ALL of these on the same day when the 3-month booking window opens:
 ### Mid-Morning to Early Afternoon in Nara
 - Arrive Kintetsu Nara Station
 - Nara Park and Todai-ji
-  - **Nara Park** ⭐⭐⭐ - Feed and photograph the famous deer
-  - **Todai-ji Temple** ⭐⭐⭐ - Giant Buddha statue, one of Japan's most iconic temples
+  - [**Nara Park**](https://www.google.com/maps/search/Nara+Park) ⭐⭐⭐ - Feed and photograph the famous deer
+  - [**Todai-ji Temple**](https://www.google.com/maps/search/Todai-ji+Temple+Nara) ⭐⭐⭐ - Giant Buddha statue, one of Japan's most iconic temples
   - Walk through the park, enjoy the open space
   - Perfect for kids - interactive deer experience
 - Lunch in Nara
@@ -1513,7 +1513,7 @@ Probably skip unless they specifically want something intense:
 
 ### Late Morning/Midday - Tokyo Station
 - Travel to Tokyo Station area
-- **Tokyo Station** ⭐⭐⭐ - Historic red brick building
+- [**Tokyo Station**](https://www.google.com/maps/search/Tokyo+Station) ⭐⭐⭐ - Historic red brick building
   - Beautiful architecture
   - Character Street (anime/manga merchandise)
   - Ramen Street (multiple famous ramen shops)
@@ -1522,7 +1522,7 @@ Probably skip unless they specifically want something intense:
   - Depachika food halls
 
 ### Afternoon - Ginza
-- **Ginza** ⭐⭐⭐ - Upscale shopping district
+- [**Ginza**](https://www.google.com/maps/search/Ginza+Tokyo) ⭐⭐⭐ - Upscale shopping district
   - Department stores (Mitsukoshi, Matsuya, Wako)
   - UNIQLO flagship store
   - GU Ginza
