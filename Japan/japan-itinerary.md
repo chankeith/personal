@@ -712,12 +712,12 @@ Book ALL of these on the same day when the 3-month booking window opens:
 - **Pontocho:** Traditional kaiseki, yakitori, izakaya dining
 
 ### Transportation
-- **Hotel to Fushimi Inari:** JR Nara Line to Inari Station (5 min walk to shrine) or Keihan Line to Fushimi-Inari Station
+- **Hotel to Fushimi Inari:** JR Nara Line to Inari Station (10 min train + 5 min walk to shrine) or Keihan Line to Fushimi-Inari Station (12 min train + 3 min walk)
 - **Fushimi Inari to Arashiyama:**
-  - Option 1: JR Nara Line to Kyoto Station, then JR Sagano Line to Saga-Arashiyama (40 min total)
+  - Option 1: JR Nara Line to Kyoto Station (5 min), then JR Sagano Line to Saga-Arashiyama (15 min) - 40 min total including transfers
   - Option 2: Taxi (30 min, ~¥3,500-4,500)
-- **Arashiyama to Kinkaku-ji:** Bus #93 or taxi (30-40 min)
-- **Kinkaku-ji to hotel:** Bus or taxi (20-30 min)
+- **Arashiyama to Kinkaku-ji:** Bus #93 (30-40 min) or taxi (25 min, ~¥2,500-3,000)
+- **Kinkaku-ji to hotel:** Bus (20-30 min) or taxi (15 min, ~¥1,500-2,000)
 - **Hotel to Pontocho:** Walk (10-15 min) or taxi (5 min)
 
 ### Why This Order Works
