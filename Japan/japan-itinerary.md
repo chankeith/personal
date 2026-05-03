@@ -97,23 +97,23 @@ Book ALL of these on the same day when the 3-month booking window opens:
 - In transit
 
 ### Afternoon
-- Arrive at Haneda at 3:40 PM
+- Arrive at Haneda
 - Clear immigration
-- Transfer to Sotetsu Fresa Inn Ginza-Nanachome
+- Transfer to [**Sotetsu Fresa Inn Ginza-Nanachome**](https://www.google.com/maps/search/Sotetsu+Fresa+Inn+Ginza-Nanachome+Tokyo)
 - Check in, shower, and rest briefly indoors
 
-### Evening (6:00-8:30 PM)
-- Head to Ginza
-- **6:00 PM:** Dinner
-  - Option 1: Tokyo Abura Soba Ginza
-  - Option 2: Hanamaru Udon Ginza
-- **7:00-8:30 PM:** Shopping (before stores close at 8:00-9:00 PM)
-  - **UNIQLO Ginza** (closes 9:00 PM)
-  - **GU Ginza** (closes 9:00 PM)
-  - **Department stores** (close 8:00 PM): Mitsukoshi, Matsuya, Wako
-- **Dessert or late snack:**
-  - Mitsukoshi Ginza depachika (closes 8:00 PM)
-  - Ginza Cozy Corner (closes 9:00 PM)
+### Evening
+- Head to [**Ginza**](https://www.google.com/maps/search/Ginza+Tokyo)
+- Dinner
+  - Option 1: [**Tokyo Abura Soba Ginza**](https://www.google.com/maps/search/Tokyo+Abura+Soba+Ginza)
+  - Option 2: [**Hanamaru Udon Ginza**](https://www.google.com/maps/search/Hanamaru+Udon+Ginza)
+- Shopping (before stores close)
+  - [**UNIQLO Ginza**](https://www.google.com/maps/search/UNIQLO+Ginza+Tokyo) (closes 9:00 PM)
+  - [**GU Ginza**](https://www.google.com/maps/search/GU+Ginza+Tokyo) (closes 9:00 PM)
+  - Department stores (close 8:00 PM): [**Mitsukoshi**](https://www.google.com/maps/search/Mitsukoshi+Ginza), [**Matsuya**](https://www.google.com/maps/search/Matsuya+Ginza), [**Wako**](https://www.google.com/maps/search/Wako+Ginza)
+- Dessert or late snack:
+  - [**Mitsukoshi Ginza depachika**](https://www.google.com/maps/search/Mitsukoshi+Ginza+depachika) (closes 8:00 PM)
+  - [**Ginza Cozy Corner**](https://www.google.com/maps/search/Ginza+Cozy+Corner) (closes 9:00 PM)
   - Convenience stores (24/7) for late-night snacks
 
 **⏰ Shopping Hours Note:**
@@ -141,12 +141,13 @@ Book ALL of these on the same day when the 3-month booking window opens:
 2. **Nakamise Shopping Street** ⭐⭐⭐ - 250m traditional shopping street
    - Browse traditional snacks, souvenirs, and crafts
    - Try ningyo-yaki, senbei, matcha sweets
+   - **Asakusa Kagetsudō** - Famous melon bread (melonpan)
    - 20-30 minutes
-3. **Hozomon Gate** ⭐⭐ - Impressive two-story gate
+3. **Hozomon Gate (Senso-ji Hozomon Gate)** ⭐⭐ - Impressive two-story gate
    - Second major gate before main hall
    - Quick photo stop
    - 5 minutes
-4. **Senso-ji Temple Main Hall** ⭐⭐⭐ - Tokyo's oldest and most significant Buddhist temple
+4. **Senso-ji Temple Main Hall (Sensō-ji)** ⭐⭐⭐ - Tokyo's oldest and most significant Buddhist temple
    - Main worship hall with incense burner
    - Beautiful architecture and atmosphere
    - 15-20 minutes
@@ -154,27 +155,40 @@ Book ALL of these on the same day when the 3-month booking window opens:
    - Smaller but historically significant
    - Optional if time is tight
    - 10 minutes
+
+### Mid-Morning - Food & Treats
 6. **Chacha Futatsume** ⭐⭐⭐ - Famous matcha ice cream shop
    - Must-try matcha soft serve, perfect summer treat
    - Located near the temple area
    - Great break after temple walking
    - 15-20 minutes
-7. **Sumida Park** ⭐ - Riverside park along Sumida River
+7. **Additional Food Options (choose 1-2):**
+   - **Suzukien Asakusa** ⭐⭐⭐ - Matcha gelato with 7 intensity levels
+   - **Asakusa Menchi** ⭐⭐ - Famous menchi katsu (fried meat patty)
+   - **Kan'non-dōri** - Shopping street parallel to Nakamise with more local shops
+
+### Optional Additions
+8. **Sumida Park** ⭐ - Riverside park along Sumida River
    - **Skip or very brief** - low impact compared to temple complex
    - Only worthwhile if: weather is unusually pleasant, you finish temple early, girls need a break from crowds
-   - Better use of time: more Nakamise shopping or Chacha Futatsume
+   - Better use of time: more Nakamise shopping or food stops
    - 15-20 minutes if included
+9. **NINJA WALK** ⭐ - Ninja-themed experience (if interested)
+   - **Optional** - only if family is interested in ninja activities
+   - Requires advance booking and adds 1-2 hours
+   - **Recommendation:** Skip to keep day manageable
 
-**Total Asakusa time:** 1.5-2 hours (without Sumida Park), 2-2.5 hours (with park and Chacha Futatsume)
+**Total Asakusa time:** 1.5-2 hours (core route), 2-2.5 hours (with extra food stops)
 
-### Late Morning/Midday
+### Late Morning/Midday - Lunch
 - Stay in Asakusa for lunch before heat peaks
 - **Best lunch options:**
+  - **Ichiran Asakusa** ⭐⭐⭐ - Famous tonkotsu ramen chain, individual booths
   - **Tempura** ⭐⭐⭐ - Asakusa specialty, light and crispy
   - **Tendon** ⭐⭐⭐ - Tempura over rice, filling and delicious
   - **Soba** ⭐⭐ - Cold soba perfect for summer
   - **Unagi** ⭐⭐⭐ - Grilled eel, Asakusa has excellent options
-- **Alternative:** Have Chacha Futatsume matcha ice cream as a light lunch/snack if you prefer to eat a bigger meal later
+- **Alternative:** Have Chacha Futatsume or Suzukien as a light lunch/snack if you prefer to eat a bigger meal later
 
 ### Afternoon
 - Return to hotel or stay in covered/air-conditioned areas during peak heat (12-3 PM)
@@ -184,21 +198,29 @@ Book ALL of these on the same day when the 3-month booking window opens:
   - Indoor café with matcha desserts or kakigori
   - Early departure to Ginza for air-conditioned shopping
 
-### Late afternoon and evening - Ginza
-- Head to Ginza when temperatures drop (after 4-5 PM)
-- **UNIQLO Ginza** - flagship store, great for family shopping
-- **GU Ginza** - affordable fashion, adjacent to UNIQLO
-- Dinner between shopping sessions
-- **Best Ginza dinner options:**
+### Late Afternoon and Evening - Ginza (4:00-8:30 PM)
+- **4:00-5:00 PM:** Head to Ginza when temperatures drop
+- **5:00-6:30 PM:** Dinner (eat before shopping to maximize time)
   - **Tonkatsu** ⭐⭐⭐ - Breaded pork cutlet, Japanese comfort food
   - **Udon** ⭐⭐ - Hearty noodles, good for kids
   - **Sushi** ⭐⭐⭐ - Ginza has excellent options at various price points
   - **Omurice** ⭐⭐ - Omelet over rice, kid-friendly
-- **Mitsukoshi Ginza depachika** - basement food hall, perfect for dessert or snacks
+- **6:30-8:00 PM:** Shopping (before department stores close)
+  - **UNIQLO Ginza** (closes 9:00 PM) - flagship store, great for family shopping
+  - **GU Ginza** (closes 9:00 PM) - affordable fashion, adjacent to UNIQLO
+  - **Department stores** (close 8:00 PM): Mitsukoshi, Matsuya, Wako
+- **8:00-8:30 PM:** Dessert or late snack
+  - **Mitsukoshi Ginza depachika** (closes 8:00 PM) - basement food hall
   - Japanese pudding, fruit sandos, wagashi, seasonal sweets
+  - Convenience stores (24/7) if depachika is closed
+
+**⏰ Shopping Hours Note:**
+- Most Ginza department stores close at 8:00 PM
+- UNIQLO and GU stay open until 9:00 PM
+- Prioritize department store shopping before 8:00 PM
 
 ### Food focus
-- **Asakusa:** Chacha Futatsume matcha ice cream ⭐⭐⭐, ningyo-yaki (small cakes), senbei (rice crackers), matcha sweets, temple-street snacks, tempura/tendon
+- **Asakusa:** Chacha Futatsume matcha ice cream ⭐⭐⭐, Suzukien matcha gelato ⭐⭐⭐, Asakusa Kagetsudō melon bread ⭐⭐⭐, Asakusa Menchi ⭐⭐, Ichiran ramen ⭐⭐⭐, ningyo-yaki (small cakes), senbei (rice crackers), tempura/tendon
 - **Ginza:** depachika treasures, Japanese pudding, fruit sandos, tonkatsu, sushi
 
 ### Transportation
@@ -222,6 +244,8 @@ Book ALL of these on the same day when the 3-month booking window opens:
 ---
 
 ## Friday, July 18 — Tsukiji, Hamarikyu Gardens, Imperial Palace, teamLab Borderless, Ginza
+
+**Hotel:** Sotetsu Fresa Inn Ginza-Nanachome
 
 ### Early Morning - Tsukiji Area (7:00-9:00 AM)
 - **Tsukiji Outer Market** ⭐⭐⭐ - Famous food market
@@ -496,20 +520,45 @@ Book ALL of these on the same day when the 3-month booking window opens:
 - Adds 1-2 hours, more expensive, unnecessary backtracking
 
 ### Afternoon in Kyoto
-- Arrive Kyoto around 2:00-3:00 PM
-- Check in to hotel
-- Rest and refresh after travel
-- Unpack and settle in
+- Arrive Kyoto, check in to hotel
+- Rest and refresh after travel, unpack
+- Light afternoon exploration (choose 1-2):
+  - [**Nishiki Market**](https://maps.app.goo.gl/nishikimarket) ⭐⭐⭐ - Kyoto's kitchen, covered market street
+    - Browse local foods, pickles, sweets, tea
+    - Try samples and snacks
+  - [**Nishiki Tenmangu Shrine**](https://maps.app.goo.gl/nishikitenmangu) ⭐⭐ - Small shrine at east end of Nishiki Market
+    - Quick visit
+  - [**Heian Shrine**](https://maps.app.goo.gl/heianshrine) ⭐⭐ - Large shrine with impressive torii gate
+    - Beautiful gardens (optional paid entry)
+    - **Note:** May be too ambitious for arrival day; save for another day if tired
 
-### Evening
-- Gentle family walk through Gion or Pontocho
-- Explore traditional streets and machiya houses
-- Light evening activity after travel day
+### Evening - Gion Area
+- [**Gion**](https://maps.app.goo.gl/gion) evening walk ⭐⭐⭐ - Explore Kyoto's famous geisha district
+- [**Gionmachi Kitagawa**](https://maps.app.goo.gl/gionkitagawa) - Northern Gion street with traditional machiya houses
+- [**Gionmachi Minamigawa**](https://maps.app.goo.gl/gionminamigawa) - Southern Gion street, equally atmospheric
+- [**Gion Weeping Cherry Tree**](https://maps.app.goo.gl/gioncherry) - Famous cherry tree (beautiful in any season)
+- [**Yasaka Shrine (Yasaka Jinja)**](https://maps.app.goo.gl/yasakashrine) ⭐⭐⭐ - Major Shinto shrine
+  - [**Yasaka Jinja Nishiromon Gate**](https://maps.app.goo.gl/yasakagate) (Western Tower Gate) - Impressive entrance
+  - Evening illumination is beautiful
+- [**Yasui Kompiragū Shrine**](https://maps.app.goo.gl/yasuishrine) ⭐⭐ - Small shrine famous for relationship stone
+  - Optional, near Yasaka Shrine
+
+### Dinner
+- [**Kobe Beef Steak Mouriya Gion**](https://maps.app.goo.gl/mouriyagion) ⭐⭐⭐ - High-quality Kobe beef experience
+  - Reserve in advance if possible
+  - Alternative: Other Gion restaurants with Kyoto-style cuisine
+
+### Optional Treat
+- [**Miffy's Oyatsu-do by Miffy's Kitchen Gion**](https://maps.app.goo.gl/miffygion) - Cute Miffy-themed café
+  - Desserts and light snacks
+  - Fun for kids
+  - Optional if time and energy permit
 
 ### Food focus
 - **Lunch:** Ekiben (train bento box) on Shinkansen or light meal at Odawara Station
-- **Dinner:** Kyoto-style dinner with tofu dishes, soba, tempura, or traditional set meal
-- **Optional:** Matcha dessert if everyone still has energy
+- **Afternoon snacks:** Nishiki Market samples - pickles, mochi, tea, sweets
+- **Dinner:** Kobe Beef Steak Mouriya Gion or Kyoto-style dinner (tofu, soba, tempura)
+- **Optional dessert:** Miffy's Oyatsu-do or traditional matcha sweets
 
 ### Transportation Details
 
@@ -571,9 +620,11 @@ Book ALL of these on the same day when the 3-month booking window opens:
 
 ## Kyoto
 
-## Monday, July 21 — Fushimi Inari early morning, Arashiyama, Gion evening
+## Monday, July 21 — Fushimi Inari early morning, Arashiyama, Golden Pavilion
 
-### Early Morning
+**Hotel:** Hotel Gran Ms Kyoto (Near Nishiki Market) - recommended
+
+### Early Morning - Fushimi Inari
 - **Fushimi Inari Shrine** ⭐⭐⭐ - Start very early (7:00-7:30 AM arrival)
 - Walk through the iconic torii gate tunnels before crowds and heat
 - Go as far up the mountain as energy allows
@@ -581,51 +632,83 @@ Book ALL of these on the same day when the 3-month booking window opens:
 - **Time needed:** 1.5-2 hours
 - Return by 9:00-9:30 AM
 
-### Late Morning
+### Late Morning - Arashiyama
 - Travel to Arashiyama (30-40 minutes from Fushimi Inari)
-- **Arashiyama Bamboo Grove** ⭐⭐⭐
+- **Arashiyama Bamboo Grove** ⭐⭐⭐ - Walk through the iconic bamboo forest
+- **Togetsukyo Bridge** ⭐⭐ - Scenic bridge over Katsura River
 - River area and scenic walks
 - Optional: Quick monkey park only if energy is high
 - **Time needed:** 2-3 hours
 
-### Afternoon
-- Return to hotel or central Kyoto for indoor lunch and rest
-- Keep this block intentionally light because morning was active
-- Summer heat will be strong in afternoon
+### Afternoon - Golden Pavilion
+- Return toward central/northern Kyoto
+- Lunch break (indoor restaurant or café to escape heat)
+- **Kinkaku-ji (Golden Pavilion)** ⭐⭐⭐ - Stunning gold-leaf covered temple
+  - One of Kyoto's most iconic sights
+  - Beautiful gardens and pond reflections
+  - Best visited in afternoon when crowds thin slightly
+  - **Time needed:** 45-60 minutes
 
 ### Evening
-- **Gion** ⭐⭐⭐
-- **Yasaka Shrine**
-- Traditional streets and machiya houses
-- Dinner in eastern Kyoto
+- Return to hotel for rest
+- Light dinner near hotel or Pontocho Alley
+- **Pontocho Alley** ⭐⭐⭐ - Narrow atmospheric alley with traditional restaurants
+  - Perfect for evening stroll and dinner
+  - Runs parallel to Kamo River
+  - Traditional lanterns and ambiance
 
 ### Food focus
 - **Near Fushimi Inari:** Inari-zushi (fried tofu sushi), traditional sweets
-- **In Arashiyama:** Yuba, tofu dishes, croquettes, matcha or soft serve
-- **In Gion/eastern Kyoto:** Soba, tempura, tofu cuisine, matcha desserts
+- **In Arashiyama:** Yuba (tofu skin), tofu dishes, croquettes, matcha soft serve
+- **Lunch:** Kyoto-style set meal or udon/soba
+- **Pontocho:** Traditional kaiseki, yakitori, izakaya dining
 
 ### Transportation
 - **Hotel to Fushimi Inari:** JR Nara Line to Inari Station (5 min walk to shrine) or Keihan Line to Fushimi-Inari Station
 - **Fushimi Inari to Arashiyama:**
   - Option 1: JR Nara Line to Kyoto Station, then JR Sagano Line to Saga-Arashiyama (40 min total)
   - Option 2: Taxi (30 min, ~¥3,500-4,500)
-- **Arashiyama back to central Kyoto:** JR Sagano Line or taxi
-- **Hotel to Gion in the evening:** Taxi or bus
+- **Arashiyama to Kinkaku-ji:** Bus #93 or taxi (30-40 min)
+- **Kinkaku-ji to hotel:** Bus or taxi (20-30 min)
+- **Hotel to Pontocho:** Walk (10-15 min) or taxi (5 min)
 
 ### Why This Order Works
 - **Beat the crowds:** Fushimi Inari is best experienced early before tour groups arrive
-- **Beat the heat:** Complete outdoor activities (Fushimi Inari + Arashiyama) by late morning
-- **Energy management:** Most active sightseeing in cool morning hours
-- **Geographic efficiency:** South (Fushimi Inari) → West (Arashiyama) → East (Gion) covers different areas
-- **Built-in rest:** Afternoon break after intense morning
-- **Evening reward:** Relaxed Gion exploration when temperatures drop
+- **Beat the heat:** Complete most outdoor activities in cool morning hours
+- **Energy management:** Most active sightseeing early, lighter afternoon
+- **Geographic efficiency:** South (Fushimi Inari) → West (Arashiyama) → North (Kinkaku-ji) → Central (Pontocho)
+- **Built-in rest:** Lunch break and hotel rest before evening
+- **Evening reward:** Relaxed Pontocho exploration and dinner
 
 ---
 
-## Tuesday, July 22 — Uji matcha experience, teamLab Kyoto, central Kyoto
+## Tuesday, July 22 — Kiyomizu-dera, historic streets, Uji matcha, teamLab Kyoto
 
-### Morning - Uji Matcha Experience
-- Travel to Uji from hotel (20-25 minutes via JR Nara Line from Kyoto Station)
+**Hotel:** Hotel Gran Ms Kyoto (Near Nishiki Market) - recommended
+
+### Early Morning - Kiyomizu-dera and Historic Streets
+- Start very early to beat crowds and heat
+- **Kiyomizu-dera Temple** ⭐⭐⭐ - One of Kyoto's most famous temples
+  - UNESCO World Heritage site
+  - Stunning wooden stage with panoramic city views
+  - Beautiful temple complex and grounds
+  - **Best timing:** Arrive at opening (6:00 AM in summer)
+  - **Time needed:** 60-90 minutes
+
+- **Sannen-zaka (Sannenzaka)** ⭐⭐⭐ - Charming sloped street
+  - Walk downhill from Kiyomizu-dera
+  - Traditional wooden buildings and shops
+  - Perfect for photos and browsing
+  
+- **Ninen-zaka (Ninenzaka)** ⭐⭐⭐ - Continuation of Sannen-zaka
+  - Historic preservation district
+  - Stone-paved slopes with traditional atmosphere
+  - **Combined time for both streets:** 45-60 minutes
+
+**Total morning time:** 2-2.5 hours (complete by 9:00-9:30 AM)
+
+### Mid-Morning - Uji Matcha Experience
+- Travel to Uji from Kyoto Station (20-25 minutes via JR Nara Line)
 - **Byodoin Temple** ⭐⭐⭐ - UNESCO World Heritage site with Phoenix Hall (on 10 yen coin)
   - Beautiful temple and gardens
   - 30-45 minutes
@@ -637,31 +720,51 @@ Book ALL of these on the same day when the 3-month booking window opens:
   - 45-60 minutes
 - **Uji River walk** - Brief stroll along scenic river if time permits
 
-**Total Uji time:** 1.5-2 hours
+**Total Uji time:** 1.5-2 hours (complete by 12:00-12:30 PM)
 
-### Afternoon
+### Afternoon - teamLab Kyoto
 - Return to central Kyoto
-- teamLab Kyoto as the main indoor feature of the afternoon
-- This keeps you indoors during peak heat
 - Lunch before or after teamLab (or have matcha treats in Uji as lunch)
-- If time allows, visit Nishiki Market or nearby covered shopping streets
-- Use cafés and department-store style breaks to stay out of the heat
+- **teamLab Kyoto** ⭐⭐⭐ - Digital art museum experience
+  - Interactive digital art installations
+  - Perfect indoor activity during peak heat
+  - Great for kids and families
+  - **Time needed:** 1.5-2 hours
+- This keeps you indoors during peak afternoon heat
 
 ### Evening
-- Dinner downtown or Kyoto Station area
-- Keep the evening flexible and easy before Osaka transfer next day
+- Return to hotel for rest
+- **Pontocho Alley** ⭐⭐⭐ - Atmospheric dining alley (if not visited Day 6)
+  - Traditional restaurants with lanterns
+  - Perfect for dinner
+- Alternative: Dinner near hotel or Kyoto Station area
+- Early rest before Osaka transfer next day
 
 ### Food focus
+- **Early morning:** Light breakfast before temple visit
+- **Kiyomizu-dera area:** Yatsuhashi (cinnamon sweets), traditional snacks
 - **In Uji:** Authentic Uji matcha soft serve ⭐⭐⭐, matcha parfaits, matcha soba, matcha sweets
-- Near teamLab/central Kyoto: katsu, soba, curry rice, omurice, parfaits
-- At Nishiki Market: tamagoyaki, skewers, sesame sweets, mochi, pickles
+- **Lunch:** Light meal in Uji or after returning to Kyoto
+- **Dinner:** Pontocho dining or casual meal near hotel
 
 ### Transportation
-- Hotel to Uji: JR Nara Line from Kyoto Station to Uji Station (20 minutes)
-- Uji back to central Kyoto: JR Nara Line to Kyoto Station (20 minutes)
-- Central Kyoto to teamLab Kyoto: taxi preferred, or subway/bus depending on exact venue
-- teamLab to central Kyoto/Nishiki: taxi or subway/bus
-- Downtown to hotel: taxi, subway, or bus
+- **Hotel to Kiyomizu-dera:** Bus #100 or #206 to Gojo-zaka or Kiyomizu-michi stop, then 10-min walk uphill
+  - Alternative: Taxi (15-20 min, ~¥1,500-2,000)
+- **Kiyomizu-dera to Sannen-zaka/Ninen-zaka:** Walk downhill (connected streets)
+- **Sannen-zaka area to Kyoto Station:** Bus or taxi (15-20 min)
+- **Kyoto Station to Uji:** JR Nara Line (20 minutes)
+- **Uji back to central Kyoto:** JR Nara Line to Kyoto Station (20 minutes)
+- **Kyoto Station to teamLab Kyoto:** Taxi preferred, or subway/bus depending on exact venue
+- **teamLab to hotel:** Taxi or subway/bus
+
+### Why This Order Works
+- **Beat the crowds:** Very early Kiyomizu-dera visit before tour groups
+- **Downhill walking:** Start at temple (uphill), walk down through historic streets
+- **Geographic efficiency:** Eastern Kyoto → Southern Kyoto (Uji) → Central (teamLab)
+- **Heat management:** Outdoor activities done by noon, indoor teamLab during peak heat
+- **Energy management:** Most active sightseeing in cool morning hours
+- **Cultural variety:** Temple → historic streets → matcha culture → digital art
+- **Built-in rest:** Afternoon indoor time and evening flexibility
 
 ### Uji tips
 - Uji is the birthplace of Japanese green tea culture
@@ -706,14 +809,25 @@ Book ALL of these on the same day when the 3-month booking window opens:
   - Depachika (basement food halls)
   - Air-conditioned shopping and browsing
 
-### Evening
+### Evening - Osaka Food Street Crawl
 - **Dotonbori** ⭐⭐⭐ - Iconic Osaka nightlife district
-- **Shinsaibashi** - Shopping arcade
-- Dinner in Namba area
+  - Famous Glico Running Man sign
+  - Neon lights and canal views
+  - Street food paradise
+- **Shinsaibashi** ⭐⭐⭐ - Covered shopping arcade
+  - Connects to Dotonbori
+  - Mix of shopping and dining
+- **Food Street Crawl** ⭐⭐⭐ - Sample multiple Osaka specialties
+  - **Takoyaki** (octopus balls) - Must-try at multiple stands
+  - **Okonomiyaki** (savory pancake) - Osaka's signature dish
+  - **Kushikatsu** (deep-fried skewers) - Don't double-dip in the sauce!
+  - **Kitsune udon** (fox udon with fried tofu)
+  - **Taiyaki** (fish-shaped cake with filling)
+  - Strategy: Share small portions at multiple spots rather than full meals
 
 ### Food focus
 - **Nara lunch:** Kakinoha-zushi, udon, soba, traditional sweets, mochi
-- **Osaka dinner:** Takoyaki ⭐⭐⭐, okonomiyaki ⭐⭐⭐, kushikatsu, kitsune udon
+- **Osaka evening food crawl:** Takoyaki ⭐⭐⭐, okonomiyaki ⭐⭐⭐, kushikatsu ⭐⭐⭐, kitsune udon, taiyaki, street snacks
 
 ### Transportation
 - **Kyoto to Nara:** Kintetsu Limited Express (35 min, ~¥1,160) or Regular (45 min, ~¥640)
@@ -954,26 +1068,35 @@ Probably skip unless they specifically want something intense:
 - Nara was moved to July 23 as a stopover between Kyoto and Osaka
 - This creates an extra day in Osaka for relaxation or additional exploration
 - Use this day based on family energy and interests
+- Day AFTER Universal Studios Japan (July 24), so recovery is important
 
-### Option 1: Osaka Castle and Surroundings
+### Option 1: Osaka Castle and Shinsekai
 **Morning:**
 - **Osaka Castle** ⭐⭐⭐ - Iconic landmark with museum inside
-- Castle grounds and gardens
-- Photo opportunities
+  - Castle grounds and gardens
+  - Photo opportunities
+  - Historical exhibits
+  - **Time needed:** 1.5-2 hours
 
 **Afternoon:**
-- Nearby shopping or rest at hotel
+- **Shinsekai** ⭐⭐⭐ - Retro entertainment district
+  - Tsutenkaku Tower
+  - Old-school Osaka atmosphere
+  - Kushikatsu restaurants
+  - Unique photo opportunities
 - Indoor activities during peak heat
 
 **Evening:**
 - Return to favorite Osaka spots (Dotonbori, Shinsaibashi)
 - Try any missed Osaka foods
 
-### Option 2: Kuromon Market and Shopping
+### Option 2: Kuromon Market and Umeda Sky Building
 **Morning:**
 - **Kuromon Ichiba Market** ⭐⭐⭐ - "Osaka's Kitchen"
-- Fresh seafood, street food, local specialties
-- Interactive food experience
+  - Fresh seafood, street food, local specialties
+  - Interactive food experience
+  - Sample various foods for breakfast/brunch
+  - **Time needed:** 1-1.5 hours
 
 **Afternoon:**
 - Shopping in Shinsaibashi or Amerikamura
@@ -981,10 +1104,15 @@ Probably skip unless they specifically want something intense:
 - Indoor browsing during heat
 
 **Evening:**
-- Relaxed dinner
-- Evening walk in favorite areas
+- **Umeda Sky Building** ⭐⭐⭐ - Futuristic floating observatory
+  - 173m high observation deck
+  - 360-degree views of Osaka
+  - Unique architecture with escalator through the sky
+  - Perfect for sunset views
+  - **Time needed:** 45-60 minutes
+- Dinner in Umeda area
 
-### Option 3: Relaxed Recovery Day
+### Option 3: Relaxed Recovery Day (Recommended)
 **Morning:**
 - Sleep in and leisurely breakfast
 - Hotel pool or amenities if available
@@ -992,11 +1120,11 @@ Probably skip unless they specifically want something intense:
 **Afternoon:**
 - Light shopping or depachika browsing
 - Café time and rest
-- Prepare for USJ tomorrow
+- Optional: Brief visit to Kuromon Market or nearby attractions
 
 **Evening:**
 - Early dinner
-- Early night to rest before Universal Studios Japan
+- Early night to rest before travel to Tokyo next day
 
 ### Option 4: Day Trip to Kobe (If Energy is High)
 **Full Day:**
@@ -1007,21 +1135,26 @@ Probably skip unless they specifically want something intense:
 
 ### Recommended Choice
 **Option 3 (Relaxed Recovery Day)** is recommended because:
-- Day before Universal Studios Japan (July 24) - WAIT, USJ is July 24, this is July 25 (day AFTER USJ)
+- Day AFTER Universal Studios Japan (July 24) - family will be tired
 - Mid-trip recovery time after intense USJ day
-- Allows family to recharge
+- Allows family to recharge before travel day
 - Flexibility to do light activities if desired
 - Good buffer before Osaka to Tokyo travel (July 26)
+
+**Alternative:** Option 2 if family has good energy - combines food experience (Kuromon) with iconic view (Umeda Sky Building)
 
 ### Food Focus
 - Whatever you're craving or missed earlier
 - More takoyaki, okonomiyaki, or kushikatsu
+- Kuromon Market fresh seafood and street food
 - Depachika treats
 - Casual dining
 
 ### Transportation
-- Depends on chosen option
-- Most activities accessible via Osaka Metro
+- **To Osaka Castle:** Osaka Metro Tanimachi Line or Chuo Line
+- **To Shinsekai:** Osaka Metro Midosuji Line or Sakaisuji Line to Dobutsuen-mae or Ebisucho
+- **To Kuromon Market:** Osaka Metro Sennichimae Line or Sakaisuji Line to Nippombashi
+- **To Umeda Sky Building:** Osaka Metro to Umeda Station, then 10-min walk
 - Taxis available for convenience
 
 ---
@@ -1265,6 +1398,8 @@ Probably skip unless they specifically want something intense:
 
 ## Monday, July 28 — Check out Disney Celebration Hotel, then head to your Shibuya hotel
 
+**Hotel:** Shibuya hotel (TBD)
+
 ### Morning
 - Check out of Disney Celebration Hotel
 - Travel to your hotel in Shibuya
@@ -1313,69 +1448,147 @@ Probably skip unless they specifically want something intense:
 
 ---
 
-## Tuesday, July 29 — Tokyo Station and Ginza
+## Tuesday, July 29 — Meiji Shrine, Tokyo Station, Ginza
 
-### Morning
-- Tokyo Station
-- Marunouchi
+**Hotel:** Shibuya hotel (TBD)
 
-### Afternoon
+### Morning - Meiji Shrine
+- **Meiji Shrine (Meiji Jingu)** ⭐⭐⭐ - Tokyo's most important Shinto shrine
+  - Peaceful forested grounds in the heart of Tokyo
+  - Traditional shrine architecture
+  - Often see traditional weddings
+  - Adjacent to Yoyogi Park
+  - **Time needed:** 45-60 minutes
+- **Best timing:** Early morning before heat and crowds
+
+### Late Morning/Midday - Tokyo Station
+- Travel to Tokyo Station area
+- **Tokyo Station** ⭐⭐⭐ - Historic red brick building
+  - Beautiful architecture
+  - Character Street (anime/manga merchandise)
+  - Ramen Street (multiple famous ramen shops)
+- **Marunouchi** ⭐⭐ - Business district with upscale shopping
+  - Modern shopping complexes
+  - Depachika food halls
+
+### Afternoon - Ginza
+- **Ginza** ⭐⭐⭐ - Upscale shopping district
+  - Department stores (Mitsukoshi, Matsuya, Wako)
+  - UNIQLO flagship store
+  - GU Ginza
+  - Ginza Six shopping complex
 - Ginza food halls, sweets, and indoor browsing
+- Stay indoors during peak heat
 
 ### Evening
 - Family dinner in Ginza
+- Evening stroll when cooler
 
 ### Food focus
-- Ekiben, depachika, sushi, omurice, Japanese curry, parfaits
+- **Tokyo Station:** Ramen Street ⭐⭐⭐, ekiben, Character Street snacks
+- **Ginza:** Depachika treats, sushi, tonkatsu, Japanese curry, parfaits, fruit sandos
 
 ### Transportation
-- To Tokyo Station: JR train or Tokyo Metro Marunouchi Line
-- To Ginza: walk or Tokyo Metro Marunouchi Line
+- **Shibuya to Meiji Shrine:** JR Yamanote Line to Harajuku Station (2 stops), then 10-min walk
+- **Meiji Shrine to Tokyo Station:** JR Yamanote Line from Harajuku to Tokyo Station (20 min)
+- **Tokyo Station to Ginza:** Walk (15 min) or Tokyo Metro Marunouchi Line (1 stop)
+- **Ginza to Shibuya:** Tokyo Metro or JR train
 
 ---
 
-## Wednesday, July 30 — Odaiba
+## Wednesday, July 30 — Sumida River and Akihabara
 
-### Morning
-- Bayfront stroll before midday heat
+**Hotel:** Shibuya hotel (TBD)
 
-### Afternoon
-- Indoor attractions and shopping
+### Morning - Sumida River Area
+- **Sumida River** ⭐⭐⭐ - Scenic river walk
+  - **Tokyo Skytree** ⭐⭐⭐ - World's tallest tower (634m)
+    - Observation decks with panoramic views
+    - Shopping complex at base
+    - Optional: Go up for views or just admire from outside
+  - **Sumida Park** - Riverside park
+  - **Asahi Beer Hall** - Unique golden building (photo opportunity)
+- River cruise option if interested
+- **Time needed:** 2-3 hours
+
+### Afternoon - Akihabara
+- **Akihabara** ⭐⭐⭐ - Electric Town and otaku culture center
+  - **Electronics shops** - Multi-story electronics megastores
+  - **Anime and manga shops** - Character goods, figures, collectibles
+  - **Arcade centers** - Multi-floor game centers
+  - **Maid cafés** - Unique Japanese pop culture experience (optional)
+  - **Gachapon halls** - Capsule toy vending machines
+  - Perfect for teens interested in Japanese pop culture
+- Indoor activities during peak heat
+- **Time needed:** 2-3 hours
 
 ### Evening
-- Waterfront dinner
+- Dinner in Akihabara or return to Shibuya
+- Evening exploration of favorite areas
 
 ### Food focus
-- Choose Japanese comfort foods such as ramen, udon, or teishoku
+- **Sumida area:** Ramen, tempura, traditional Japanese set meals
+- **Akihabara:** Themed cafés, ramen, curry rice, tonkatsu, conveyor belt sushi
 
 ### Transportation
-- Yurikamome train
-- Alternative: Rinkai Line train
+- **Shibuya to Sumida/Skytree:** Tokyo Metro Hanzomon Line to Oshiage (30 min)
+- **Sumida to Akihabara:** Tobu Skytree Line to Asakusa, then Tokyo Metro Ginza Line to Suehirocho (15 min)
+  - Alternative: Walk along river to Asakusa, then train to Akihabara
+- **Akihabara to Shibuya:** JR Yamanote Line (25 min)
 
 ---
 
 ## Thursday, July 31 — Flexible Tokyo family day
 
-### Morning
-- Optional early Kamakura or slower Tokyo day
+**Hotel:** Shibuya hotel (TBD)
 
-### Afternoon
-- Indoor desserts, tea break, and rest
+### Options for the Day
 
-### Evening
-- Revisit favorite neighborhood
+**Option 1: Odaiba**
+- **Morning:** Bayfront stroll before midday heat
+- **Afternoon:** Indoor attractions and shopping (teamLab Borderless, Palette Town, DiverCity Tokyo Plaza)
+- **Evening:** Waterfront dinner and Rainbow Bridge views
+- **Transportation:** Yurikamome train or Rinkai Line
+
+**Option 2: Kamakura Day Trip**
+- **Morning:** Early train to Kamakura
+- **Attractions:** Great Buddha, Hasedera Temple, Komachi Street shopping
+- **Afternoon:** Beach area or return to Tokyo
+- **Food:** Matcha sweets, shirasu (whitebait), local snacks
+- **Transportation:** JR Yokosuka Line from Tokyo Station (1 hour)
+
+**Option 3: Relaxed Tokyo Day**
+- **Morning:** Sleep in, leisurely breakfast
+- **Afternoon:** Indoor desserts, tea break, and rest
+  - Parfait hunting in Shibuya or Harajuku
+  - Depachika browsing
+  - Shopping for souvenirs
+- **Evening:** Revisit favorite neighborhood
+
+**Option 4: Repeat Favorites**
+- Revisit any attractions from earlier in the trip
+- Return to favorite restaurants
+- Complete any missed shopping
+- Take it easy before final days
+
+### Recommended Choice
+**Option 3 (Relaxed Tokyo Day)** - allows family to rest and enjoy Tokyo at a slower pace before final packing days
 
 ### Food focus
-- Kamakura: matcha sweets and local snacks
-- Tokyo option: parfait, kakigori, or wagashi day
+- **Kamakura option:** Matcha sweets, shirasu, local snacks
+- **Tokyo option:** Parfait ⭐⭐⭐, kakigori (shaved ice), wagashi, depachika treats
+- **Odaiba option:** Ramen, udon, teishoku, international options
 
 ### Transportation
-- To Kamakura: JR Yokosuka Line
-- In Tokyo: JR trains and Tokyo Metro subway
+- **To Kamakura:** JR Yokosuka Line from Tokyo Station
+- **To Odaiba:** Yurikamome train from Shimbashi or Rinkai Line
+- **In Tokyo:** JR trains and Tokyo Metro subway
 
 ---
 
 ## Friday, August 1 — Shibuya and Shinjuku revisit
+
+**Hotel:** Shibuya hotel (TBD)
 
 ### Morning
 - Outdoor time in Shibuya
@@ -1396,6 +1609,8 @@ Probably skip unless they specifically want something intense:
 
 ## Saturday, August 2 — Last full day
 
+**Hotel:** Shibuya hotel (TBD)
+
 ### Morning
 - Favorite area or souvenir errand
 
@@ -1415,6 +1630,8 @@ Probably skip unless they specifically want something intense:
 ---
 
 ## Sunday, August 3 — Departure day
+
+**Hotel:** Shibuya hotel (TBD)
 
 ### Morning
 - Sleep in, pack, brunch
