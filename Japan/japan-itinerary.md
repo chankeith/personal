@@ -690,19 +690,19 @@ Book ALL of these on the same day when the 3-month booking window opens:
 
 ### Early Morning - Kiyomizu-dera and Historic Streets
 - Start very early to beat crowds and heat
-- **Kiyomizu-dera Temple** ⭐⭐⭐ - One of Kyoto's most famous temples
+- [**Kiyomizu-dera Temple**](https://www.google.com/maps/search/Kiyomizu-dera+Temple+Kyoto) ⭐⭐⭐ - One of Kyoto's most famous temples
   - UNESCO World Heritage site
   - Stunning wooden stage with panoramic city views
   - Beautiful temple complex and grounds
   - **Best timing:** Arrive at opening (early morning)
   - **Time needed:** 60-90 minutes
 
-- **Sannen-zaka (Sannenzaka)** ⭐⭐⭐ - Charming sloped street
+- [**Sannen-zaka (Sannenzaka)**](https://www.google.com/maps/search/Sannenzaka+Kyoto) ⭐⭐⭐ - Charming sloped street
   - Walk downhill from Kiyomizu-dera
   - Traditional wooden buildings and shops
   - Perfect for photos and browsing
   
-- **Ninen-zaka (Ninenzaka)** ⭐⭐⭐ - Continuation of Sannen-zaka
+- [**Ninen-zaka (Ninenzaka)**](https://www.google.com/maps/search/Ninenzaka+Kyoto) ⭐⭐⭐ - Continuation of Sannen-zaka
   - Historic preservation district
   - Stone-paved slopes with traditional atmosphere
   - **Combined time for both streets:** 45-60 minutes
@@ -812,11 +812,11 @@ Book ALL of these on the same day when the 3-month booking window opens:
   - Air-conditioned shopping and browsing
 
 ### Evening - Osaka Food Street Crawl
-- **Dotonbori** ⭐⭐⭐ - Iconic Osaka nightlife district
+- [**Dotonbori**](https://www.google.com/maps/search/Dotonbori+Osaka) ⭐⭐⭐ - Iconic Osaka nightlife district
   - Famous Glico Running Man sign
   - Neon lights and canal views
   - Street food paradise
-- **Shinsaibashi** ⭐⭐⭐ - Covered shopping arcade
+- [**Shinsaibashi**](https://www.google.com/maps/search/Shinsaibashi+Osaka) ⭐⭐⭐ - Covered shopping arcade
   - Connects to Dotonbori
   - Mix of shopping and dining
 - **Food Street Crawl** ⭐⭐⭐ - Sample multiple Osaka specialties
@@ -1074,15 +1074,15 @@ Probably skip unless they specifically want something intense:
 
 ### Option 1: Osaka Castle and Shinsekai
 **Morning:**
-- **Osaka Castle** ⭐⭐⭐ - Iconic landmark with museum inside
+- [**Osaka Castle**](https://www.google.com/maps/search/Osaka+Castle) ⭐⭐⭐ - Iconic landmark with museum inside
   - Castle grounds and gardens
   - Photo opportunities
   - Historical exhibits
   - **Time needed:** 1.5-2 hours
 
 **Afternoon:**
-- **Shinsekai** ⭐⭐⭐ - Retro entertainment district
-  - Tsutenkaku Tower
+- [**Shinsekai**](https://www.google.com/maps/search/Shinsekai+Osaka) ⭐⭐⭐ - Retro entertainment district
+  - [**Tsutenkaku Tower**](https://www.google.com/maps/search/Tsutenkaku+Tower+Osaka)
   - Old-school Osaka atmosphere
   - Kushikatsu restaurants
   - Unique photo opportunities
@@ -1094,7 +1094,7 @@ Probably skip unless they specifically want something intense:
 
 ### Option 2: Kuromon Market and Umeda Sky Building
 **Morning:**
-- **Kuromon Ichiba Market** ⭐⭐⭐ - "Osaka's Kitchen"
+- [**Kuromon Ichiba Market**](https://www.google.com/maps/search/Kuromon+Ichiba+Market+Osaka) ⭐⭐⭐ - "Osaka's Kitchen"
   - Fresh seafood, street food, local specialties
   - Interactive food experience
   - Sample various foods for breakfast/brunch
@@ -1106,7 +1106,7 @@ Probably skip unless they specifically want something intense:
 - Indoor browsing during heat
 
 **Evening:**
-- **Umeda Sky Building** ⭐⭐⭐ - Futuristic floating observatory
+- [**Umeda Sky Building**](https://www.google.com/maps/search/Umeda+Sky+Building+Osaka) ⭐⭐⭐ - Futuristic floating observatory
   - 173m high observation deck
   - 360-degree views of Osaka
   - Unique architecture with escalator through the sky
@@ -1455,7 +1455,7 @@ Probably skip unless they specifically want something intense:
 **Hotel:** Shibuya hotel (TBD)
 
 ### Morning - Meiji Shrine
-- **Meiji Shrine (Meiji Jingu)** ⭐⭐⭐ - Tokyo's most important Shinto shrine
+- [**Meiji Shrine (Meiji Jingu)**](https://www.google.com/maps/search/Meiji+Jingu+Shrine+Tokyo) ⭐⭐⭐ - Tokyo's most important Shinto shrine
   - Peaceful forested grounds in the heart of Tokyo
   - Traditional shrine architecture
   - Often see traditional weddings
@@ -1503,18 +1503,18 @@ Probably skip unless they specifically want something intense:
 **Hotel:** Shibuya hotel (TBD)
 
 ### Morning - Sumida River Area
-- **Sumida River** ⭐⭐⭐ - Scenic river walk
-  - **Tokyo Skytree** ⭐⭐⭐ - World's tallest tower (634m)
+- [**Sumida River**](https://www.google.com/maps/search/Sumida+River+Tokyo) ⭐⭐⭐ - Scenic river walk
+  - [**Tokyo Skytree**](https://www.google.com/maps/search/Tokyo+Skytree) ⭐⭐⭐ - World's tallest tower (634m)
     - Observation decks with panoramic views
     - Shopping complex at base
     - Optional: Go up for views or just admire from outside
-  - **Sumida Park** - Riverside park
-  - **Asahi Beer Hall** - Unique golden building (photo opportunity)
+  - [**Sumida Park**](https://www.google.com/maps/search/Sumida+Park+Tokyo) - Riverside park
+  - [**Asahi Beer Hall**](https://www.google.com/maps/search/Asahi+Beer+Hall+Tokyo) - Unique golden building (photo opportunity)
 - River cruise option if interested
 - **Time needed:** 2-3 hours
 
 ### Afternoon - Akihabara
-- **Akihabara** ⭐⭐⭐ - Electric Town and otaku culture center
+- [**Akihabara**](https://www.google.com/maps/search/Akihabara+Tokyo) ⭐⭐⭐ - Electric Town and otaku culture center
   - **Electronics shops** - Multi-story electronics megastores
   - **Anime and manga shops** - Character goods, figures, collectibles
   - **Arcade centers** - Multi-floor game centers
