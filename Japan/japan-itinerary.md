@@ -438,23 +438,102 @@ Book ALL of these on the same day when the 3-month booking window opens:
 
 ## Sunday, July 20 — Hakone to Kyoto
 
-### Morning
-- Slow breakfast
+### Morning at Ryokan
+- Leisurely breakfast at Hakone Kowakien Mikawaya Ryokan
+- Check out (usually by 10:00-11:00 AM)
+- Pack and prepare for departure
 
-### Afternoon
-- Travel to Kyoto and check in
+### Late Morning/Midday - Travel to Kyoto
+**Step-by-step travel instructions:**
+
+**Option 1: Most Direct Route (Recommended)**
+1. **Ryokan to Hakone-Yumoto Station**
+   - Take local bus or taxi from ryokan
+   - Time: 15-30 minutes depending on ryokan location
+   - Cost: Bus ~¥500, Taxi ~¥2,000-3,000
+
+2. **Hakone-Yumoto to Odawara Station**
+   - Hakone Tozan Railway
+   - Time: 15 minutes
+   - Frequency: Every 15-20 minutes
+   - Cost: Covered by Hakone Free Pass or ¥310
+
+3. **Odawara to Kyoto**
+   - Tokaido Shinkansen (Hikari or Kodama train)
+   - Time: 2 hours 15 minutes
+   - Frequency: Multiple trains per hour
+   - Cost: ~¥12,000 per person (reserved seat)
+   - **Book in advance** for reserved seats (especially with luggage)
+
+4. **Kyoto Station to Hotel**
+   - Taxi (easiest with luggage)
+   - Time: 10-20 minutes depending on hotel location
+   - Cost: ~¥1,500-2,500
+
+**Total travel time:** ~3-3.5 hours door-to-door
+
+**Option 2: Via Tokyo (Not Recommended - Adds Time)**
+- Hakone → Odawara → Tokyo → Kyoto
+- Adds 1-2 hours, more expensive, unnecessary backtracking
+
+### Afternoon in Kyoto
+- Arrive Kyoto around 2:00-3:00 PM
+- Check in to hotel
+- Rest and refresh after travel
+- Unpack and settle in
 
 ### Evening
 - Gentle family walk through Gion or Pontocho
+- Explore traditional streets and machiya houses
+- Light evening activity after travel day
 
 ### Food focus
-- Kyoto-style dinner with tofu dishes, soba, tempura, or a traditional set meal
-- Matcha dessert if everyone still has energy
+- **Lunch:** Ekiben (train bento box) on Shinkansen or light meal at Odawara Station
+- **Dinner:** Kyoto-style dinner with tofu dishes, soba, tempura, or traditional set meal
+- **Optional:** Matcha dessert if everyone still has energy
 
-### Transportation
-- Hakone to Odawara: Hakone Tozan train or bus
-- Odawara to Kyoto: Tokaido Shinkansen
-- Kyoto Station to hotel: taxi
+### Transportation Details
+
+**Shinkansen Ticket Purchase Options:**
+1. **Online in advance** (recommended):
+   - JR East website: https://www.jreast.co.jp/multi/en/
+   - Smart EX: https://smart-ex.jp/en/
+   - Klook or other travel sites
+
+2. **At station:**
+   - Odawara Station ticket office
+   - Green Window (Midori-no-madoguchi)
+   - Ticket machines (English available)
+
+3. **Reserved vs Non-Reserved:**
+   - **Reserved seats recommended** with family and luggage
+   - Non-reserved cars can be crowded
+   - Small price difference (~¥500)
+
+**Luggage Tips:**
+- **Overhead racks** on Shinkansen fit medium suitcases
+- **Behind last row** has extra space for large luggage
+- **Luggage forwarding service** (takkyubin) - can send bags ahead from ryokan to Kyoto hotel (arrives next day, ~¥2,000 per bag)
+
+**Train Types:**
+- **Nozomi** - Fastest but NOT covered by JR Pass (if you have one)
+- **Hikari** - Fast, stops at major stations, good choice
+- **Kodama** - All stations, slower but more frequent
+
+**Recommended departure time from Hakone:**
+- Leave ryokan: 10:00-11:00 AM
+- Arrive Odawara: 11:30 AM-12:00 PM
+- Board Shinkansen: 12:00-1:00 PM
+- Arrive Kyoto: 2:00-3:00 PM
+
+### Travel Day Tips
+- **Book Shinkansen tickets 1 month in advance** (June 20, 2026)
+- **Eat breakfast well** at ryokan - it's included and delicious
+- **Buy ekiben** at Odawara Station for train lunch
+- **Keep travel light** - consider luggage forwarding service
+- **Download offline maps** - Google Maps works offline in Japan
+- **Have cash ready** - for taxis and local buses
+- **Arrive Odawara Station early** - allow 30 min buffer for ticket purchase if not pre-booked
 
 ---
 
