@@ -60,8 +60,8 @@ This itinerary was designed with the following considerations:
   - Day 4: July 19 - Travel to Hakone with Lake Ashi Cruise
 - [Kyoto (July 20-22)](#kyoto)
   - Day 5: July 20 - Hakone to Kyoto, Nishiki Market, Gion evening
-  - Day 6: July 21 - Fushimi Inari, Arashiyama, Golden Pavilion, Pontocho
-  - Day 7: July 22 - Kiyomizu-dera, Sannen-zaka/Ninen-zaka, Uji matcha, teamLab Kyoto
+  - Day 6: July 21 - Fushimi Inari, Northern Kyoto temples (Kinkaku-ji, Ryoan-ji), Pontocho
+  - Day 7: July 22 - Arashiyama, Uji matcha, teamLab Kyoto
 - [Osaka and Nara (July 23-25)](#osaka-and-nara)
   - Day 8: July 23 - Kyoto to Nara to Osaka (Nara stopover), Dotonbori food crawl
   - Day 9: July 24 - Universal Studios Japan
@@ -135,6 +135,21 @@ Book ALL of these on the same day when the 3-month booking window opens:
 
 ---
 
+## Transportation in Japan
+
+For comprehensive information about navigating Japan's train and bus systems, including:
+- JR trains, Tokyo Metro, and private railways
+- Shinkansen (bullet train) booking and types
+- IC cards (Suica/Pasmo/ICOCA)
+- City buses in Tokyo and Kyoto
+- Transportation passes (Hakone Free Pass, JR Pass analysis)
+- Navigation apps and general tips
+
+**See the detailed guide:** [Transportation Guide: Trains and Buses in Japan](transportation.md)
+
+---
+
+
 ## Tokyo Arrival and First Stay
 
 ## Wednesday, July 16 — Arrive in Tokyo, evening in Ginza
@@ -173,8 +188,11 @@ Book ALL of these on the same day when the 3-month booking window opens:
 - Try Japanese pudding, fruit sandos, melon pan, dorayaki, or seasonal wagashi
 
 ### Transportation
-- Haneda to central Tokyo: Tokyo Monorail to Hamamatsucho (15 min) plus JR Yamanote Line to Ginza area (5-10 min), or Keikyu Line direct to Higashi-Ginza (25-30 min)
-- To Ginza: Tokyo Metro Ginza Line, Marunouchi Line, or Hibiya Line (varies by starting point, typically 10-20 min)
+**From Haneda Airport to Ginza:**
+- **Option 1 (Recommended):** Tokyo Monorail (monorail) to Hamamatsucho Station (15 min), transfer to **JR Yamanote Line** (local train, green line) to Shimbashi or Yurakucho (5-10 min), walk to Ginza (5 min)
+- **Option 2:** Keikyu Airport Line (private railway, red line) direct to Higashi-Ginza Station (25-30 min, no transfers)
+- **Option 3:** Airport Limousine Bus direct to Ginza hotels (45-60 min, ¥1,000-1,300)
+- **IC Card:** Purchase Suica or Pasmo at airport for easy travel (¥500 deposit + initial charge)
 - In Ginza: walk
 
 ---
@@ -272,8 +290,11 @@ Book ALL of these on the same day when the 3-month booking window opens:
 - **Ginza:** depachika treasures, Japanese pudding, fruit sandos, tonkatsu, sushi
 
 ### Transportation
-- Hotel or Ginza to Asakusa: **Tokyo Metro Ginza Line direct** (15 min, most efficient) or Toei Asakusa Line (12-15 min)
-- In Asakusa: walk (all attractions within 10-minute walk)
+**Ginza to Asakusa:**
+- **Best option:** **Tokyo Metro Ginza Line** (orange line, subway) direct from Ginza Station to Asakusa Station (15 min, no transfers) - most efficient
+- **Alternative:** Toei Asakusa Line (subway, pink line) from Higashi-Ginza to Asakusa (12-15 min)
+- **Within Asakusa:** All attractions within 10-minute walk
+- **Train type:** Local subway trains (frequent service every 3-5 minutes)
 - Asakusa to Ginza: **Tokyo Metro Ginza Line direct** (15 min, no transfers)
 - In Ginza: walk (compact shopping district)
 
@@ -367,12 +388,12 @@ Book ALL of these on the same day when the 3-month booking window opens:
 - **Dinner:** Ginza - tonkatsu, sushi, tempura, or Japanese set meals
 
 ### Transportation - Optimized Linear Route
-- Hotel to Tsukiji: Tokyo Metro Hibiya Line (8-10 min) or taxi (10-15 min)
-- Tsukiji to Hamarikyu Gardens: **5-minute walk** ✅
-- Hamarikyu to Imperial Palace: Walk (20 min) or taxi (10 min)
-- Imperial Palace to teamLab (Azabudai Hills): Taxi (15 min) or Tokyo Metro Hibiya Line (12-15 min)
-- Azabudai Hills to Ginza: Taxi (10 min) or Tokyo Metro Hibiya Line (8-10 min)
-- Ginza to hotel: **Walk (5-10 min)** ✅
+- **Hotel to Tsukiji:** **Tokyo Metro Hibiya Line** (gray line, subway) from Ginza to Tsukiji Station (8-10 min, local train) or taxi (10-15 min)
+- **Tsukiji to Hamarikyu Gardens:** **5-minute walk** ✅
+- **Hamarikyu to Imperial Palace:** Walk (20 min) or taxi (10 min)
+- **Imperial Palace to teamLab (Azabudai Hills):** Taxi (15 min) or **Tokyo Metro Hibiya Line** from Hibiya to Kamiyacho (12-15 min, local train)
+- **Azabudai Hills to Ginza:** Taxi (10 min) or **Tokyo Metro Hibiya Line** from Kamiyacho to Ginza (8-10 min, local train)
+- **Ginza to hotel:** **Walk (5-10 min)** ✅
 
 **Total travel time for day:** ~45 minutes (very efficient!)
 
@@ -469,15 +490,15 @@ Book ALL of these on the same day when the 3-month booking window opens:
 
 ### Transportation - Hakone Loop Route
 **Recommended efficient route using Hakone Free Pass:**
-1. Hakone-Yumoto Station → Hakone Open-Air Museum: Tozan Train to Chokoku-no-Mori (10 min)
-2. Museum → Gora Station: Tozan Train (5 min)
-3. Gora → Sōunzan: Hakone Tozan Cable Car (10 min)
-4. Sōunzan → Owakudani → Togendai: Hakone Ropeway (30 min total)
-5. Togendai → Hakone-machi/Moto-Hakone: Pirate Ship (30-40 min)
-6. Hakone Shrine area: walk from port (5-10 min)
-7. Moto-Hakone → Hakone Kowakien Mikawaya Ryokan: bus (15-20 min) or taxi (10 min)
+1. **Hakone-Yumoto → Hakone Open-Air Museum:** **Hakone Tozan Train** (mountain railway, red trains) to Chokoku-no-Mori Station (10 min, local train)
+2. **Museum → Gora Station:** **Hakone Tozan Train** (5 min, local train)
+3. **Gora → Sōunzan:** **Hakone Tozan Cable Car** (funicular railway, 10 min)
+4. **Sōunzan → Owakudani → Togendai:** **Hakone Ropeway** (aerial cable car, 30 min total with stop at Owakudani)
+5. **Togendai → Hakone-machi/Moto-Hakone:** **Hakone Pirate Ship** (sightseeing cruise, 30-40 min)
+6. **Hakone Shrine area:** Walk from port (5-10 min)
+7. **Moto-Hakone → Ryokan:** Hakone Tozan Bus (local bus, 15-20 min) or taxi (10 min)
 
-**Alternative:** Tokyo (Shinjuku) to Hakone-Yumoto: Odakyu Romancecar train (90 min)
+**Alternative from Tokyo:** **Odakyu Romancecar** (limited express, reserved seats) from Shinjuku to Hakone-Yumoto (90 min, comfortable scenic train)
 
 ### Hakone tips
 - **Purchase Hakone Free Pass** - covers all transportation (Romancecar, trains, cable car, ropeway, pirate ship, buses)
@@ -668,111 +689,126 @@ Book ALL of these on the same day when the 3-month booking window opens:
 
 ## Kyoto
 
-## Monday, July 21 — Fushimi Inari early morning, Arashiyama, Golden Pavilion
+## Monday, July 21 — Fushimi Inari early morning, Northern Kyoto temples
 
 **Hotel:** Hotel Gran Ms Kyoto (Near Nishiki Market) - recommended
 
 ### Early Morning - Fushimi Inari
-- **Fushimi Inari Shrine** ⭐⭐⭐ - Start very early
+- [**Fushimi Inari Shrine**](https://www.google.com/maps/search/Fushimi+Inari+Shrine+Kyoto) ⭐⭐⭐ - Start very early
 - Walk through the iconic torii gate tunnels before crowds and heat
 - Go as far up the mountain as energy allows
 - Best strategy: enjoy the lower and middle gates, turn back when it gets crowded or hot
 - **Time needed:** 1.5-2 hours
-- Return by mid-morning
+- Return to central Kyoto by mid-morning
 
-### Late Morning - Arashiyama
-- Travel to Arashiyama (30-40 minutes from Fushimi Inari)
-- **Arashiyama Bamboo Grove** ⭐⭐⭐ - Walk through the iconic bamboo forest
-- **Togetsukyo Bridge** ⭐⭐ - Scenic bridge over Katsura River
-- River area and scenic walks
-- Optional: Quick monkey park only if energy is high
-- **Time needed:** 2-3 hours
+### Late Morning/Midday - Return to Central Kyoto
+- Travel back to central Kyoto (15-20 min)
+- Lunch break near hotel or in central area
+- Rest indoors during peak heat
 
-### Afternoon - Golden Pavilion
-- Return toward central/northern Kyoto
-- Lunch break (indoor restaurant or café to escape heat)
-- **Kinkaku-ji (Golden Pavilion)** ⭐⭐⭐ - Stunning gold-leaf covered temple
+### Afternoon - Northern Kyoto Temple Cluster
+- Travel to Northern Kyoto (20-25 min from central)
+- [**Kinkaku-ji (Golden Pavilion)**](https://www.google.com/maps/search/Kinkaku-ji+Golden+Pavilion+Kyoto) ⭐⭐⭐ - Stunning gold-leaf covered temple
   - One of Kyoto's most iconic sights
   - Beautiful gardens and pond reflections
   - Best visited in afternoon when crowds thin slightly
   - **Time needed:** 45-60 minutes
 
+- [**Ryoan-ji Temple**](https://www.google.com/maps/search/Ryoan-ji+Temple+Kyoto) ⭐⭐⭐ - Famous Zen rock garden
+  - UNESCO World Heritage site
+  - Japan's most famous rock garden
+  - Peaceful contemplative atmosphere
+  - Only 5-10 minutes from Kinkaku-ji by bus or taxi
+  - **Time needed:** 30-45 minutes
+
+**Alternative to Ryoan-ji:**
+- [**Ninna-ji Temple**](https://www.google.com/maps/search/Ninna-ji+Temple+Kyoto) ⭐⭐ - Historic temple with five-story pagoda
+  - UNESCO World Heritage site
+  - Beautiful temple grounds
+  - 10 minutes from Kinkaku-ji
+  - **Time needed:** 30-45 minutes
+
 ### Evening
-- Return to hotel for rest
+- Return to hotel for rest (20-25 min)
 - Light dinner near hotel or Pontocho Alley
-- **Pontocho Alley** ⭐⭐⭐ - Narrow atmospheric alley with traditional restaurants
+- [**Pontocho Alley**](https://www.google.com/maps/search/Pontocho+Alley+Kyoto) ⭐⭐⭐ - Narrow atmospheric alley with traditional restaurants
   - Perfect for evening stroll and dinner
   - Runs parallel to Kamo River
   - Traditional lanterns and ambiance
 
 ### Food focus
 - **Near Fushimi Inari:** Inari-zushi (fried tofu sushi), traditional sweets
-- **In Arashiyama:** Yuba (tofu skin), tofu dishes, croquettes, matcha soft serve
-- **Lunch:** Kyoto-style set meal or udon/soba
+- **Lunch:** Kyoto-style set meal, udon/soba, or café near hotel
+- **Northern Kyoto:** Light snacks or tea at temple areas
 - **Pontocho:** Traditional kaiseki, yakitori, izakaya dining
 
 ### Transportation
-- **Hotel to Fushimi Inari:** JR Nara Line to Inari Station (10 min train + 5 min walk to shrine) or Keihan Line to Fushimi-Inari Station (12 min train + 3 min walk)
-- **Fushimi Inari to Arashiyama:**
-  - Option 1: JR Nara Line to Kyoto Station (5 min), then JR Sagano Line to Saga-Arashiyama (15 min) - 40 min total including transfers
-  - Option 2: Taxi (30 min, ~¥3,500-4,500)
-- **Arashiyama to Kinkaku-ji:** Bus #93 (30-40 min) or taxi (25 min, ~¥2,500-3,000)
-- **Kinkaku-ji to hotel:** Bus (20-30 min) or taxi (15 min, ~¥1,500-2,000)
+- **Hotel to Fushimi Inari:**
+  - **Option 1:** **JR Nara Line** (local train) from Kyoto Station to Inari Station (10 min, 2 stops + 5 min walk to shrine)
+  - **Option 2:** **Keihan Main Line** (private railway) to Fushimi-Inari Station (12 min + 3 min walk) - closer to shrine entrance
+- **Fushimi Inari back to central Kyoto:** **JR Nara Line** (local train) or **Keihan Line** (10-15 min)
+- **Central Kyoto to Kinkaku-ji:** **Kyoto City Bus #101, #102, #204, or #205** (20-25 min, ¥230 flat fare) or taxi (15 min, ~¥1,500-2,000)
+- **Kinkaku-ji to Ryoan-ji:** **Kyoto City Bus #59** (5 min, ¥230) or walk (15-20 min) or taxi (5 min, ~¥800-1,000)
+- **Ryoan-ji/Ninna-ji back to hotel:** **Kyoto City Bus** (25-30 min, ¥230) or taxi (15-20 min, ~¥2,000-2,500)
 - **Hotel to Pontocho:** Walk (10-15 min) or taxi (5 min)
 
-### Why This Order Works
-- **Beat the crowds:** Fushimi Inari is best experienced early before tour groups arrive
-- **Beat the heat:** Complete most outdoor activities in cool morning hours
-- **Energy management:** Most active sightseeing early, lighter afternoon
-- **Geographic efficiency:** South (Fushimi Inari) → West (Arashiyama) → North (Kinkaku-ji) → Central (Pontocho)
-- **Built-in rest:** Lunch break and hotel rest before evening
+### Why This Revised Order Works Better
+- **Reduced travel time:** Eliminates the long Fushimi Inari → Arashiyama → Kinkaku-ji triangle
+- **Geographic clustering:** Northern temples are only 5-10 minutes apart (vs. 30-40 min between previous stops)
+- **Total travel time reduced:** From ~90-120 min to ~50-70 min for the day
+- **Beat the crowds:** Fushimi Inari still done early morning
+- **Beat the heat:** Outdoor activities in morning, indoor lunch break, afternoon temples with shade
+- **Energy management:** Less time in transit = more time enjoying attractions
+- **Cultural depth:** Two UNESCO World Heritage temples in Northern Kyoto cluster
+- **Built-in rest:** Midday break at hotel before afternoon temples
 - **Evening reward:** Relaxed Pontocho exploration and dinner
 
 ---
 
-## Tuesday, July 22 — Kiyomizu-dera, historic streets, Uji matcha, teamLab Kyoto
+## Tuesday, July 22 — Arashiyama morning, Uji matcha, teamLab Kyoto
 
 **Hotel:** Hotel Gran Ms Kyoto (Near Nishiki Market) - recommended
 
-### Early Morning - Kiyomizu-dera and Historic Streets
-- Start very early to beat crowds and heat
-- [**Kiyomizu-dera Temple**](https://www.google.com/maps/search/Kiyomizu-dera+Temple+Kyoto) ⭐⭐⭐ - One of Kyoto's most famous temples
-  - UNESCO World Heritage site
-  - Stunning wooden stage with panoramic city views
-  - Beautiful temple complex and grounds
-  - **Best timing:** Arrive at opening (early morning)
-  - **Time needed:** 60-90 minutes
+### Early Morning - Arashiyama
+- Start early to beat crowds and heat
+- Travel to Arashiyama (20-25 minutes from central Kyoto)
+- [**Arashiyama Bamboo Grove**](https://www.google.com/maps/search/Arashiyama+Bamboo+Grove+Kyoto) ⭐⭐⭐ - Walk through the iconic bamboo forest
+  - Best experienced early morning before tour groups
+  - Magical atmosphere with towering bamboo
+  - Perfect for photos
+  - **Time needed:** 30-45 minutes
 
-- [**Sannen-zaka (Sannenzaka)**](https://www.google.com/maps/search/Sannenzaka+Kyoto) ⭐⭐⭐ - Charming sloped street
-  - Walk downhill from Kiyomizu-dera
-  - Traditional wooden buildings and shops
-  - Perfect for photos and browsing
-  
-- [**Ninen-zaka (Ninenzaka)**](https://www.google.com/maps/search/Ninenzaka+Kyoto) ⭐⭐⭐ - Continuation of Sannen-zaka
-  - Historic preservation district
-  - Stone-paved slopes with traditional atmosphere
-  - **Combined time for both streets:** 45-60 minutes
+- [**Togetsukyo Bridge**](https://www.google.com/maps/search/Togetsukyo+Bridge+Kyoto) ⭐⭐ - Scenic bridge over Katsura River
+  - Beautiful river views
+  - Mountain backdrop
+  - Photo opportunity
+  - **Time needed:** 15-20 minutes
 
-**Total morning time:** 2-2.5 hours (complete by mid-morning)
+- **Arashiyama riverside area** - Scenic walks along the river
+- Optional: Quick visit to nearby temples if time and energy allow
+- **Total Arashiyama time:** 2-2.5 hours
 
-### Mid-Morning - Uji Matcha Experience
-- Travel to Uji from Kyoto Station (20-25 minutes via JR Nara Line)
+### Late Morning - Uji Matcha Experience
+- Travel from Arashiyama to Uji (30-35 minutes)
 - [**Byodoin Temple**](https://www.google.com/maps/search/Byodoin+Temple+Uji+Kyoto) ⭐⭐⭐ - UNESCO World Heritage site with Phoenix Hall (on 10 yen coin)
   - Beautiful temple and gardens
-  - 30-45 minutes
+  - Iconic architecture featured on Japanese currency
+  - **Time needed:** 30-45 minutes
+
 - [**Uji Matcha Experience**](https://www.google.com/maps/search/Uji+Matcha+Kyoto) ⭐⭐⭐
   - Visit famous matcha shops on Omotesando Street
   - Try authentic Uji matcha soft serve, matcha parfaits, or matcha sweets
   - Recommended shops: Nakamura Tokichi, Tsujiri, or Itohkyuemon
   - Browse tea shops and purchase high-quality matcha
-  - 45-60 minutes
-- **Uji River walk** - Brief stroll along scenic river if time permits
+  - **Time needed:** 45-60 minutes
 
-**Total Uji time:** 1.5-2 hours (complete by midday)
+- **Uji River walk** - Brief stroll along scenic river if time permits
+- Lunch in Uji (matcha soba, traditional Japanese set meals)
+
+**Total Uji time:** 1.5-2 hours (complete by early afternoon)
 
 ### Afternoon - teamLab Kyoto
-- Return to central Kyoto
-- Lunch before or after teamLab (or have matcha treats in Uji as lunch)
+- Return to central Kyoto from Uji (20 min)
 - [**teamLab Kyoto**](https://www.google.com/maps/search/teamLab+Kyoto) ⭐⭐⭐ - Digital art museum experience
   - Interactive digital art installations
   - Perfect indoor activity during peak heat
@@ -782,37 +818,42 @@ Book ALL of these on the same day when the 3-month booking window opens:
 
 ### Evening
 - Return to hotel for rest
-- **Pontocho Alley** ⭐⭐⭐ - Atmospheric dining alley (if not visited Day 6)
+- [**Pontocho Alley**](https://www.google.com/maps/search/Pontocho+Alley+Kyoto) ⭐⭐⭐ - Atmospheric dining alley (if not visited Day 6)
   - Traditional restaurants with lanterns
   - Perfect for dinner
 - Alternative: Dinner near hotel or Kyoto Station area
 - Early rest before Osaka transfer next day
 
 ### Food focus
-- **Early morning:** Light breakfast before temple visit
-- **Kiyomizu-dera area:** Yatsuhashi (cinnamon sweets), traditional snacks
+- **Early morning:** Light breakfast before Arashiyama
+- **In Arashiyama:** Yuba (tofu skin), tofu dishes, croquettes, matcha soft serve
 - **In Uji:** Authentic Uji matcha soft serve ⭐⭐⭐, matcha parfaits, matcha soba, matcha sweets
-- **Lunch:** Light meal in Uji or after returning to Kyoto
+- **Lunch:** Matcha-themed meal in Uji or light Japanese set meal
 - **Dinner:** Pontocho dining or casual meal near hotel
 
 ### Transportation
-- **Hotel to Kiyomizu-dera:** Bus #100 or #206 to Gojo-zaka or Kiyomizu-michi stop (15-20 min), then 10-min walk uphill
-  - Alternative: Taxi (15-20 min, ~¥1,500-2,000)
-- **Kiyomizu-dera to Sannen-zaka/Ninen-zaka:** Walk downhill (connected streets)
-- **Sannen-zaka area to Kyoto Station:** Bus (20-25 min) or taxi (15-20 min)
-- **Kyoto Station to Uji:** JR Nara Line (20 min)
+- **Hotel to Arashiyama:**
+  - **Best option:** **JR Sagano Line** (local train) from Kyoto Station to Saga-Arashiyama Station (15 min, frequent service)
+  - **Alternative:** Kyoto City Bus (30-35 min, slower but scenic)
+  - **Taxi:** 20 min, ~¥2,500-3,000
+- **Within Arashiyama:** Walk (all attractions within 15-min walk)
+- **Arashiyama to Uji:**
+  - **Option 1:** **JR Sagano Line** (local train) back to Kyoto Station (15 min), then **JR Nara Line** (local train) to Uji Station (20 min) - 35-40 min total
+  - **Option 2:** Taxi direct (30 min, ~¥4,000-5,000)
+- **Within Uji:** Walk (Byodoin Temple and matcha shops within 10-min walk)
 - **Uji back to central Kyoto:** JR Nara Line to Kyoto Station (20 min)
 - **Kyoto Station to teamLab Kyoto:** Taxi preferred (15-20 min), or subway/bus depending on exact venue (20-30 min)
 - **teamLab to hotel:** Taxi (10-15 min) or subway/bus (15-25 min)
 
-### Why This Order Works
-- **Beat the crowds:** Very early Kiyomizu-dera visit before tour groups
-- **Downhill walking:** Start at temple (uphill), walk down through historic streets
-- **Geographic efficiency:** Eastern Kyoto → Southern Kyoto (Uji) → Central (teamLab)
-- **Heat management:** Outdoor activities done by noon, indoor teamLab during peak heat
-- **Energy management:** Most active sightseeing in cool morning hours
-- **Cultural variety:** Temple → historic streets → matcha culture → digital art
+### Why This Revised Order Works Better
+- **Geographic flow:** Arashiyama (west) → Uji (south) → Central Kyoto - natural progression
+- **Both western/southern attractions combined:** Eliminates backtracking from previous Day 6 route
+- **Beat the crowds:** Early Arashiyama visit before tour groups arrive
+- **Heat management:** Outdoor activities done by early afternoon, indoor teamLab during peak heat
+- **Cultural variety:** Bamboo forest → UNESCO temple → matcha culture → digital art
+- **Travel efficiency:** Arashiyama and Uji are in same general direction from central Kyoto
 - **Built-in rest:** Afternoon indoor time and evening flexibility
+- **Energy management:** Most active sightseeing in cool morning hours
 
 ### Uji tips
 - Uji is the birthplace of Japanese green tea culture
@@ -878,9 +919,14 @@ Book ALL of these on the same day when the 3-month booking window opens:
 - **Osaka evening food crawl:** Takoyaki ⭐⭐⭐, okonomiyaki ⭐⭐⭐, kushikatsu ⭐⭐⭐, kitsune udon, taiyaki, street snacks
 
 ### Transportation
-- **Kyoto to Nara:** Kintetsu Limited Express (35 min, ~¥1,160) or Kintetsu Regular (45 min, ~¥640)
-- **Nara to Osaka (Namba):** Kintetsu Limited Express (35 min, ~¥1,070) or Kintetsu Regular (45 min, ~¥570)
-- **Umeda to Namba:** Osaka Metro Midosuji Line (10 min, 6 stops)
+- **Kyoto to Nara:**
+  - **Kintetsu Nara Line Limited Express** (reserved seats, faster, ~¥1,160, 35 min) - comfortable option
+  - **Kintetsu Nara Line Regular** (local/rapid train, ~¥640, 45 min) - budget option
+  - Both depart from Kintetsu Kyoto Station (near JR Kyoto Station)
+- **Nara to Osaka (Namba):**
+  - **Kintetsu Nara Line Limited Express** (reserved seats, ~¥1,070, 35 min)
+  - **Kintetsu Nara Line Regular** (local/rapid train, ~¥570, 45 min)
+- **Umeda to Namba:** **Osaka Metro Midosuji Line** (red line, subway, local train, 10 min, 6 stops)
 
 ### Luggage Forwarding Details
 **Takkyubin Service (宅急便):**
@@ -1105,8 +1151,10 @@ Probably skip unless they specifically want something intense:
 - Butterbeer, Mario-themed foods, Minion snacks, turkey legs, Japanese-style theme park foods
 
 ### Transportation
-- Hotel to Universal Studios Japan: JR Yumesaki Line to Universal City Station (15-20 min from Namba, 2-minute walk to park entrance)
-- Alternative: Osaka Metro Midosuji Line to Nishikujo (12 min), then JR Yumesaki Line (5 min)
+**Hotel (Namba) to Universal Studios Japan:**
+- **Direct option:** **JR Osaka Loop Line** (local train, orange line) from Namba to Nishikujo (12 min), transfer to **JR Yumesaki Line** (local train) to Universal City Station (5 min) - Total: 15-20 min + 2-min walk to park entrance
+- **Alternative:** **Osaka Metro Midosuji Line** (red line, subway) to Nishikujo (12 min), then **JR Yumesaki Line** (5 min)
+- **Train type:** All local trains, frequent service every 5-10 minutes
 
 ---
 
@@ -1199,10 +1247,14 @@ Probably skip unless they specifically want something intense:
 - Casual dining
 
 ### Transportation
-- **To Osaka Castle:** Osaka Metro Tanimachi Line or Chuo Line (15-20 min from Namba)
-- **To Shinsekai:** Osaka Metro Midosuji Line or Sakaisuji Line to Dobutsuen-mae or Ebisucho (10-15 min from Namba)
-- **To Kuromon Market:** Osaka Metro Sennichimae Line or Sakaisuji Line to Nippombashi (5-10 min from Namba)
-- **To Umeda Sky Building:** Osaka Metro to Umeda Station (10 min from Namba), then 10-min walk
+- **To Osaka Castle:**
+  - **Osaka Metro Tanimachi Line** (purple line, subway, local train) or **Chuo Line** (green line) to Tanimachi 4-chome Station (15-20 min from Namba)
+- **To Shinsekai:**
+  - **Osaka Metro Midosuji Line** (red line, local train) or **Sakaisuji Line** (brown line) to Dobutsuen-mae or Ebisucho Station (10-15 min from Namba)
+- **To Kuromon Market:**
+  - **Osaka Metro Sennichimae Line** (pink line, local train) or **Sakaisuji Line** (brown line) to Nippombashi Station (5-10 min from Namba)
+- **To Umeda Sky Building:**
+  - **Osaka Metro Midosuji Line** (red line, local train) to Umeda Station (10 min from Namba), then 10-min walk
 - Taxis available for convenience
 
 ---
@@ -1236,9 +1288,16 @@ Probably skip unless they specifically want something intense:
 - Great day for ekiben, depachika meals, sushi, or simple Japanese set meals
 
 ### Transportation
-- Shin-Osaka to Tokyo: Tokaido Shinkansen (2.5-3 hours)
-- Central Tokyo to Disney Celebration Hotel: JR Keiyo Line to Shin-Urayasu (25-30 min from Tokyo Station), then taxi (10 min) or local bus (15 min)
-- Easiest with luggage: train to Shin-Urayasu plus taxi
+**Osaka to Tokyo:**
+- **Tokaido Shinkansen** from Shin-Osaka to Tokyo Station (2.5-3 hours)
+  - **Nozomi** (fastest, 2h 30min, NOT covered by JR Pass)
+  - **Hikari** (fast, 2h 45min, covered by JR Pass) - recommended
+  - **Kodama** (all stations, 3h 45min, covered by JR Pass)
+  - Book reserved seats in advance for family comfort
+
+**Tokyo to Disney Celebration Hotel:**
+- **JR Keiyo Line** (local/rapid train) from Tokyo Station to Shin-Urayasu Station (25-30 min), then taxi (10 min, ~¥1,500) or local bus (15 min)
+- **Easiest with luggage:** Train to Shin-Urayasu + taxi
 
 ### Luggage Forwarding Strategy
 **Recommended approach:**
@@ -1440,7 +1499,7 @@ Probably skip unless they specifically want something intense:
   - Eat before peak rush if possible
 
 ### Transportation
-- Disney Celebration Hotel to Tokyo DisneySea: hotel shuttle bus is the easiest option
+- **Disney Celebration Hotel to Tokyo DisneySea:** Hotel shuttle bus (free, 20-25 min, runs frequently) - easiest and most convenient option
 
 ---
 
@@ -1485,9 +1544,12 @@ Probably skip unless they specifically want something intense:
 - Good day for a relaxed café break after the transfer
 
 ### Transportation
-- Disney Celebration Hotel to Shin-Urayasu: taxi (10 min) or bus (15 min)
-- Shin-Urayasu to Tokyo Station: JR Keiyo Line (20-25 min)
-- Tokyo Station to Shibuya: JR Yamanote Line (20 min) or JR Saikyo Line (15 min)
+**Disney Hotel to Shibuya:**
+- **Disney Celebration Hotel to Shin-Urayasu:** Taxi (10 min, ~¥1,500) or local bus (15 min)
+- **Shin-Urayasu to Tokyo Station:** **JR Keiyo Line** (local/rapid train, 20-25 min)
+- **Tokyo Station to Shibuya:**
+  - **JR Yamanote Line** (local train, green line, 20 min) - most frequent
+  - **JR Saikyo Line** (local train, 15 min) - faster but less frequent
 - In Shibuya: walk (Crossing and Sky are 2-3 minutes apart)
 
 ### Shibuya Sky tips
@@ -1539,10 +1601,10 @@ Probably skip unless they specifically want something intense:
 - **Ginza:** Depachika treats, sushi, tonkatsu, Japanese curry, parfaits, fruit sandos
 
 ### Transportation
-- **Shibuya to Meiji Shrine:** JR Yamanote Line to Harajuku Station (5 min, 2 stops), then 10-min walk
-- **Meiji Shrine to Tokyo Station:** JR Yamanote Line from Harajuku to Tokyo Station (20 min)
-- **Tokyo Station to Ginza:** Walk (15 min) or Tokyo Metro Marunouchi Line (2 min, 1 stop)
-- **Ginza to Shibuya:** Tokyo Metro (15 min) or JR train (20 min)
+- **Shibuya to Meiji Shrine:** **JR Yamanote Line** (local train, green line) to Harajuku Station (5 min, 2 stops), then 10-min walk through Yoyogi Park
+- **Meiji Shrine to Tokyo Station:** **JR Yamanote Line** (local train) from Harajuku to Tokyo Station (20 min, 8 stops)
+- **Tokyo Station to Ginza:** Walk (15 min) or **Tokyo Metro Marunouchi Line** (red line, local train, 2 min, 1 stop)
+- **Ginza to Shibuya:** **Tokyo Metro Ginza Line** (orange line) to Shibuya (15 min) or **JR Yamanote Line** (20 min)
 
 ---
 
@@ -1581,9 +1643,10 @@ Probably skip unless they specifically want something intense:
 - **Akihabara:** Themed cafés, ramen, curry rice, tonkatsu, conveyor belt sushi
 
 ### Transportation
-- **Shibuya to Sumida/Skytree:** Tokyo Metro Hanzomon Line to Oshiage (30 min)
-- **Sumida to Akihabara:** Tobu Skytree Line to Asakusa, then Tokyo Metro Ginza Line to Suehirocho (15 min)
-  - Alternative: Walk along river to Asakusa, then train to Akihabara
+- **Shibuya to Sumida/Skytree:** **Tokyo Metro Hanzomon Line** (purple line, local train) direct to Oshiage Station (30 min, no transfers) - Skytree is directly connected to station
+- **Sumida to Akihabara:**
+  - **Option 1:** **Tobu Skytree Line** (local train) to Asakusa (2 min), then **Tokyo Metro Ginza Line** (orange line) to Suehirocho (15 min)
+  - **Option 2:** Walk along Sumida River to Asakusa (20-25 min scenic walk), then **Tokyo Metro Ginza Line** to Akihabara
 - **Akihabara to Shibuya:** JR Yamanote Line (25 min)
 
 ---
@@ -1630,9 +1693,11 @@ Probably skip unless they specifically want something intense:
 - **Odaiba option:** Ramen, udon, teishoku, international options
 
 ### Transportation
-- **To Kamakura:** JR Yokosuka Line from Tokyo Station (1 hour)
-- **To Odaiba:** Yurikamome train from Shimbashi (15-20 min) or Rinkai Line (10-15 min)
-- **In Tokyo:** JR trains and Tokyo Metro subway
+- **To Kamakura:** **JR Yokosuka Line** (rapid train) from Tokyo Station to Kamakura Station (1 hour, comfortable train with ocean views)
+- **To Odaiba:**
+  - **Yurikamome Line** (automated monorail, scenic elevated route) from Shimbashi Station (15-20 min)
+  - **Rinkai Line** (local train) from various stations (10-15 min)
+- **In Tokyo:** **JR trains** (Yamanote, Chuo, Sobu lines) and **Tokyo Metro subway** (9 lines)
 
 ---
 
@@ -1653,7 +1718,10 @@ Probably skip unless they specifically want something intense:
 - Farewell meal: sukiyaki, shabu-shabu, tempura, or polished ramen
 
 ### Transportation
-- Shibuya to Shinjuku: JR Yamanote Line (7 min), JR Saikyo Line (5 min), or Tokyo Metro Fukutoshin Line (8 min)
+**Shibuya to Shinjuku:**
+- **JR Yamanote Line** (local train, green line, 7 min, 3 stops) - most frequent
+- **JR Saikyo Line** (local train, 5 min, direct) - fastest
+- **Tokyo Metro Fukutoshin Line** (brown line, subway, 8 min, 2 stops) - underground option
 
 ---
 
@@ -1674,8 +1742,9 @@ Probably skip unless they specifically want something intense:
 - Sushi, unagi, tempura, ramen, or depachika takeout feast
 
 ### Transportation
-- Use JR trains for major hubs
-- Use Tokyo Metro subway for central neighborhoods
+- **For major hubs:** Use **JR trains** (Yamanote Line, Chuo Line, Sobu Line) - connects major stations
+- **For central neighborhoods:** Use **Tokyo Metro subway** (9 color-coded lines) - faster for short distances
+- **IC Card:** Suica/Pasmo works on all trains and buses
 
 ---
 
@@ -1698,8 +1767,11 @@ Probably skip unless they specifically want something intense:
 - Final airport meal or boxed snack run
 
 ### Transportation
-- Tokyo Monorail from Hamamatsucho (15 min to Haneda) or Keikyu Line from Shinagawa (15-20 min to Haneda)
-- Airport limousine bus if direct from hotel (varies by location, typically 45-90 min)
+**Shibuya to Haneda Airport:**
+- **Option 1:** **JR Yamanote Line** (local train) to Hamamatsucho (20 min), transfer to **Tokyo Monorail** (monorail, 15 min to Haneda)
+- **Option 2:** **JR Yamanote Line** to Shinagawa (10 min), transfer to **Keikyu Airport Line** (airport express, 15-20 min to Haneda)
+- **Option 3:** Airport Limousine Bus direct from Shibuya hotels (45-60 min, ¥1,300, comfortable with luggage)
+- **Recommended:** Keikyu Line from Shinagawa (fastest) or Limousine Bus (most convenient with luggage)
 
 ---
 
