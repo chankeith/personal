@@ -38,6 +38,7 @@ This itinerary was designed with the following considerations:
 - Duration estimates for each activity
 - Transportation details with multiple options
 - Food recommendations at each location
+- Memorable items to buy and souvenirs at key locations
 
 **6. Advance Planning**
 - Comprehensive ticket booking guide with specific dates
@@ -187,6 +188,15 @@ For comprehensive information about navigating Japan's train and bus systems, in
 ### Food focus
 - Try Japanese pudding, fruit sandos, melon pan, dorayaki, or seasonal wagashi
 
+### Shopping & Souvenirs
+- **UNIQLO Ginza** - Japanese fashion basics, unique Japan-exclusive designs
+- **GU Ginza** - Affordable trendy clothing
+- **Mitsukoshi/Matsuya depachika** - Premium Japanese snacks, beautifully packaged sweets (perfect gifts)
+- **Wako** - Luxury watches, jewelry, high-end souvenirs
+- **Itoya** - Premium stationery, notebooks, pens (famous 12-floor stationery store)
+- **Ginza Natsuno** - Traditional Japanese sandals and accessories
+- **Akomeya** - Premium rice, Japanese kitchen goods, gourmet food products
+
 ### Transportation
 **From Haneda Airport to Ginza:**
 - **Option 1 (Recommended):** Tokyo Monorail (monorail) to Hamamatsucho Station (15 min), transfer to **JR Yamanote Line** (local train, green line) to Shimbashi or Yurakucho (5-10 min), walk to Ginza (5 min)
@@ -289,6 +299,20 @@ For comprehensive information about navigating Japan's train and bus systems, in
 - **Asakusa:** Chacha Futatsume matcha ice cream ⭐⭐⭐, Suzukien matcha gelato ⭐⭐⭐, Asakusa Kagetsudō melon bread ⭐⭐⭐, Asakusa Menchi ⭐⭐, Ichiran ramen ⭐⭐⭐, ningyo-yaki (small cakes), senbei (rice crackers), tempura/tendon
 - **Ginza:** depachika treasures, Japanese pudding, fruit sandos, tonkatsu, sushi
 
+### Shopping & Souvenirs
+- **Nakamise Shopping Street (Asakusa):**
+  - Traditional folding fans (sensu)
+  - Kimono and yukata accessories
+  - Japanese chopsticks and tableware
+  - Maneki-neko (lucky cat) figurines
+  - Traditional toys and crafts
+  - Ningyo-yaki molds and senbei crackers (edible souvenirs)
+  - Tenugui (traditional Japanese towels with beautiful designs)
+- **Ginza:**
+  - Depachika food gifts (beautifully packaged sweets, tea, snacks)
+  - Japanese cosmetics and skincare (Shiseido, SK-II)
+  - High-quality kitchen knives at Kappabashi Street (nearby)
+
 ### Transportation
 **Ginza to Asakusa:**
 - **Best option:** **Tokyo Metro Ginza Line** (orange line, subway) direct from Ginza Station to Asakusa Station (15 min, no transfers) - most efficient
@@ -386,6 +410,20 @@ For comprehensive information about navigating Japan's train and bus systems, in
 - **Optional:** Matcha tea at Hamarikyu Gardens teahouse
 - **Lunch:** Azabudai Hills Garden Plaza B - variety of Japanese and international options
 - **Dinner:** Ginza - tonkatsu, sushi, tempura, or Japanese set meals
+
+### Shopping & Souvenirs
+- **Tsukiji Outer Market:**
+  - Japanese kitchen knives and cooking tools
+  - Dried seafood and seaweed products
+  - Green tea and matcha powder
+  - Ceramic dishes and bowls
+  - Cooking utensils and bento boxes
+- **teamLab Borderless:**
+  - Exclusive teamLab merchandise (art books, postcards, tote bags)
+  - Digital art-inspired accessories
+- **Ginza (evening):**
+  - Tokyo Hands - unique Japanese gadgets and lifestyle products
+  - Muji - minimalist Japanese design products
 
 ### Transportation - Optimized Linear Route
 - **Hotel to Tsukiji:** **Tokyo Metro Hibiya Line** (gray line, subway) from Ginza to Tsukiji Station (8-10 min, local train) or taxi (10-15 min)
@@ -628,6 +666,20 @@ For comprehensive information about navigating Japan's train and bus systems, in
 - **Afternoon snacks:** Nishiki Market samples - pickles, mochi, tea, sweets
 - **Dinner:** Kobe Beef Steak Mouriya Gion or Kyoto-style dinner (tofu, soba, tempura)
 - **Optional dessert:** Miffy's Oyatsu-do or traditional matcha sweets
+
+### Shopping & Souvenirs
+- **Nishiki Market:**
+  - Kyoto pickles (tsukemono) - beautifully packaged
+  - Japanese knives and kitchen tools
+  - Matcha tea and tea ceremony utensils
+  - Traditional sweets (yatsuhashi, mochi)
+  - Kyoto spices and seasonings
+  - Handmade chopsticks
+- **Gion area:**
+  - Geisha-themed items (fans, hair accessories)
+  - Traditional Japanese paper products (washi)
+  - Incense and incense holders
+  - Kyoto cosmetics (oil blotting papers, camellia oil)
 
 ### Transportation Details
 
@@ -1642,6 +1694,20 @@ Probably skip unless they specifically want something intense:
 - **Sumida area:** Ramen, tempura, traditional Japanese set meals
 - **Akihabara:** Themed cafés, ramen, curry rice, tonkatsu, conveyor belt sushi
 
+### Shopping & Souvenirs
+- **Tokyo Skytree:**
+  - Skytree-exclusive merchandise and souvenirs
+  - Tokyo-themed items
+  - Japanese character goods
+- **Akihabara:**
+  - Electronics and gadgets (cameras, headphones, gaming devices)
+  - Anime and manga merchandise (figures, posters, art books)
+  - Video games (Japanese exclusives, retro games)
+  - Maid café souvenirs
+  - Gachapon (capsule toy) collections
+  - Anime-themed clothing and accessories
+  - Japanese tech accessories
+
 ### Transportation
 - **Shibuya to Sumida/Skytree:** **Tokyo Metro Hanzomon Line** (purple line, local train) direct to Oshiage Station (30 min, no transfers) - Skytree is directly connected to station
 - **Sumida to Akihabara:**
@@ -1692,6 +1758,21 @@ Probably skip unless they specifically want something intense:
 - **Tokyo option:** Parfait ⭐⭐⭐, kakigori (shaved ice), wagashi, depachika treats
 - **Odaiba option:** Ramen, udon, teishoku, international options
 
+### Shopping & Souvenirs
+- **Kamakura:**
+  - Buddhist temple items (incense, prayer beads, omamori)
+  - Traditional Japanese crafts
+  - Kamakura-carved items (Kamakura-bori lacquerware)
+  - Local sweets and snacks
+- **Odaiba:**
+  - Gundam merchandise (if visiting Gundam statue)
+  - DiverCity Tokyo Plaza shopping
+  - Japanese tech and gadgets
+  - Anime and character goods
+- **Tokyo general:**
+  - Last-minute souvenir shopping
+  - Depachika food gifts for home
+
 ### Transportation
 - **To Kamakura:** **JR Yokosuka Line** (rapid train) from Tokyo Station to Kamakura Station (1 hour, comfortable train with ocean views)
 - **To Odaiba:**
@@ -1717,6 +1798,17 @@ Probably skip unless they specifically want something intense:
 ### Food focus
 - Farewell meal: sukiyaki, shabu-shabu, tempura, or polished ramen
 
+### Shopping & Souvenirs
+- **Shinjuku:**
+  - Don Quijote (discount store) - last-minute souvenirs, snacks, cosmetics
+  - Bic Camera or Yodobashi Camera - electronics and gadgets
+  - Kinokuniya bookstore - Japanese books, magazines, stationery
+  - Isetan depachika - premium food gifts
+- **Last-minute shopping:**
+  - Japanese snacks and candy for gifts
+  - Cosmetics and skincare products
+  - Small souvenirs and trinkets
+
 ### Transportation
 **Shibuya to Shinjuku:**
 - **JR Yamanote Line** (local train, green line, 7 min, 3 stops) - most frequent
@@ -1740,6 +1832,13 @@ Probably skip unless they specifically want something intense:
 
 ### Food focus
 - Sushi, unagi, tempura, ramen, or depachika takeout feast
+
+### Shopping & Souvenirs
+- **Final shopping day:**
+  - Revisit favorite stores for forgotten items
+  - Last-minute gift shopping
+  - Convenience store snacks for the flight
+  - Pack souvenirs carefully for travel
 
 ### Transportation
 - **For major hubs:** Use **JR trains** (Yamanote Line, Chuo Line, Sobu Line) - connects major stations
@@ -1765,6 +1864,14 @@ Probably skip unless they specifically want something intense:
 
 ### Food focus
 - Final airport meal or boxed snack run
+
+### Shopping & Souvenirs
+- **Haneda Airport:**
+  - Tokyo Banana and other airport-exclusive sweets
+  - Last-minute Japanese snacks and souvenirs
+  - Duty-free shopping (cosmetics, alcohol, tobacco)
+  - Regional food products from across Japan
+  - Japanese Kit-Kats (unique flavors)
 
 ### Transportation
 **Shibuya to Haneda Airport:**
