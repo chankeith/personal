@@ -29,11 +29,38 @@ Japan has one of the world's most efficient, punctual, and extensive public tran
 - **Tokaido Shinkansen** - Tokyo ↔ Kyoto ↔ Osaka (2.5-3 hours Tokyo to Kyoto)
 - **Train types:**
   - **Nozomi** - Fastest (2h 15min Tokyo-Kyoto), NOT covered by JR Pass
+    - Stops only at major stations (Tokyo, Shinagawa, Nagoya, Kyoto, Osaka)
+    - Most frequent service (3-4 trains per hour)
+    - Premium pricing
   - **Hikari** - Fast (2h 45min Tokyo-Kyoto), covered by JR Pass, good choice
+    - Stops at more stations than Nozomi
+    - 1-2 trains per hour
+    - Best value for JR Pass holders
   - **Kodama** - All stations (3h 45min Tokyo-Kyoto), covered by JR Pass
-- **Reserved vs Non-Reserved:** Reserved seats recommended for families with luggage
-- **Luggage:** Overhead racks fit medium bags; space behind last row for large luggage
-- **Booking:** 1 month in advance recommended for peak travel times
+    - Stops at every station along the route
+    - Least frequent service
+    - Good for shorter distances
+- **Reserved vs Non-Reserved:**
+  - Reserved seats (shitei-seki) recommended for families with luggage
+  - Non-reserved cars (jiyū-seki) available but can be crowded
+  - Green Car (first class) available for extra comfort
+  - Reserved seat fee: ¥530-1,340 depending on season and distance
+- **Luggage:**
+  - Overhead racks fit bags up to 40cm x 25cm x 55cm
+  - Space behind last row seats for large luggage (160-250cm total dimensions)
+  - **New rule (2020+):** Oversized luggage (160-250cm) requires reservation
+  - Luggage forwarding (takkyubin) recommended for large bags
+- **Booking:**
+  - 1 month in advance recommended for peak travel times
+  - Book online via JR East/West websites or at ticket offices
+  - Seat selection available when booking
+  - Window seats (A/E) and aisle seats (C/D) in standard cars
+- **Onboard amenities:**
+  - Power outlets at most seats (check when booking)
+  - Vending machines and food carts
+  - Clean restrooms with Western and Japanese toilets
+  - Free Wi-Fi on most trains
+  - Eating and drinking allowed (unlike local trains)
 
 ### Tokyo Metro (Subway)
 
@@ -119,54 +146,146 @@ Japan has one of the world's most efficient, punctual, and extensive public tran
 **How to use:**
 
 - **Flat fare system** in central Tokyo (usually ¥210-230 per ride)
-- Board through front door, exit through middle door
-- Pay when exiting (cash or IC card)
-- IC card is easiest - just tap when boarding and exiting
-- Route numbers and destinations displayed in English at major stops
+- **Boarding process:**
+  - Board through front door (some buses use back door)
+  - Take a numbered ticket if fare varies by distance
+  - Exit through middle door
+  - Pay when exiting (cash or IC card)
+- **IC card is easiest:**
+  - Tap when boarding and exiting
+  - Automatic fare calculation
+  - No need for exact change
+- **Cash payment:**
+  - Exact change required (¥210-230)
+  - Change machines available on bus (can break ¥1,000 notes)
+  - Insert ticket and payment in fare box when exiting
+- **Route information:**
+  - Route numbers and destinations displayed in English at major stops
+  - Digital displays show next stop in English
+  - Announcements in Japanese and English at major stops
+  - Bus stop poles show route maps
 
 **When to use:**
 
-- Roppongi to Tokyo Tower
+- Roppongi to Tokyo Tower (Toei Bus #01)
+- Shibuya to Roppongi (Toei Bus #01)
 - Areas between train stations
 - Late night when trains stop running (midnight-5 AM)
+- Rainy days to avoid walking between stations
+
+**Key Tokyo Bus Routes for Tourists:**
+
+- **Toei Bus #01** - Shibuya to Roppongi to Tokyo Tower
+- **Toei Bus #都01** - Tokyo Station to Roppongi
+- **Toei Bus #東98** - Tokyo Station to Tsukiji
+- **Toei Bus #S-01** - Shinjuku to Shibuya (late night service)
 
 **Tips:**
 
-- Google Maps shows bus routes and times
-- Buses can be slower than trains due to traffic
-- Less English signage than trains
+- Google Maps shows bus routes and real-time schedules
+- Buses can be slower than trains due to traffic (allow extra time)
+- Less English signage than trains, but improving
+- Bus drivers generally don't speak English
+- Priority seating for elderly, pregnant, and disabled passengers
+- No eating or drinking on buses
+- Press stop button before your destination
 
 ### Kyoto City Buses
 
-**What they are:** Extensive bus network covering Kyoto's temples and attractions.
+**What they are:** Extensive bus network covering Kyoto's temples and attractions. Essential for reaching many temples not served by trains.
 
 **How to use:**
 
-- **Flat fare:** ¥230 per ride within city center
-- Board through back door, exit through front door
-- Pay when exiting (cash or IC card)
-- Take numbered ticket if traveling outside flat fare zone
+- **Flat fare zone:** ¥230 per ride within city center (most tourist areas)
+- **Boarding process:**
+  - Board through **back door**
+  - Take numbered ticket from machine if traveling outside flat fare zone
+  - Exit through **front door**
+  - Pay when exiting (cash or IC card)
+  - Show bus pass to driver when exiting
+- **IC card:**
+  - Tap when boarding and exiting
+  - Automatic fare calculation
+  - Works on all Kyoto buses
+- **Cash payment:**
+  - Exact change required (¥230)
+  - Change machine near driver (can break ¥1,000 notes)
+  - Insert ticket (if taken) and payment in fare box
 
 **Key Routes for Tourists:**
 
-- **#100, #101, #102** - Kyoto Station to Kinkaku-ji (Golden Pavilion)
-- **#204, #205** - Circular route connecting major temples
+- **#100** - Kyoto Station → Kinkaku-ji (Golden Pavilion) via Gion
+  - Stops: Kyoto Station → Gion → Ginkaku-ji → Kinkaku-ji
+  - Tourist-friendly with English announcements
+  - Can be very crowded
+- **#101, #102** - Kyoto Station to Kinkaku-ji (alternative routes)
+- **#204** - Circular route (clockwise) connecting major temples
+  - Stops: Kyoto Station → Kiyomizu-dera → Gion → Ginkaku-ji → Kitaoji
+  - Most useful tourist route
+- **#205** - Circular route (counter-clockwise)
+  - Opposite direction of #204
 - **#206** - Kyoto Station to Kiyomizu-dera
+  - Direct route to popular temple
+  - Very crowded during peak season
 - **#5** - Kyoto Station to Ginkaku-ji (Silver Pavilion)
+  - Stops at Heian Shrine
+- **Raku Bus (100, 101, 102)** - Special tourist buses
+  - Designed for tourists with English announcements
+  - Slightly more expensive but less crowded
+  - Distinctive green color
 
 **Kyoto Bus Pass:**
 
 - **1-Day Pass:** ¥700 (worthwhile if taking 3+ bus rides)
 - **2-Day Pass:** ¥1,400
-- Purchase at Kyoto Station bus terminal or on bus
-- Unlimited rides on city buses within flat fare zone
+- **Where to buy:**
+  - Kyoto Station bus terminal ticket office
+  - On the bus from driver (exact change helpful)
+  - Convenience stores (7-Eleven, Lawson, FamilyMart)
+  - Hotels and tourist information centers
+- **How to use:**
+  - Scratch off date on first use
+  - Show pass to driver when exiting
+  - Unlimited rides on city buses within flat fare zone
+  - Does NOT cover subway or trains
+- **Coverage:** All Kyoto City Bus routes in flat fare zone (most tourist areas)
+
+**Kyoto Bus Terminal (Kyoto Station):**
+
+- **Location:** North side of Kyoto Station
+- **Layout:** Multiple platforms (A1-D3) organized by route
+- **Information desk:** English-speaking staff available
+- **Digital displays:** Show next bus arrival times in English
+- **Route maps:** Available in English at information desk
+- **Facilities:** Restrooms, vending machines, seating area
 
 **Tips:**
 
-- Buses can be very crowded, especially during tourist season
-- Consider trains when available (faster and less crowded)
-- Bus stops have route maps in English
-- Kyoto Station bus terminal has English information desk
+- **Crowding:** Buses can be extremely crowded, especially:
+  - Cherry blossom season (late March-early April)
+  - Fall foliage season (November)
+  - Weekends and holidays
+  - Routes to Kinkaku-ji and Kiyomizu-dera
+- **Alternative:** Consider trains when available (faster and less crowded)
+  - Subway to Karasuma-Oike, then bus
+  - JR Sagano Line to Arashiyama (instead of bus)
+  - Keihan Line to Fushimi Inari (instead of bus)
+- **Timing:**
+  - Buses run 6:00 AM - 11:00 PM
+  - Less frequent service after 8:00 PM
+  - Allow extra time during peak hours
+- **Navigation:**
+  - Bus stops have route maps in English
+  - Google Maps shows real-time bus locations
+  - Kyoto Station bus terminal has English information desk
+  - Bus stop announcements in Japanese and English
+- **Etiquette:**
+  - Queue in line at bus stops
+  - Let passengers exit before boarding
+  - Move to back of bus to make room
+  - No eating or drinking on buses
+  - Keep voices low
+  - Priority seating for elderly, pregnant, disabled
 
 ### Highway Buses (Long Distance)
 

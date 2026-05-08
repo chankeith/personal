@@ -1,56 +1,5 @@
 # Japan Family Itinerary
 
-## Planning Principles & Design Factors
-
-This itinerary was designed with the following considerations:
-
-### Family Profile
-- **Travelers:** Family of 4 (2 adults, 2 girls ages 10 and 13)
-- **Trip Style:** Classic first-time Japan experience
-- **Focus:** Great food, cultural experiences, some shopping, balanced pace
-- **Duration:** 19 days (July 16 - August 3, 2026)
-
-### Key Design Principles
-
-**1. Time Flexibility**
-- Activity times are generalized (e.g., "morning", "afternoon", "evening") rather than specific hours
-- Allows flexibility to adapt to family energy levels, weather, and crowds
-- Specific times only provided for: transportation schedules, store closing hours, hotel check-in/check-out
-
-**2. Summer Heat Management**
-- Outdoor sightseeing prioritized for early morning and evening
-- Indoor activities and rest periods during peak afternoon heat (12-3 PM)
-- Air-conditioned venues strategically placed in daily schedules
-
-**3. Geographic Efficiency**
-- Routes minimize backtracking and optimize travel time
-- Attractions grouped by area to reduce transit
-- Luggage forwarding (takkyubin) used at key transitions
-
-**4. Energy & Pacing**
-- Built-in rest periods and flexible days
-- Mix of active sightseeing and relaxed exploration
-- Recovery time after intense days (e.g., theme parks)
-
-**5. Practical Information**
-- Google Maps links for all major attractions
-- Star ratings (⭐⭐⭐ must-see, ⭐⭐ recommended, ⭐ optional)
-- Duration estimates for each activity
-- Transportation details with multiple options
-- Food recommendations at each location
-- Memorable items to buy and souvenirs at key locations
-
-**6. Advance Planning**
-- Comprehensive ticket booking guide with specific dates
-- Priority system (HIGH/MEDIUM/OPTIONAL/LOW)
-- Booking timeline organized by month
-
-**7. Family-Friendly Focus**
-- Age-appropriate attractions for 10 and 13-year-olds
-- Mix of cultural sites, modern experiences, and fun activities
-- Food variety including kid-friendly options
-- Shopping opportunities for teens (Harajuku, Akihabara)
-
 ## Table of Contents
 - [Advance Ticket Purchase Guide](#advance-ticket-purchase-guide)
 - [Tokyo Arrival and First Stay (July 16-18)](#tokyo-arrival-and-first-stay)
@@ -174,6 +123,7 @@ For comprehensive information about navigating Japan's train and bus systems, in
 - Shopping (before stores close)
   - [**UNIQLO Ginza**](https://www.google.com/maps/search/UNIQLO+Ginza+Tokyo) (closes 9:00 PM)
   - [**GU Ginza**](https://www.google.com/maps/search/GU+Ginza+Tokyo) (closes 9:00 PM)
+  - [**Onitsuka Tiger Red Concept Store**](https://www.google.com/maps/search/Onitsuka+Tiger+Ginza+Tokyo) - Custom sneaker design experience ⭐⭐⭐
   - Department stores (close 8:00 PM): [**Mitsukoshi**](https://www.google.com/maps/search/Mitsukoshi+Ginza), [**Matsuya**](https://www.google.com/maps/search/Matsuya+Ginza), [**Wako**](https://www.google.com/maps/search/Wako+Ginza)
 - Dessert or late snack:
   - [**Mitsukoshi Ginza depachika**](https://www.google.com/maps/search/Mitsukoshi+Ginza+depachika) (closes 8:00 PM)
@@ -191,6 +141,7 @@ For comprehensive information about navigating Japan's train and bus systems, in
 ### Shopping & Souvenirs
 - **UNIQLO Ginza** - Japanese fashion basics, unique Japan-exclusive designs
 - **GU Ginza** - Affordable trendy clothing
+- **Onitsuka Tiger Red Concept Store** ⭐⭐⭐ - Custom sneaker design experience (create your own Onitsuka Tigers)
 - **Mitsukoshi/Matsuya depachika** - Premium Japanese snacks, beautifully packaged sweets (perfect gifts)
 - **Wako** - Luxury watches, jewelry, high-end souvenirs
 - **Itoya** - Premium stationery, notebooks, pens (famous 12-floor stationery store)
@@ -198,12 +149,72 @@ For comprehensive information about navigating Japan's train and bus systems, in
 - **Akomeya** - Premium rice, Japanese kitchen goods, gourmet food products
 
 ### Transportation
-**From Haneda Airport to Ginza:**
-- **Option 1 (Recommended):** Tokyo Monorail (monorail) to Hamamatsucho Station (15 min), transfer to **JR Yamanote Line** (local train, green line) to Shimbashi or Yurakucho (5-10 min), walk to Ginza (5 min)
-- **Option 2:** Keikyu Airport Line (private railway, red line) direct to Higashi-Ginza Station (25-30 min, no transfers)
-- **Option 3:** Airport Limousine Bus direct to Ginza hotels (45-60 min, ¥1,000-1,300)
-- **IC Card:** Purchase Suica or Pasmo at airport for easy travel (¥500 deposit + initial charge)
-- In Ginza: walk
+**From Haneda Airport to Sotetsu Fresa Inn Ginza-Nanachome:**
+
+**Option 1: Train (Recommended - Fastest)**
+1. **At Haneda Airport:**
+   - Exit customs and follow signs to "Trains" or "Keikyu Line"
+   - Purchase Suica or Pasmo IC card at ticket machines (¥500 deposit + ¥1,500-2,000 initial charge)
+   - Alternative: Buy single tickets, but IC card is more convenient for entire trip
+
+2. **Take Keikyu Airport Line:**
+   - Board Keikyu Airport Line (red line) toward Shinagawa/Asakusa
+   - Get off at **Higashi-Ginza Station** (25-30 min, no transfers needed)
+   - Fare: ~¥420 with IC card
+   - Trains run every 10-15 minutes
+   - Look for "Airport Express" or "Airport Limited Express" for faster service
+
+3. **From Higashi-Ginza Station to Hotel:**
+   - Exit the station (Exit 5 or 6)
+   - Walk 5-7 minutes to Sotetsu Fresa Inn Ginza-Nanachome
+   - Hotel is in Ginza 7-chome area
+   - Google Maps will guide you from station exit
+
+**Total time:** 35-40 minutes | **Cost:** ~¥420
+
+**Option 2: Tokyo Monorail + JR (Alternative)**
+1. **Take Tokyo Monorail:**
+   - From Haneda Airport to Hamamatsucho Station (15 min)
+   - Fare: ¥500
+   
+2. **Transfer to JR Yamanote Line:**
+   - At Hamamatsucho, transfer to JR Yamanote Line (green line)
+   - Take train toward Tokyo/Ueno
+   - Get off at Shimbashi or Yurakucho Station (5-10 min)
+   - Fare: ¥140-160
+
+3. **Walk to Hotel:**
+   - From Shimbashi: 10-12 min walk
+   - From Yurakucho: 8-10 min walk
+
+**Total time:** 40-45 minutes | **Cost:** ~¥640-660
+
+**Option 3: Airport Limousine Bus (Most Comfortable with Luggage)**
+- **Direct bus to Ginza area hotels**
+- Board at Haneda Airport Terminal (follow "Limousine Bus" signs)
+- Some buses stop near Ginza hotels
+- **Time:** 45-60 minutes (depending on traffic)
+- **Cost:** ¥1,000-1,300 per person
+- **Pros:** Direct, comfortable, luggage storage underneath
+- **Cons:** Slower due to traffic, more expensive
+- **Best for:** Families with lots of luggage, late arrivals
+
+**Option 4: Taxi (Most Expensive)**
+- Available at airport taxi stand
+- **Time:** 30-40 minutes (depending on traffic)
+- **Cost:** ¥6,000-8,000
+- **Best for:** Very late arrival or if traveling with young children and lots of luggage
+
+**Recommended:** **Option 1 (Keikyu Airport Line)** - Direct, fast, affordable, and easy with luggage
+
+**Important Tips:**
+- **IC Card:** Purchase Suica or Pasmo at airport - works on all trains, buses, and even convenience stores
+- **Luggage:** All train options have space for luggage; avoid rush hour (4-7 PM) if possible
+- **English signage:** Haneda Airport and trains have excellent English signage
+- **Wi-Fi:** Free Wi-Fi at airport; consider pocket Wi-Fi rental or SIM card for navigation
+- **Hotel check-in:** Most hotels allow check-in from 3:00 PM; can store luggage earlier if needed
+
+**In Ginza:** Walk between attractions (most are within 10-15 min walking distance)
 
 ---
 
@@ -296,7 +307,7 @@ For comprehensive information about navigating Japan's train and bus systems, in
 - Prioritize department store shopping before 8:00 PM
 
 ### Food focus
-- **Asakusa:** Chacha Futatsume matcha ice cream ⭐⭐⭐, Suzukien matcha gelato ⭐⭐⭐, Asakusa Kagetsudō melon bread ⭐⭐⭐, Asakusa Menchi ⭐⭐, Ichiran ramen ⭐⭐⭐, ningyo-yaki (small cakes), senbei (rice crackers), tempura/tendon
+- **Asakusa:** Chacha Futatsume matcha ice cream ⭐⭐⭐, Suzukien matcha gelato ⭐⭐⭐, Asakusa Kagetsudō melon bread ⭐⭐⭐, Kageyama melon pan ⭐⭐⭐, dango (sweet rice dumplings) ⭐⭐⭐, Asakusa Menchi ⭐⭐, Ichiran ramen ⭐⭐⭐, ningyo-yaki (small cakes), senbei (rice crackers), tempura/tendon
 - **Ginza:** depachika treasures, Japanese pudding, fruit sandos, tonkatsu, sushi
 
 ### Shopping & Souvenirs
@@ -347,6 +358,11 @@ For comprehensive information about navigating Japan's train and bus systems, in
   - Try: tamagoyaki (Japanese omelet), fresh sashimi, grilled seafood skewers, fruit
   - Great breakfast/brunch spot
   - 1-1.5 hours
+  - **Alternative:** [**Toyosu Market**](https://www.google.com/maps/search/Toyosu+Market+Tokyo) - New wholesale fish market (replaced Tsukiji inner market)
+    - More modern, larger facility
+    - Observation decks to watch tuna auctions
+    - Requires earlier arrival (5-6 AM for auctions)
+    - Further from central Tokyo (30-40 min from Ginza)
 - **Tsukiji Hongan-ji Temple** ⭐⭐ - Unique Indian-style Buddhist temple
   - 5-minute walk from outer market
   - Distinctive architecture, peaceful atmosphere
@@ -650,6 +666,12 @@ For comprehensive information about navigating Japan's train and bus systems, in
 - [**Yasui Kompiragū Shrine**](https://maps.app.goo.gl/yasuishrine) ⭐⭐ - Small shrine famous for relationship stone
   - Optional, near Yasaka Shrine
 
+**Alternative:** [**Pontocho Alley**](https://www.google.com/maps/search/Pontocho+Alley+Kyoto) ⭐⭐⭐ - Narrow atmospheric dining alley
+- Traditional restaurants with lanterns along canal
+- More intimate and less touristy than Gion
+- Perfect for dinner atmosphere
+- Can visit both Gion and Pontocho in same evening (10 min walk apart)
+
 ### Dinner
 - [**Kobe Beef Steak Mouriya Gion**](https://maps.app.goo.gl/mouriyagion) ⭐⭐⭐ - High-quality Kobe beef experience
   - Reserve in advance if possible
@@ -829,6 +851,19 @@ For comprehensive information about navigating Japan's train and bus systems, in
   - Magical atmosphere with towering bamboo
   - Perfect for photos
   - **Time needed:** 30-45 minutes
+  - **Alternative 1:** [**Sagano Bamboo Forest**](https://www.google.com/maps/search/Sagano+Bamboo+Forest+Kyoto) - Same area, different entrance
+    - Less crowded path through bamboo
+    - Connects to Tenryu-ji Temple
+    - Equally beautiful experience
+  - **Alternative 2:** [**Adashino Nenbutsu-ji Temple**](https://www.google.com/maps/search/Adashino+Nenbutsu-ji+Temple+Kyoto) ⭐⭐⭐ - Serene temple with 8,000 stone statues
+    - Much less crowded than bamboo grove
+    - Peaceful moss garden and stone Buddha statues
+    - Atmospheric and contemplative experience
+    - Located in northern Arashiyama (Sagano area)
+    - **Time needed:** 45-60 minutes
+    - **Access:** 20-min walk from bamboo grove or 10-min bus ride
+    - **Best for:** Those seeking tranquility over crowds, photography enthusiasts
+    - **Note:** Can visit both if time allows, or choose one based on preference
 
 - [**Togetsukyo Bridge**](https://www.google.com/maps/search/Togetsukyo+Bridge+Kyoto) ⭐⭐ - Scenic bridge over Katsura River
   - Beautiful river views
@@ -955,16 +990,29 @@ For comprehensive information about navigating Japan's train and bus systems, in
   - Famous Glico Running Man sign
   - Neon lights and canal views
   - Street food paradise
+  - **Alternative:** [**Shinsekai**](https://www.google.com/maps/search/Shinsekai+Osaka) ⭐⭐⭐ - Retro entertainment district
+    - Old-school Osaka atmosphere
+    - Tsutenkaku Tower
+    - Famous for kushikatsu (fried skewers)
+    - Less touristy, more local vibe
+    - Can visit both in one evening (15 min by subway)
 - [**Shinsaibashi**](https://www.google.com/maps/search/Shinsaibashi+Osaka) ⭐⭐⭐ - Covered shopping arcade
   - Connects to Dotonbori
   - Mix of shopping and dining
-- **Food Street Crawl** ⭐⭐⭐ - Sample multiple Osaka specialties
-  - **Takoyaki** (octopus balls) - Must-try at multiple stands
-  - **Okonomiyaki** (savory pancake) - Osaka's signature dish
-  - **Kushikatsu** (deep-fried skewers) - Don't double-dip in the sauce!
-  - **Kitsune udon** (fox udon with fried tofu)
-  - **Taiyaki** (fish-shaped cake with filling)
-  - Strategy: Share small portions at multiple spots rather than full meals
+
+**Recommended Restaurants in Dotonbori:**
+- [**DearBros**](https://www.google.com/maps/search/DearBros+Dotonbori+Osaka) ⭐⭐⭐ - Popular restaurant in Dotonbori
+  - Great for sit-down meal
+  - Modern atmosphere
+  - Variety of Japanese dishes
+
+**Food Street Crawl** ⭐⭐⭐ - Sample multiple Osaka specialties:
+- **Takoyaki** (octopus balls) - Must-try at multiple stands
+- **Okonomiyaki** (savory pancake) - Osaka's signature dish
+- **Kushikatsu** (deep-fried skewers) - Don't double-dip in the sauce!
+- **Kitsune udon** (fox udon with fried tofu)
+- **Taiyaki** (fish-shaped cake with filling)
+- Strategy: Share small portions at multiple spots rather than full meals
 
 ### Food focus
 - **Nara lunch:** Kakinoha-zushi, udon, soba, traditional sweets, mochi
@@ -1570,13 +1618,20 @@ Probably skip unless they specifically want something intense:
 ### Afternoon
 - Keep this as a lighter Tokyo day after the hotel transfer
 - Stay around Shibuya for an easier start, with indoor time, lunch, shopping, and café breaks
-- If energy is still good, add a short visit to Harajuku later in the day
+- Rest and explore Shibuya neighborhood
 
-### Early Evening - Shibuya Crossing and Shibuya Sky
+### Late Afternoon/Early Evening - Hachiko, Shibuya Crossing, and Shibuya Sky
+- [**Hachiko Statue**](https://www.google.com/maps/search/Hachiko+Statue+Shibuya) ⭐⭐⭐ - Famous statue of the loyal dog
+  - Located right outside Shibuya Station (Hachiko Exit)
+  - Tokyo's most famous meeting spot
+  - Touching story of loyalty - dog waited for his owner every day for 9 years
+  - Perfect photo opportunity
+  - 5-10 minutes
 - **Shibuya Crossing** ⭐⭐⭐ - World's busiest pedestrian crossing
   - Experience the famous scramble crossing at ground level
   - Best viewed from Starbucks 2nd floor or crossing itself
   - Take photos and videos of the iconic intersection
+  - Just steps away from Hachiko statue
   - 15-20 minutes
 - **Shibuya Sky** ⭐⭐⭐ - Rooftop observation deck (229m high)
   - Located on top of Shibuya Scramble Square (floors 45-46 and rooftop)
@@ -1592,7 +1647,15 @@ Probably skip unless they specifically want something intense:
 - Explore Shibuya at night when it's cooler and beautifully lit
 
 ### Food focus
-- In Shibuya: ramen, tonkatsu, omurice, Japanese curry, parfaits, or a depachika-style food hall meal
+- **Uobei Shibuya Dogenzaka** ⭐⭐⭐ - High-speed conveyor belt sushi (kaiten-zushi)
+  - Fun automated sushi delivery system
+  - Fresh sushi at affordable prices
+  - Great for families and kids
+- **Ichiran Shibuya** ⭐⭐⭐ - Famous tonkotsu ramen chain
+  - Individual booth seating for focused ramen experience
+  - Customizable ramen options
+  - Open late for dinner
+- Other Shibuya options: tonkatsu, omurice, Japanese curry, parfaits, or a depachika-style food hall meal
 - Good day for a relaxed café break after the transfer
 
 ### Transportation
@@ -1616,7 +1679,7 @@ Probably skip unless they specifically want something intense:
 
 **Hotel:** Shibuya hotel (TBD)
 
-### Morning - Meiji Shrine
+### Morning - Meiji Shrine and Harajuku
 - [**Meiji Shrine (Meiji Jingu)**](https://www.google.com/maps/search/Meiji+Jingu+Shrine+Tokyo) ⭐⭐⭐ - Tokyo's most important Shinto shrine
   - Peaceful forested grounds in the heart of Tokyo
   - Traditional shrine architecture
@@ -1624,6 +1687,34 @@ Probably skip unless they specifically want something intense:
   - Adjacent to Yoyogi Park
   - **Time needed:** 45-60 minutes
 - **Best timing:** Early morning before heat and crowds
+
+**After Meiji Shrine - Harajuku Area:**
+- [**Takeshita Street**](https://www.google.com/maps/search/Takeshita+Street+Harajuku) ⭐⭐⭐ - Famous youth culture street
+  - Trendy fashion boutiques
+  - Kawaii culture shops
+  - Street food and crepes
+- [**Cat Street (Ura-Harajuku)**](https://www.google.com/maps/search/Cat+Street+Harajuku) ⭐⭐⭐ - Trendy shopping street
+  - More upscale and less crowded than Takeshita Street
+  - Boutique fashion stores and vintage shops
+  - Connects Harajuku to Shibuya
+  - Street art and photo opportunities
+  - Cafes and restaurants
+  - **Alternative:** [**Shimokitazawa**](https://www.google.com/maps/search/Shimokitazawa+Tokyo) ⭐⭐⭐ - Bohemian neighborhood
+    - Vintage shops and indie boutiques
+    - More authentic, less touristy than Takeshita
+    - Trendy cafes and small theaters
+    - Popular with young Tokyoites
+    - 10 min from Shibuya by train
+- [**Kiddyland**](https://www.google.com/maps/search/Kiddyland+Harajuku) ⭐⭐⭐ - Multi-floor toy store
+  - Character goods (Sanrio, Disney, Studio Ghibli)
+  - Perfect for kids and teens
+  - Japanese toys and collectibles
+
+**Harajuku Food Recommendations:**
+- [**Each Menchirashi**](https://www.google.com/maps/search/Each+Menchirashi+Harajuku) - Trendy rice bowl spot
+- [**Roast Beef Ohno**](https://www.google.com/maps/search/Roast+Beef+Ohno+Harajuku) ⭐⭐⭐ - Famous roast beef bowls
+- [**Marion Crepes**](https://www.google.com/maps/search/Marion+Crepes+Harajuku) ⭐⭐⭐ - Iconic Harajuku crepes
+- [**Afuri**](https://www.google.com/maps/search/Afuri+Harajuku) ⭐⭐⭐ - Yuzu ramen (citrus-flavored broth)
 
 ### Late Morning/Midday - Tokyo Station
 - Travel to Tokyo Station area
@@ -1649,12 +1740,28 @@ Probably skip unless they specifically want something intense:
 - Evening stroll when cooler
 
 ### Food focus
+- **Harajuku:** Marion Crepes ⭐⭐⭐, Roast Beef Ohno ⭐⭐⭐, Each Menchirashi, Afuri ramen ⭐⭐⭐
 - **Tokyo Station:** Ramen Street ⭐⭐⭐, ekiben, Character Street snacks
 - **Ginza:** Depachika treats, sushi, tonkatsu, Japanese curry, parfaits, fruit sandos
 
+### Shopping & Souvenirs
+- **Harajuku:**
+  - Kiddyland - Character goods, toys, collectibles
+  - Takeshita Street shops - Trendy fashion, accessories, kawaii items
+  - Japanese street fashion brands
+  - Unique souvenirs and gifts
+- **Ginza:**
+  - Hakuhinkan Toy Park ⭐⭐⭐ - 4-floor toy store
+    - Wide selection of Japanese toys and games
+    - Character goods and collectibles
+    - Traditional Japanese toys
+    - Perfect for kids and families
+  - Department store toy sections
+  - Onitsuka Tiger Red Concept Store - Premium sneakers
+
 ### Transportation
-- **Shibuya to Meiji Shrine:** **JR Yamanote Line** (local train, green line) to Harajuku Station (5 min, 2 stops), then 10-min walk through Yoyogi Park
-- **Meiji Shrine to Tokyo Station:** **JR Yamanote Line** (local train) from Harajuku to Tokyo Station (20 min, 8 stops)
+- **Shibuya to Meiji Shrine/Harajuku:** **JR Yamanote Line** (local train, green line) to Harajuku Station (5 min, 2 stops), then 10-min walk through Yoyogi Park to shrine
+- **Harajuku to Tokyo Station:** **JR Yamanote Line** (local train) from Harajuku to Tokyo Station (20 min, 8 stops)
 - **Tokyo Station to Ginza:** Walk (15 min) or **Tokyo Metro Marunouchi Line** (red line, local train, 2 min, 1 stop)
 - **Ginza to Shibuya:** **Tokyo Metro Ginza Line** (orange line) to Shibuya (15 min) or **JR Yamanote Line** (20 min)
 
@@ -1729,14 +1836,52 @@ Probably skip unless they specifically want something intense:
 - **Evening:** Waterfront dinner and Rainbow Bridge views
 - **Transportation:** Yurikamome train or Rinkai Line
 
-**Option 2: Kamakura Day Trip**
+**Option 2: Mount Fuji & Kawaguchiko Day Trip**
+- **Morning:** Early train to Kawaguchiko Station (2 hours from Shinjuku)
+- **Bike rental at Kawaguchiko Station** ⭐⭐⭐
+  - Multiple rental shops near station (¥500-1,000 per day)
+  - Electric bikes available (recommended for hills)
+  - Explore lakeside at your own pace
+- **Chureito Pagoda** ⭐⭐⭐ - Iconic Mt. Fuji viewpoint
+  - 5-story pagoda with Mt. Fuji backdrop
+  - 400 steps to climb (worth it for the view)
+  - Best photo spot in the area
+  - 30-45 minutes including climb
+  - **Access:** 10 min train from Kawaguchiko to Shimoyoshida Station, then 10 min walk
+- **Lake Kawaguchiko cycling** ⭐⭐⭐
+  - Scenic lakeside bike path
+  - Mt. Fuji views from multiple angles
+  - Stop at cafes and photo spots
+  - Full lake loop: 2-3 hours
+- **Afternoon options:**
+  - **Oshino Hakkai** ⭐⭐ - Traditional village with 8 spring-fed ponds
+    - Crystal clear water from Mt. Fuji snowmelt
+    - Traditional thatched-roof houses
+    - Can be touristy
+    - 30-45 minutes
+    - **Access:** 15 min bus from Kawaguchiko Station
+  - **Alternative: Iyashi no Sato Nenba** ⭐⭐⭐ - Reconstructed traditional village
+    - More authentic and less crowded than Oshino Hakkai
+    - Thatched-roof farmhouses with Mt. Fuji views
+    - Craft workshops and museums
+    - Beautiful photo opportunities
+    - 1-1.5 hours
+    - **Access:** 30 min bus from Kawaguchiko Station (Saiko/Aokigahara area)
+- **Food:** Hōtō (hearty noodle soup), local restaurants with Mt. Fuji views
+- **Transportation:**
+  - **Shinjuku to Kawaguchiko:** JR Chuo Line to Otsuki (1h), then Fuji Kyuko Line (50 min)
+  - **Alternative:** Highway bus from Shinjuku (2h direct, more comfortable)
+- **Weather dependent:** Mt. Fuji visibility best in early morning and winter months
+- **Time needed:** Full day (leave 7-8 AM, return 6-7 PM)
+
+**Option 3: Kamakura Day Trip**
 - **Morning:** Early train to Kamakura
 - **Attractions:** Great Buddha, Hasedera Temple, Komachi Street shopping
 - **Afternoon:** Beach area or return to Tokyo
 - **Food:** Matcha sweets, shirasu (whitebait), local snacks
 - **Transportation:** JR Yokosuka Line from Tokyo Station (1 hour)
 
-**Option 3: Relaxed Tokyo Day**
+**Option 4: Relaxed Tokyo Day**
 - **Morning:** Sleep in, leisurely breakfast
 - **Afternoon:** Indoor desserts, tea break, and rest
   - Parfait hunting in Shibuya or Harajuku
@@ -1744,21 +1889,29 @@ Probably skip unless they specifically want something intense:
   - Shopping for souvenirs
 - **Evening:** Revisit favorite neighborhood
 
-**Option 4: Repeat Favorites**
+**Option 5: Repeat Favorites**
 - Revisit any attractions from earlier in the trip
 - Return to favorite restaurants
 - Complete any missed shopping
 - Take it easy before final days
 
 ### Recommended Choice
-**Option 3 (Relaxed Tokyo Day)** - allows family to rest and enjoy Tokyo at a slower pace before final packing days
+**Option 4 (Relaxed Tokyo Day)** - allows family to rest and enjoy Tokyo at a slower pace before final packing days
+
+**Alternative:** **Option 2 (Mount Fuji & Kawaguchiko)** if weather is clear and family wants an active outdoor day with iconic Mt. Fuji views
 
 ### Food focus
+- **Mount Fuji/Kawaguchiko option:** Hōtō (hearty miso-based noodle soup with vegetables) ⭐⭐⭐, local restaurants with Mt. Fuji views
 - **Kamakura option:** Matcha sweets, shirasu, local snacks
 - **Tokyo option:** Parfait ⭐⭐⭐, kakigori (shaved ice), wagashi, depachika treats
 - **Odaiba option:** Ramen, udon, teishoku, international options
 
 ### Shopping & Souvenirs
+- **Mount Fuji/Kawaguchiko:**
+  - Mt. Fuji themed souvenirs and postcards
+  - Local crafts and textiles at Iyashi no Sato Nenba
+  - Fuji-san cookies and snacks
+  - Traditional Japanese items
 - **Kamakura:**
   - Buddhist temple items (incense, prayer beads, omamori)
   - Traditional Japanese crafts
@@ -1796,6 +1949,10 @@ Probably skip unless they specifically want something intense:
 - Farewell dinner and city views
 
 ### Food focus
+- **Shinjuku dining recommendations:**
+  - Tonkotsu ramen ⭐⭐⭐ - Rich pork bone broth ramen
+  - Omurice ⭐⭐⭐ - Japanese omelet rice
+  - Gyukatsu ⭐⭐⭐ - Breaded and fried beef cutlet
 - Farewell meal: sukiyaki, shabu-shabu, tempura, or polished ramen
 
 ### Shopping & Souvenirs
@@ -1817,28 +1974,51 @@ Probably skip unless they specifically want something intense:
 
 ---
 
-## Saturday, August 2 — Last full day
+## Saturday, August 2 — Last full day in Tokyo
 
 **Hotel:** Shibuya hotel (TBD)
 
-### Morning
-- Favorite area or souvenir errand
+### Morning - Final Exploration
+- **Option 1:** Revisit favorite neighborhood (Shibuya, Harajuku, Ginza)
+- **Option 2:** Explore any missed areas from earlier in trip
+- **Option 3:** Relaxed morning at hotel, late checkout if possible
 
-### Afternoon
-- Pack and stay mostly indoors
+### Afternoon - Packing and Preparation
+- Return to hotel by early afternoon
+- Pack luggage carefully
+- Organize souvenirs and gifts
+- Rest before departure day
 
-### Evening
-- Final dinner
+### Evening - Farewell Dinner
+- **Recommended areas for final dinner:**
+  - **Shibuya:** Easy access from hotel, many restaurant options
+  - **Shinjuku:** Omoide Yokocho for nostalgic atmosphere
+  - **Ginza:** Upscale farewell meal
+- **Dinner suggestions:**
+  - High-quality sushi at a conveyor belt restaurant
+  - Traditional tempura
+  - Sukiyaki or shabu-shabu
+  - Favorite ramen spot one last time
+  - Depachika takeout feast at hotel
 
 ### Food focus
-- Sushi, unagi, tempura, ramen, or depachika takeout feast
+- **Final meal recommendations:**
+  - Sushi ⭐⭐⭐ - Fresh, high-quality sushi for farewell
+  - Unagi (grilled eel) ⭐⭐⭐ - Traditional Japanese specialty
+  - Tempura ⭐⭐⭐ - Light and crispy
+  - Ramen - Revisit favorite spot
+  - Depachika takeout - Variety of Japanese dishes to enjoy at hotel
 
 ### Shopping & Souvenirs
-- **Final shopping day:**
-  - Revisit favorite stores for forgotten items
-  - Last-minute gift shopping
-  - Convenience store snacks for the flight
-  - Pack souvenirs carefully for travel
+- **Final shopping priorities:**
+  - Last-minute forgotten items
+  - Convenience store snacks for flight (Pocky, Kit Kats, rice crackers)
+  - Fresh items that couldn't be bought earlier (mochi, fresh wagashi)
+  - Airport-exclusive items can wait until departure day
+  - **Packing tips:**
+    - Wrap fragile items carefully
+    - Keep liquids in checked luggage
+    - Save space for airport purchases
 
 ### Transportation
 - **For major hubs:** Use **JR trains** (Yamanote Line, Chuo Line, Sobu Line) - connects major stations
@@ -1891,3 +2071,56 @@ Probably skip unless they specifically want something intense:
 - Osaka market eating and street-food evenings
 - Tokyo station food halls, ekiben, and depachika culture
 - Easier DisneySea logistics from Disney Celebration Hotel
+
+---
+
+## Planning Principles & Design Factors
+
+This itinerary was designed with the following considerations:
+
+### Family Profile
+- **Travelers:** Family of 4 (2 adults, 2 girls ages 10 and 13)
+- **Trip Style:** Classic first-time Japan experience
+- **Focus:** Great food, cultural experiences, some shopping, balanced pace
+- **Duration:** 19 days (July 16 - August 3, 2026)
+
+### Key Design Principles
+
+**1. Time Flexibility**
+- Activity times are generalized (e.g., "morning", "afternoon", "evening") rather than specific hours
+- Allows flexibility to adapt to family energy levels, weather, and crowds
+- Specific times only provided for: transportation schedules, store closing hours, hotel check-in/check-out
+
+**2. Summer Heat Management**
+- Outdoor sightseeing prioritized for early morning and evening
+- Indoor activities and rest periods during peak afternoon heat (12-3 PM)
+- Air-conditioned venues strategically placed in daily schedules
+
+**3. Geographic Efficiency**
+- Routes minimize backtracking and optimize travel time
+- Attractions grouped by area to reduce transit
+- Luggage forwarding (takkyubin) used at key transitions
+
+**4. Energy & Pacing**
+- Built-in rest periods and flexible days
+- Mix of active sightseeing and relaxed exploration
+- Recovery time after intense days (e.g., theme parks)
+
+**5. Practical Information**
+- Google Maps links for all major attractions
+- Star ratings (⭐⭐⭐ must-see, ⭐⭐ recommended, ⭐ optional)
+- Duration estimates for each activity
+- Transportation details with multiple options
+- Food recommendations at each location
+- Memorable items to buy and souvenirs at key locations
+
+**6. Advance Planning**
+- Comprehensive ticket booking guide with specific dates
+- Priority system (HIGH/MEDIUM/OPTIONAL/LOW)
+- Booking timeline organized by month
+
+**7. Family-Friendly Focus**
+- Age-appropriate attractions for 10 and 13-year-olds
+- Mix of cultural sites, modern experiences, and fun activities
+- Food variety including kid-friendly options
+- Shopping opportunities for teens (Harajuku, Akihabara)
