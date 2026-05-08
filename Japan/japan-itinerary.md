@@ -37,7 +37,7 @@
 |------------|-----|--------------|-----------------|----------|-------|
 | **teamLab Borderless** | Day 3 (July 18) | **April 16, 2026** | [teamLab Borderless Tokyo](https://borderless.teamlab.art/tokyo/) | HIGH | Book as soon as 3-month window opens |
 | **teamLab Kyoto** | Day 7 (July 22) | **April 16, 2026** | [teamLab Kyoto](https://www.teamlab.art/e/massless-kyoto/) | HIGH | Book as soon as 3-month window opens |
-| **Universal Studios Japan** | Day 9 (July 24) | **April 16, 2026** | [USJ Official Site](https://www.usj.co.jp/web/en/us) | HIGH | Book park tickets + Express Pass together |
+| **Universal Studios Japan** | Day 9 (July 24) | **April 16, 2026** | [USJ Official Site](https://www.usj.co.jp/web/en/us) | HIGH | Book 1-Day Studio Pass + Express Pass 5 (Race and Adventure) or Express Pass 4 (Race & Theatre) |
 | **Tokyo DisneySea** | Day 12 (July 27) | **May 27, 2026** | [Tokyo Disney Resort](https://www.tokyodisneyresort.jp/en/ticket/) | HIGH | Book tickets; Premier Access on day-of |
 | **Shibuya Sky** | Day 13 (July 28) | **July 14, 2026** | [Shibuya Sky Official](https://www.shibuya-scramble-square.com/sky/) | MEDIUM | Opens ~2 weeks in advance; sunset slots fill quickly |
 | **Odakyu Romancecar** | Day 4 (July 19) | **June 19, 2026** | [Odakyu e-Romancecar](https://www.odakyu.jp/english/romancecar/) | MEDIUM | Reserved seating recommended for comfort |
@@ -52,7 +52,9 @@
 Book ALL of these on the same day when the 3-month booking window opens:
 - ✅ [teamLab Borderless](https://borderless.teamlab.art/tokyo/) tickets for July 18
 - ✅ [teamLab Kyoto](https://www.teamlab.art/e/massless-kyoto/) tickets for July 22
-- ✅ [Universal Studios Japan](https://www.usj.co.jp/web/en/us) tickets + Express Pass for July 24
+- ✅ [Universal Studios Japan](https://www.usj.co.jp/web/en/us) for July 24:
+  - **1-Day Studio Pass** (park admission ticket) - Required for entry
+  - **Universal Express Pass 5 - Race and Adventure** (recommended) OR **Express Pass 4 - Race & Theatre** (alternative)
 
 **📅 May 27, 2026 (2 months before DisneySea):**
 - ✅ [Tokyo DisneySea](https://www.tokyodisneyresort.jp/en/ticket/) tickets for July 27
@@ -78,7 +80,12 @@ Book ALL of these on the same day when the 3-month booking window opens:
 - **General attractions:** [Klook](https://www.klook.com), [Viator](https://www.viator.com), [GetYourGuide](https://www.getyourguide.com)
 
 ### Important Notes:
-- **Universal Studios Japan Express Pass:** Choose between Express Pass 4 or 7 based on crowd levels
+- **Universal Studios Japan Tickets:**
+  - **1-Day Studio Pass:** Required park admission ticket for all guests
+  - **Express Pass Options:**
+    - **Universal Express Pass 5 - Race and Adventure** (recommended for thrill-seekers)
+    - **Universal Express Pass 4 - Race & Theatre** (alternative for families preferring shows)
+  - Book together with park tickets for best availability
 - **Tokyo DisneySea Premier Access:** Purchase in-app on the day, prioritize: Frozen, Rapunzel, Soaring, Toy Story Mania
 - **teamLab venues:** Timed entry tickets, arrive on time or you may lose your slot
 - **Shibuya Sky:** Sunset time slots (6-7 PM in summer) are most popular
@@ -1057,9 +1064,50 @@ For comprehensive information about navigating Japan's train and bus systems, in
 
 ## Thursday, July 24 — Universal Studios Japan
 
+### Required Tickets
+**Purchase both tickets together when booking opens (April 16, 2026):**
+
+1. **1-Day Studio Pass** (park admission)
+   - Required for all guests
+   - Grants entry to Universal Studios Japan
+   - Does NOT include Express Pass
+
+2. **Express Pass Options - Choose ONE:**
+
+   **Option A: Universal Express Pass 5 - Race and Adventure** (RECOMMENDED)
+   - Skip-the-line pass for 5 attractions
+   - **Included attractions:**
+     1. Mario Kart: Koopa's Challenge (Super Nintendo World)
+     2. Yoshi's Adventure (Super Nintendo World)
+     3. Harry Potter and the Forbidden Journey (Wizarding World of Harry Potter)
+     4. Despicable Me: Minion Mayhem (Minion Park)
+     5. Hollywood Dream - The Ride (Hollywood area)
+   - **Best for:** Families who want maximum ride coverage including both Super Nintendo World attractions
+   - **Price:** Higher than Express Pass 4
+
+   **Option B: Universal Express Pass 4 - Race & Theatre** (ALTERNATIVE)
+   - Skip-the-line pass for 4 attractions
+   - **Included attractions:**
+     1. Mario Kart: Koopa's Challenge (Super Nintendo World)
+     2. Yoshi's Adventure (Super Nintendo World)
+     3. Harry Potter and the Forbidden Journey (Wizarding World of Harry Potter)
+     4. Despicable Me: Minion Mayhem OR Detective Conan 4D Live Show: Jewel Under the Starry Sky (choose one)
+   - **Best for:** Families who prefer a show option or budget-conscious choice
+   - **Price:** Lower than Express Pass 5
+   - **Note:** Does NOT include Hollywood Dream - The Ride
+
+   **Important:** Express Pass does NOT include park admission - must buy Studio Pass separately
+
+**Booking tips:**
+- Book as early as possible (April 16, 2026 when 3-month window opens)
+- Express Passes sell out quickly for summer dates
+- Buy from official USJ website to avoid scalpers
+- Consider buying for all family members to stay together
+- Choose based on your family's preference for rides vs. shows
+
 ### Planning assumptions
 - Family of 4 with 2 girls, ages 10 and 13
-- You plan to buy Express Pass where useful
+- Using Universal Express Pass (either 5 or 4 depending on preference)
 - Goal: prioritize highest-value attractions early, reduce walking, and use indoor areas during peak heat
 
 ### Best overall strategy
