@@ -3,31 +3,31 @@
 ## Table of Contents
 - [Advance Ticket Purchase Guide](#advance-ticket-purchase-guide)
 - [Tokyo Arrival and First Stay (July 16-18)](#tokyo-arrival-and-first-stay)
-  - Day 1: July 16 - Arrive in Tokyo, evening in Ginza
-  - Day 2: July 17 - Asakusa morning, then Ginza evening
-  - Day 3: July 18 - Tsukiji, Imperial Palace, teamLab Borderless, Tokyo Tower
+  - [Day 1: July 16 - Arrive in Tokyo, evening in Ginza](#wednesday-july-16--arrive-in-tokyo-evening-in-ginza)
+  - [Day 2: July 17 - Asakusa morning, then Ginza evening](#thursday-july-17--asakusa-morning-then-ginza-evening)
+  - [Day 3: July 18 - Tsukiji, Imperial Palace, teamLab Borderless, Tokyo Tower](#friday-july-18--tsukiji-imperial-palace-teamlab-borderless-tokyo-tower)
 - [Hakone (July 19)](#hakone)
-  - Day 4: July 19 - Travel to Hakone with Lake Ashi Cruise
+  - [Day 4: July 19 - Travel to Hakone with Lake Ashi Cruise](#saturday-july-19--hakone-full-day)
 - [Kyoto (July 20-22)](#kyoto)
-  - Day 5: July 20 - Hakone to Kyoto, Nishiki Market, Gion evening
-  - Day 6: July 21 - Fushimi Inari, Northern Kyoto temples (Kinkaku-ji, Ryoan-ji), Pontocho
-  - Day 7: July 22 - Arashiyama, Uji matcha, teamLab Kyoto
+  - [Day 5: July 20 - Hakone to Kyoto, Nishiki Market, Gion evening](#sunday-july-20--hakone-to-kyoto)
+  - [Day 6: July 21 - Fushimi Inari, Northern Kyoto temples (Kinkaku-ji, Ryoan-ji), Pontocho](#monday-july-21--fushimi-inari-northern-kyoto-temples-pontocho)
+  - [Day 7: July 22 - Arashiyama, Uji matcha, teamLab Kyoto](#tuesday-july-22--arashiyama-morning-uji-matcha-teamlab-kyoto)
 - [Osaka and Nara (July 23-25)](#osaka-and-nara)
-  - Day 8: July 23 - Kyoto to Nara to Osaka (Nara stopover), Dotonbori food crawl
-  - Day 9: July 24 - Universal Studios Japan
-  - Day 10: July 25 - Flexible Osaka day (Castle, Shinsekai, Kuromon Market, or Umeda Sky)
+  - [Day 8: July 23 - Kyoto to Nara to Osaka (Nara stopover), Dotonbori food crawl](#wednesday-july-23--kyoto-to-nara-to-osaka)
+  - [Day 9: July 24 - Universal Studios Japan](#thursday-july-24--universal-studios-japan)
+  - [Day 10: July 25 - Flexible Osaka day (Castle, Shinsekai, Kuromon Market, or Umeda Sky)](#friday-july-25--flexible-osaka-day)
 - [Tokyo Disney Resort Stay (July 26-27)](#tokyo-disney-resort-stay)
-  - Day 11: July 26 - Osaka to Tokyo, then Disney Celebration Hotel
-  - Day 12: July 27 - Tokyo DisneySea
+  - [Day 11: July 26 - Osaka to Tokyo, then Disney Celebration Hotel](#saturday-july-26--osaka-to-tokyo-disney-celebration-hotel)
+  - [Day 12: July 27 - Tokyo DisneySea](#sunday-july-27--tokyo-disneysea)
 - [Tokyo Final Stay (July 28-August 2)](#tokyo-final-stay)
-  - Day 13: July 28 - Check out Disney, Shibuya hotel, Harajuku, Shibuya Crossing & Sky
-  - Day 14: July 29 - Meiji Shrine, Tokyo Station, Ginza
-  - Day 15: July 30 - Sumida River/Skytree, Akihabara
-  - Day 16: July 31 - Flexible Tokyo family day (Odaiba, Kamakura, or relaxed day)
-  - Day 17: August 1 - Shibuya and Shinjuku revisit
-  - Day 18: August 2 - Last full day
+  - [Day 13: July 28 - Check out Disney, Shibuya hotel, Harajuku, Shibuya Crossing & Sky](#monday-july-28--check-out-disney-celebration-hotel-then-head-to-your-shibuya-hotel)
+  - [Day 14: July 29 - Meiji Shrine, Tokyo Station, Ginza](#tuesday-july-29--meiji-shrine-tokyo-station-ginza)
+  - [Day 15: July 30 - Sumida River/Skytree, Akihabara](#wednesday-july-30--sumida-river-and-akihabara)
+  - [Day 16: July 31 - Flexible Tokyo family day (Odaiba, Kamakura, or relaxed day)](#thursday-july-31--flexible-tokyo-family-day)
+  - [Day 17: August 1 - Shibuya and Shinjuku revisit](#friday-august-1--shibuya-and-shinjuku-revisit)
+  - [Day 18: August 2 - Last full day](#saturday-august-2--last-full-day-in-tokyo)
 - [Departure (August 3)](#departure)
-  - Day 19: August 3 - Departure day
+  - [Day 19: August 3 - Departure day](#sunday-august-3--departure-day)
 
 ---
 
@@ -36,8 +36,8 @@
 | Attraction | Day | Book By Date | Booking Website | Priority | Notes |
 |------------|-----|--------------|-----------------|----------|-------|
 | **teamLab Borderless** | Day 3 (July 18) | **April 16, 2026** | [teamLab Borderless Tokyo](https://borderless.teamlab.art/tokyo/) | HIGH | Book as soon as 3-month window opens |
-| **teamLab Kyoto** | Day 7 (July 22) | **April 16, 2026** | [teamLab Kyoto](https://www.teamlab.art/e/massless-kyoto/) | HIGH | Book as soon as 3-month window opens |
-| **Universal Studios Japan** | Day 9 (July 24) | **April 16, 2026** | [USJ Official Site](https://www.usj.co.jp/web/en/us) | HIGH | Book 1-Day Studio Pass + Express Pass 5 (Race and Adventure) or Express Pass 4 (Race & Theatre) |
+| **teamLab Kyoto** | Day 7 (July 22) | **April 16, 2026** | [teamLab Kyoto](https://www.teamlab.art/e/kyoto/) | HIGH | Book as soon as 3-month window opens |
+| **Universal Studios Japan** | Day 9 (July 24) | **Check regularly from May 2026** | [USJ Official Site](https://www.usj.co.jp/web/en/us) | HIGH | Book 1-Day Studio Pass + Express Pass 5 (Race and Adventure) or Express Pass 4 (Race & Theatre) |
 | **Tokyo DisneySea** | Day 12 (July 27) | **May 27, 2026** | [Tokyo Disney Resort](https://www.tokyodisneyresort.jp/en/ticket/) | HIGH | Book tickets; Premier Access on day-of |
 | **Shibuya Sky** | Day 13 (July 28) | **July 14, 2026** | [Shibuya Sky Official](https://www.shibuya-scramble-square.com/sky/) | MEDIUM | Opens ~2 weeks in advance; sunset slots fill quickly |
 | **Odakyu Romancecar** | Day 4 (July 19) | **June 19, 2026** | [Odakyu e-Romancecar](https://www.odakyu.jp/english/romancecar/) | MEDIUM | Reserved seating recommended for comfort |
@@ -51,7 +51,7 @@
 **📅 April 16, 2026 (3 months before trip starts):**
 Book ALL of these on the same day when the 3-month booking window opens:
 - ✅ [teamLab Borderless](https://borderless.teamlab.art/tokyo/) tickets for July 18
-- ✅ [teamLab Kyoto](https://www.teamlab.art/e/massless-kyoto/) tickets for July 22
+- ✅ [teamLab Kyoto](https://www.teamlab.art/e/kyoto/) tickets for July 22
 - ✅ [Universal Studios Japan](https://www.usj.co.jp/web/en/us) for July 24:
   - **1-Day Studio Pass** (park admission ticket) - Required for entry
   - **Universal Express Pass 5 - Race and Adventure** (recommended) OR **Express Pass 4 - Race & Theatre** (alternative)
@@ -81,11 +81,15 @@ Book ALL of these on the same day when the 3-month booking window opens:
 
 ### Important Notes:
 - **Universal Studios Japan Tickets:**
-  - **1-Day Studio Pass:** Required park admission ticket for all guests
-  - **Express Pass Options:**
-    - **Universal Express Pass 5 - Race and Adventure** (recommended for thrill-seekers)
-    - **Universal Express Pass 4 - Race & Theatre** (alternative for families preferring shows)
-  - Book together with park tickets for best availability
+  - **Ticket Release Schedule:** USJ releases tickets in batches, typically 2-3 months in advance
+  - **Your date (July 24):** Not yet available as of early May 2026 (currently only through July 10)
+  - **When to book:** Check regularly starting mid-May 2026 for July 24 availability
+  - **What to buy:**
+    - **1-Day Studio Pass:** Required park admission ticket for all guests
+    - **Express Pass Options:**
+      - **Universal Express Pass 5 - Race and Adventure** (recommended)
+      - **Universal Express Pass 4 - Race & Theatre** (alternative)
+  - **Action:** Book immediately when your date becomes available as Express Passes sell out quickly
 - **Tokyo DisneySea Premier Access:** Purchase in-app on the day, prioritize: Frozen, Rapunzel, Soaring, Toy Story Mania
 - **teamLab venues:** Timed entry tickets, arrive on time or you may lose your slot
 - **Shibuya Sky:** Sunset time slots (6-7 PM in summer) are most popular
@@ -1099,11 +1103,14 @@ For comprehensive information about navigating Japan's train and bus systems, in
    **Important:** Express Pass does NOT include park admission - must buy Studio Pass separately
 
 **Booking tips:**
-- Book as early as possible (April 16, 2026 when 3-month window opens)
-- Express Passes sell out quickly for summer dates
-- Buy from official USJ website to avoid scalpers
-- Consider buying for all family members to stay together
-- Choose based on your family's preference for rides vs. shows
+- **Ticket availability:** USJ releases tickets in batches, typically 2-3 months in advance
+- **Your date (July 24, 2026):** Not yet available as of early May 2026
+- **When to check:** Monitor the official USJ website regularly starting mid-May 2026
+- **Action when available:** Book immediately as Express Passes sell out quickly for summer dates
+- Buy from official USJ website only to avoid scalpers and ensure authenticity
+- Purchase for all family members to stay together
+- Choose Express Pass based on your family's preference for rides vs. shows
+- **Set a reminder:** Check USJ website every few days in mid-May for July 24 ticket release
 
 ### Planning assumptions
 - Family of 4 with 2 girls, ages 10 and 13
