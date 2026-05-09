@@ -121,7 +121,7 @@ For comprehensive information about navigating Japan's train and bus systems, in
 - In transit
 
 ### Afternoon
-- Arrive at Haneda
+- Arrive at Haneda (13:20)
 - Clear immigration
 - Transfer to [**Sotetsu Fresa Inn Ginza-Nanachome**](https://www.google.com/maps/search/Sotetsu+Fresa+Inn+Ginza-Nanachome+Tokyo)
 - Check in, shower, and rest briefly indoors
@@ -2095,7 +2095,7 @@ Probably skip unless they specifically want something intense:
 - Head to Haneda
 
 ### Evening
-- Flight out
+- Flight out from Haneda (18:10)
 
 ### Food focus
 - Final airport meal or boxed snack run
