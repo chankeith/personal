@@ -813,11 +813,15 @@ For comprehensive information about navigating Japan's train and bus systems, in
 - Explore central Kyoto
   - [**Nishiki Market**](https://www.google.com/maps/search/Nishiki+Market+Kyoto) - If not fully explored on Day 5
   - Shopping and browsing near hotel
-- Dinner options:
+- Dinner and evening options:
   - [**Pontocho Alley**](https://www.google.com/maps/search/Pontocho+Alley+Kyoto) ⭐⭐⭐ - Atmospheric dining alley
     - Traditional restaurants with lanterns
     - Perfect for evening stroll and dinner
     - Runs parallel to Kamo River
+  - **Alternative:** [**Gion District**](https://maps.app.goo.gl/gion) ⭐⭐⭐ - Kyoto's famous geisha district
+    - [**Gionmachi Kitagawa**](https://maps.app.goo.gl/gionkitagawa) & [**Gionmachi Minamigawa**](https://maps.app.goo.gl/gionminamigawa) - Traditional streets
+    - [**Yasaka Shrine**](https://maps.app.goo.gl/yasakashrine) ⭐⭐⭐ - Evening illumination
+    - Traditional restaurants and atmosphere
   - Hotel area restaurants
   - Kyoto Station dining options
 - Early rest to prepare for Arashiyama early morning next day
@@ -902,9 +906,14 @@ For comprehensive information about navigating Japan's train and bus systems, in
 
 ### Evening
 - Dinner near hotel
-- [**Pontocho Alley**](https://www.google.com/maps/search/Pontocho+Alley+Kyoto) ⭐⭐⭐ - Atmospheric dining alley (if not visited Day 6)
-  - Traditional restaurants with lanterns
-  - Perfect for final Kyoto dinner
+- Evening options:
+  - [**Pontocho Alley**](https://www.google.com/maps/search/Pontocho+Alley+Kyoto) ⭐⭐⭐ - Atmospheric dining alley (if not visited Day 6)
+    - Traditional restaurants with lanterns
+    - Perfect for final Kyoto dinner
+  - **Alternative:** [**Gion District**](https://maps.app.goo.gl/gion) ⭐⭐⭐ - Kyoto's famous geisha district (if not visited Day 6)
+    - [**Gionmachi Kitagawa**](https://maps.app.goo.gl/gionkitagawa) & [**Gionmachi Minamigawa**](https://maps.app.goo.gl/gionminamigawa) - Traditional streets
+    - [**Yasaka Shrine**](https://maps.app.goo.gl/yasakashrine) ⭐⭐⭐ - Evening illumination
+    - Traditional kaiseki or izakaya dining
 - Early rest before early morning Kiyomizu-dera visit and checkout tomorrow
 
 ### Food focus
@@ -936,7 +945,7 @@ For comprehensive information about navigating Japan's train and bus systems, in
 
 ## Wednesday, July 23 — Kiyomizu-dera, Nara day trip, then to Osaka
 
-### Early Morning - Kiyomizu-dera
+### Early Morning - Kiyomizu-dera and Historic Streets
 - Wake up early (6:00-6:30 AM)
 - Light breakfast
 - Travel to [**Kiyomizu-dera Temple**](https://www.google.com/maps/search/Kiyomizu-dera+Temple+Kyoto) ⭐⭐⭐
@@ -945,8 +954,19 @@ For comprehensive information about navigating Japan's train and bus systems, in
   - Beautiful temple complex in Higashiyama (eastern Kyoto)
   - **Best visited early morning** (7:00-7:30 AM arrival) to beat crowds and heat
   - Walk through the temple grounds and enjoy the views
-  - **Time needed:** 1.5-2 hours
-  - **Transportation from hotel:** Taxi (15-20 min, ~¥1,500-2,000) or Kyoto City Bus (25-30 min)
+  - **Time needed:** 1-1.5 hours
+
+- **Kiyomizu-dera Approach Streets** ⭐⭐⭐ - Walk down after temple visit
+  - [**Ninenzaka (二年坂)**](https://www.google.com/maps/search/Ninenzaka+Kyoto) - Historic preserved street
+  - [**Sannenzaka (三年坂)**](https://www.google.com/maps/search/Sannenzaka+Kyoto) - Continuation of Ninenzaka
+  - Traditional wooden buildings and shops
+  - Souvenir shops, cafes, traditional sweets
+  - Perfect for photos and light shopping
+  - **Time needed:** 30-45 minutes
+  - **Note:** Shops open around 9-10 AM, but streets are beautiful even before shops open
+
+- **Total time:** 2-2.5 hours
+- **Transportation from hotel:** Taxi (15-20 min, ~¥1,500-2,000) or Kyoto City Bus (25-30 min)
 - Return to hotel by 9:30-10:00 AM
 
 ### Late Morning in Kyoto
