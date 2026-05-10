@@ -10,10 +10,10 @@
   - [Day 4: July 19 - Travel to Hakone with Lake Ashi Cruise](#saturday-july-19--hakone-full-day)
 - [Kyoto (July 20-22)](#kyoto)
   - [Day 5: July 20 - Hakone to Kyoto, Nishiki Market, Gion evening](#sunday-july-20--hakone-to-kyoto)
-  - [Day 6: July 21 - Fushimi Inari, Northern Kyoto temples (Kinkaku-ji, Ryoan-ji), Pontocho](#monday-july-21--fushimi-inari-northern-kyoto-temples-pontocho)
-  - [Day 7: July 22 - Arashiyama, Uji matcha, teamLab Kyoto](#tuesday-july-22--arashiyama-morning-uji-matcha-teamlab-kyoto)
+  - [Day 6: July 21 - Fushimi Inari, teamLab Kyoto, Pontocho](#monday-july-21--fushimi-inari-early-morning-teamlab-kyoto-afternoon)
+  - [Day 7: July 22 - Arashiyama and Western Kyoto temples](#tuesday-july-22--arashiyama-and-western-kyoto-temples)
 - [Osaka and Nara (July 23-25)](#osaka-and-nara)
-  - [Day 8: July 23 - Kyoto to Nara to Osaka (Nara stopover), Dotonbori food crawl](#wednesday-july-23--kyoto-to-nara-to-osaka)
+  - [Day 8: July 23 - Kiyomizu-dera morning, Kyoto to Nara to Osaka (Nara stopover), Dotonbori food crawl](#wednesday-july-23--kyoto-to-nara-to-osaka-kiyomizu-dera-morning-nara-stopover)
   - [Day 9: July 24 - Universal Studios Japan](#thursday-july-24--universal-studios-japan)
   - [Day 10: July 25 - Flexible Osaka day (Castle, Shinsekai, Kuromon Market, or Umeda Sky)](#friday-july-25--flexible-osaka-day)
 - [Tokyo Disney Resort Stay (July 26-27)](#tokyo-disney-resort-stay)
@@ -36,7 +36,7 @@
 | Attraction | Day | Book By Date | Booking Website | Priority | Notes |
 |------------|-----|--------------|-----------------|----------|-------|
 | **teamLab Borderless** | Day 3 (July 18) | **April 16, 2026** | [teamLab Borderless Tokyo](https://borderless.teamlab.art/tokyo/) | HIGH | Book as soon as 3-month window opens |
-| **teamLab Kyoto** | Day 7 (July 22) | **April 16, 2026** | [teamLab Kyoto](https://www.teamlab.art/e/kyoto/) | HIGH | Book as soon as 3-month window opens |
+| **teamLab Kyoto** | Day 6 (July 21) | **April 16, 2026** | [teamLab Kyoto](https://www.teamlab.art/e/kyoto/) | HIGH | Book as soon as 3-month window opens |
 | **Universal Studios Japan** | Day 9 (July 24) | **Check regularly from May 2026** | [USJ Official Site](https://www.usj.co.jp/web/en/us) | HIGH | Book 1-Day Studio Pass + Express Pass 5 (Race and Adventure) or Express Pass 4 (Race & Theatre) |
 | **Tokyo DisneySea** | Day 12 (July 27) | **May 27, 2026** | [Tokyo Disney Resort](https://www.tokyodisneyresort.jp/en/ticket/) | HIGH | Book tickets; Premier Access on day-of |
 | **Shibuya Sky** | Day 13 (July 28) | **July 14, 2026** | [Shibuya Sky Official](https://www.shibuya-scramble-square.com/sky/) | MEDIUM | Opens ~2 weeks in advance; sunset slots fill quickly |
@@ -51,7 +51,7 @@
 **📅 April 16, 2026 (3 months before trip starts):**
 Book ALL of these on the same day when the 3-month booking window opens:
 - ✅ [teamLab Borderless](https://borderless.teamlab.art/tokyo/) tickets for July 18
-- ✅ [teamLab Kyoto](https://www.teamlab.art/e/kyoto/) tickets for July 22
+- ✅ [teamLab Kyoto](https://www.teamlab.art/e/kyoto/) tickets for July 21
 - ✅ [Universal Studios Japan](https://www.usj.co.jp/web/en/us) for July 24:
   - **1-Day Studio Pass** (park admission ticket) - Required for entry
   - **Universal Express Pass 5 - Race and Adventure** (recommended) OR **Express Pass 4 - Race & Theatre** (alternative)
@@ -834,7 +834,7 @@ For comprehensive information about navigating Japan's train and bus systems, in
 
 ---
 
-## Tuesday, July 22 — Arashiyama morning, Uji matcha, teamLab Kyoto
+## Tuesday, July 22 — Arashiyama and Western Kyoto temples
 
 **Hotel:** Hotel Gran Ms Kyoto (Near Nishiki Market) - recommended
 
