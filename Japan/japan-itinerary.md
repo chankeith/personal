@@ -774,7 +774,7 @@ For comprehensive information about navigating Japan's train and bus systems, in
 
 ## Kyoto
 
-## Monday, July 21 — Fushimi Inari early morning, Northern Kyoto temples
+## Monday, July 21 — Fushimi Inari early morning, teamLab Kyoto afternoon
 
 **Hotel:** Hotel Gran Ms Kyoto (Near Nishiki Market) - recommended
 
@@ -791,30 +791,17 @@ For comprehensive information about navigating Japan's train and bus systems, in
 - Lunch break near hotel or in central area
 - Rest indoors during peak heat
 
-### Afternoon - Northern Kyoto Temple Cluster
-- Travel to Northern Kyoto (20-25 min from central)
-- [**Kinkaku-ji (Golden Pavilion)**](https://www.google.com/maps/search/Kinkaku-ji+Golden+Pavilion+Kyoto) ⭐⭐⭐ - Stunning gold-leaf covered temple
-  - One of Kyoto's most iconic sights
-  - Beautiful gardens and pond reflections
-  - Best visited in afternoon when crowds thin slightly
-  - **Time needed:** 45-60 minutes
-
-- [**Ryoan-ji Temple**](https://www.google.com/maps/search/Ryoan-ji+Temple+Kyoto) ⭐⭐⭐ - Famous Zen rock garden
-  - UNESCO World Heritage site
-  - Japan's most famous rock garden
-  - Peaceful contemplative atmosphere
-  - Only 5-10 minutes from Kinkaku-ji by bus or taxi
-  - **Time needed:** 30-45 minutes
-
-**Alternative to Ryoan-ji:**
-- [**Ninna-ji Temple**](https://www.google.com/maps/search/Ninna-ji+Temple+Kyoto) ⭐⭐ - Historic temple with five-story pagoda
-  - UNESCO World Heritage site
-  - Beautiful temple grounds
-  - 10 minutes from Kinkaku-ji
-  - **Time needed:** 30-45 minutes
+### Afternoon - teamLab Kyoto
+- Travel to Shimogamo Shrine area (northern Kyoto, 15-20 min from central)
+- [**teamLab Kyoto**](https://www.google.com/maps/search/teamLab+Kyoto) ⭐⭐⭐ - Digital art museum experience at Shimogamo Shrine
+  - Interactive digital art installations in forest setting
+  - Perfect indoor/outdoor activity during afternoon
+  - Great for kids and families
+  - **Time needed:** 1.5-2 hours
+- This keeps you in a comfortable environment during peak afternoon heat
 
 ### Evening
-- Return to hotel for rest (20-25 min)
+- Return to hotel for rest (15-20 min)
 - Light dinner near hotel or Pontocho Alley
 - [**Pontocho Alley**](https://www.google.com/maps/search/Pontocho+Alley+Kyoto) ⭐⭐⭐ - Narrow atmospheric alley with traditional restaurants
   - Perfect for evening stroll and dinner
@@ -824,7 +811,7 @@ For comprehensive information about navigating Japan's train and bus systems, in
 ### Food focus
 - **Near Fushimi Inari:** Inari-zushi (fried tofu sushi), traditional sweets
 - **Lunch:** Kyoto-style set meal, udon/soba, or café near hotel
-- **Northern Kyoto:** Light snacks or tea at temple areas
+- **Afternoon:** Light snacks near teamLab area
 - **Pontocho:** Traditional kaiseki, yakitori, izakaya dining
 
 ### Transportation
@@ -832,20 +819,17 @@ For comprehensive information about navigating Japan's train and bus systems, in
   - **Option 1:** **JR Nara Line** (local train) from Kyoto Station to Inari Station (10 min, 2 stops + 5 min walk to shrine)
   - **Option 2:** **Keihan Main Line** (private railway) to Fushimi-Inari Station (12 min + 3 min walk) - closer to shrine entrance
 - **Fushimi Inari back to central Kyoto:** **JR Nara Line** (local train) or **Keihan Line** (10-15 min)
-- **Central Kyoto to Kinkaku-ji:** **Kyoto City Bus #101, #102, #204, or #205** (20-25 min, ¥230 flat fare) or taxi (15 min, ~¥1,500-2,000)
-- **Kinkaku-ji to Ryoan-ji:** **Kyoto City Bus #59** (5 min, ¥230) or walk (15-20 min) or taxi (5 min, ~¥800-1,000)
-- **Ryoan-ji/Ninna-ji back to hotel:** **Kyoto City Bus** (25-30 min, ¥230) or taxi (15-20 min, ~¥2,000-2,500)
+- **Central Kyoto to teamLab Kyoto (Shimogamo Shrine):** **Kyoto City Bus** or taxi (15-20 min, ~¥1,500-2,000)
+- **teamLab back to hotel:** **Kyoto City Bus** or taxi (15-20 min)
 - **Hotel to Pontocho:** Walk (10-15 min) or taxi (5 min)
 
-### Why This Revised Order Works Better
-- **Reduced travel time:** Eliminates the long Fushimi Inari → Arashiyama → Kinkaku-ji triangle
-- **Geographic clustering:** Northern temples are only 5-10 minutes apart (vs. 30-40 min between previous stops)
-- **Total travel time reduced:** From ~90-120 min to ~50-70 min for the day
-- **Beat the crowds:** Fushimi Inari still done early morning
-- **Beat the heat:** Outdoor activities in morning, indoor lunch break, afternoon temples with shade
-- **Energy management:** Less time in transit = more time enjoying attractions
-- **Cultural depth:** Two UNESCO World Heritage temples in Northern Kyoto cluster
-- **Built-in rest:** Midday break at hotel before afternoon temples
+### Why This Day Works Well
+- **Geographic efficiency:** Fushimi Inari (south) → Central Kyoto → teamLab/Shimogamo (north) creates a logical south-to-north route
+- **Shorter distances:** teamLab is closer to Fushimi Inari than to Arashiyama
+- **Beat the crowds:** Fushimi Inari done early morning before crowds and heat
+- **Heat management:** Indoor lunch break, then teamLab during peak afternoon heat
+- **Energy management:** Two major activities with built-in rest periods
+- **Cultural variety:** Traditional shrine → Modern digital art
 - **Evening reward:** Relaxed Pontocho exploration and dinner
 
 ---
@@ -963,15 +947,28 @@ For comprehensive information about navigating Japan's train and bus systems, in
 
 ## Osaka and Nara
 
-## Wednesday, July 23 — Kyoto to Nara to Osaka (Nara Stopover)
+## Wednesday, July 23 — Kyoto to Nara to Osaka (Kiyomizu-dera morning, Nara stopover)
 
-### Morning in Kyoto
-- Arrange luggage forwarding service (takkyubin) at hotel early in the morning
+### Early Morning - Kiyomizu-dera
+- Wake up early (6:00-6:30 AM)
+- Light breakfast
+- Travel to [**Kiyomizu-dera Temple**](https://www.google.com/maps/search/Kiyomizu-dera+Temple+Kyoto) ⭐⭐⭐
+  - UNESCO World Heritage site
+  - Famous wooden stage with panoramic Kyoto city views
+  - Beautiful temple complex in Higashiyama (eastern Kyoto)
+  - **Best visited early morning** (7:00-7:30 AM arrival) to beat crowds and heat
+  - Walk through the temple grounds and enjoy the views
+  - **Time needed:** 1.5-2 hours
+  - **Transportation from hotel:** Taxi (15-20 min, ~¥1,500-2,000) or Kyoto City Bus (25-30 min)
+- Return to hotel by 9:30-10:00 AM
+
+### Late Morning in Kyoto
+- Arrange luggage forwarding service (takkyubin) at hotel
   - Send all large bags directly to Osaka hotel
   - Cost: ~¥2,000-2,500 per bag
   - Bags arrive same day (late afternoon/evening) or next morning
   - Keep only day bags with essentials
-- Check out from Kyoto hotel
+- Check out from Kyoto hotel (by 10:00-11:00 AM)
 - Depart for Nara via Kintetsu Line
 
 ### Mid-Morning to Early Afternoon in Nara
