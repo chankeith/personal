@@ -10,10 +10,10 @@
   - [Day 4: July 19 - Travel to Hakone with Lake Ashi Cruise](#saturday-july-19--hakone-full-day)
 - [Kyoto (July 20-22)](#kyoto)
   - [Day 5: July 20 - Hakone to Kyoto, Nishiki Market, Gion evening](#sunday-july-20--hakone-to-kyoto)
-  - [Day 6: July 21 - Fushimi Inari, teamLab Kyoto, Pontocho](#monday-july-21--fushimi-inari-early-morning-teamlab-kyoto-afternoon)
-  - [Day 7: July 22 - Arashiyama and Western Kyoto temples](#tuesday-july-22--arashiyama-and-western-kyoto-temples)
+  - [Day 6: July 21 - Fushimi Inari morning, teamLab Biovortex afternoon](#monday-july-21--fushimi-inari-and-teamlab-biovortex)
+  - [Day 7: July 22 - Arashiyama and Golden Pavilion](#tuesday-july-22--arashiyama-and-golden-pavilion)
 - [Osaka and Nara (July 23-25)](#osaka-and-nara)
-  - [Day 8: July 23 - Kiyomizu-dera morning, Kyoto to Nara to Osaka (Nara stopover), Dotonbori food crawl](#wednesday-july-23--kyoto-to-nara-to-osaka-kiyomizu-dera-morning-nara-stopover)
+  - [Day 8: July 23 - Kiyomizu-dera, Nara day trip, then to Osaka](#wednesday-july-23--kiyomizu-dera-nara-then-osaka)
   - [Day 9: July 24 - Universal Studios Japan](#thursday-july-24--universal-studios-japan)
   - [Day 10: July 25 - Flexible Osaka day (Castle, Shinsekai, Kuromon Market, or Umeda Sky)](#friday-july-25--flexible-osaka-day)
 - [Tokyo Disney Resort Stay (July 26-27)](#tokyo-disney-resort-stay)
@@ -36,7 +36,7 @@
 | Attraction | Day | Book By Date | Booking Website | Priority | Notes |
 |------------|-----|--------------|-----------------|----------|-------|
 | **teamLab Borderless** | Day 3 (July 18) | **April 16, 2026** | [teamLab Borderless Tokyo](https://borderless.teamlab.art/tokyo/) | HIGH | Book as soon as 3-month window opens |
-| **teamLab Kyoto** | Day 6 (July 21) | **April 16, 2026** | [teamLab Kyoto](https://www.teamlab.art/e/kyoto/) | HIGH | Book as soon as 3-month window opens |
+| **teamLab Biovortex Kyoto** | Day 6 (July 21) | **April 16, 2026** | [teamLab Biovortex](https://www.teamlab.art/e/biovortex-kyoto/) | HIGH | Book as soon as 3-month window opens |
 | **Universal Studios Japan** | Day 9 (July 24) | **Check regularly from May 2026** | [USJ Official Site](https://www.usj.co.jp/web/en/us) | HIGH | Book 1-Day Studio Pass + Express Pass 5 (Race and Adventure) or Express Pass 4 (Race & Theatre) |
 | **Tokyo DisneySea** | Day 12 (July 27) | **May 27, 2026** | [Tokyo Disney Resort](https://www.tokyodisneyresort.jp/en/ticket/) | HIGH | Book tickets; Premier Access on day-of |
 | **Shibuya Sky** | Day 13 (July 28) | **July 14, 2026** | [Shibuya Sky Official](https://www.shibuya-scramble-square.com/sky/) | MEDIUM | Opens ~2 weeks in advance; sunset slots fill quickly |
@@ -51,7 +51,7 @@
 **📅 April 16, 2026 (3 months before trip starts):**
 Book ALL of these on the same day when the 3-month booking window opens:
 - ✅ [teamLab Borderless](https://borderless.teamlab.art/tokyo/) tickets for July 18
-- ✅ [teamLab Kyoto](https://www.teamlab.art/e/kyoto/) tickets for July 21
+- ✅ [teamLab Biovortex Kyoto](https://www.teamlab.art/e/biovortex-kyoto/) tickets for July 21
 - ✅ [Universal Studios Japan](https://www.usj.co.jp/web/en/us) for July 24:
   - **1-Day Studio Pass** (park admission ticket) - Required for entry
   - **Universal Express Pass 5 - Race and Adventure** (recommended) OR **Express Pass 4 - Race & Theatre** (alternative)
@@ -774,180 +774,167 @@ For comprehensive information about navigating Japan's train and bus systems, in
 
 ## Kyoto
 
-## Monday, July 21 — Fushimi Inari early morning, teamLab Kyoto afternoon
+## Monday, July 21 — Fushimi Inari and teamLab Biovortex
 
 **Hotel:** Hotel Gran Ms Kyoto (Near Nishiki Market) - recommended
 
 ### Early Morning - Fushimi Inari
-- [**Fushimi Inari Shrine**](https://www.google.com/maps/search/Fushimi+Inari+Shrine+Kyoto) ⭐⭐⭐ - Start very early
-- Walk through the iconic torii gate tunnels before crowds and heat
-- Go as far up the mountain as energy allows
+- [**Fushimi Inari Shrine**](https://www.google.com/maps/search/Fushimi+Inari+Shrine+Kyoto) ⭐⭐⭐ - Start very early (6:30-7:00 AM)
+- Walk through the iconic thousands of vermillion torii gates
+- Hike up the mountain trails through the torii tunnels
+- Go as far up as energy allows - the higher you go, the fewer crowds
 - Best strategy: enjoy the lower and middle gates, turn back when it gets crowded or hot
 - **Time needed:** 1.5-2 hours
-- Return to central Kyoto by mid-morning
+- Complete by 9:00-9:30 AM
 
-### Late Morning/Midday - Return to Central Kyoto
-- Travel back to central Kyoto (15-20 min)
-- Lunch break near hotel or in central area
-- Rest indoors during peak heat
+### Late Morning - Explore Kyoto Station Area
+- Travel to Kyoto Station area (15-20 min from Fushimi Inari)
+- Brunch at Kyoto Station
+  - Many restaurants on upper floors with views
+  - Depachika (basement food halls) for snacks and treats
+- Browse Kyoto Station complex
+  - Modern architecture and rooftop views
+  - Shopping and air-conditioned comfort
+- **Time:** 9:30 AM - 12:00 PM
 
-### Afternoon - teamLab Kyoto
-- Travel to Shimogamo Shrine area (northern Kyoto, 15-20 min from central)
-- [**teamLab Kyoto**](https://www.google.com/maps/search/teamLab+Kyoto) ⭐⭐⭐ - Digital art museum experience at Shimogamo Shrine
-  - Interactive digital art installations in forest setting
-  - Perfect indoor/outdoor activity during afternoon
+### Afternoon - teamLab Biovortex
+- Travel to teamLab Biovortex location from Kyoto Station (check exact venue when booking)
+- [**teamLab Biovortex**](https://www.teamlab.art/e/biovortex-kyoto/) ⭐⭐⭐ - Immersive digital art experience
+  - Interactive digital art installations
+  - Biovortex features nature-inspired digital ecosystems
+  - Perfect indoor activity during peak afternoon heat
   - Great for kids and families
   - **Time needed:** 1.5-2 hours
-- This keeps you in a comfortable environment during peak afternoon heat
+- This keeps you in a comfortable air-conditioned environment during the hottest part of the day
+- **Time:** 12:30-2:30 PM or 1:00-3:00 PM (depending on ticket time)
 
-### Evening
-- Return to hotel for rest (15-20 min)
-- Light dinner near hotel or Pontocho Alley
-- [**Pontocho Alley**](https://www.google.com/maps/search/Pontocho+Alley+Kyoto) ⭐⭐⭐ - Narrow atmospheric alley with traditional restaurants
-  - Perfect for evening stroll and dinner
-  - Runs parallel to Kamo River
-  - Traditional lanterns and ambiance
+### Late Afternoon/Evening
+- Return to hotel area for rest (if needed)
+- Explore central Kyoto
+  - [**Nishiki Market**](https://www.google.com/maps/search/Nishiki+Market+Kyoto) - If not fully explored on Day 5
+  - Shopping and browsing near hotel
+- Dinner options:
+  - [**Pontocho Alley**](https://www.google.com/maps/search/Pontocho+Alley+Kyoto) ⭐⭐⭐ - Atmospheric dining alley
+    - Traditional restaurants with lanterns
+    - Perfect for evening stroll and dinner
+    - Runs parallel to Kamo River
+  - Hotel area restaurants
+  - Kyoto Station dining options
+- Early rest to prepare for Arashiyama early morning next day
 
 ### Food focus
-- **Near Fushimi Inari:** Inari-zushi (fried tofu sushi), traditional sweets
-- **Lunch:** Kyoto-style set meal, udon/soba, or café near hotel
-- **Afternoon:** Light snacks near teamLab area
-- **Pontocho:** Traditional kaiseki, yakitori, izakaya dining
+- **Near Fushimi Inari:** Inari-zushi (fried tofu sushi), traditional sweets, street food
+- **Brunch:** Kyoto Station restaurants - ramen, tonkatsu, Japanese breakfast sets
+- **Lunch:** Light meal before or after teamLab (depending on timing)
+- **Dinner:** Pontocho kaiseki, yakitori, izakaya, or casual dining
 
 ### Transportation
 - **Hotel to Fushimi Inari:**
   - **Option 1:** **JR Nara Line** (local train) from Kyoto Station to Inari Station (10 min, 2 stops + 5 min walk to shrine)
   - **Option 2:** **Keihan Main Line** (private railway) to Fushimi-Inari Station (12 min + 3 min walk) - closer to shrine entrance
-- **Fushimi Inari back to central Kyoto:** **JR Nara Line** (local train) or **Keihan Line** (10-15 min)
-- **Central Kyoto to teamLab Kyoto (Shimogamo Shrine):** **Kyoto City Bus** or taxi (15-20 min, ~¥1,500-2,000)
-- **teamLab back to hotel:** **Kyoto City Bus** or taxi (15-20 min)
+  - **Taxi:** 15 min, ~¥1,500-2,000 (convenient for early morning)
+- **Fushimi Inari to Kyoto Station:** **JR Nara Line** (10 min) or taxi (15 min)
+- **Kyoto Station to teamLab Biovortex:** Depends on exact venue location (check when booking tickets)
+- **teamLab to hotel area:** Taxi or public transport depending on location
 - **Hotel to Pontocho:** Walk (10-15 min) or taxi (5 min)
 
-### Why This Day Works Well
-- **Geographic efficiency:** Fushimi Inari (south) → Central Kyoto → teamLab/Shimogamo (north) creates a logical south-to-north route
-- **Shorter distances:** teamLab is closer to Fushimi Inari than to Arashiyama
-- **Beat the crowds:** Fushimi Inari done early morning before crowds and heat
-- **Heat management:** Indoor lunch break, then teamLab during peak afternoon heat
-- **Energy management:** Two major activities with built-in rest periods
-- **Cultural variety:** Traditional shrine → Modern digital art
-- **Evening reward:** Relaxed Pontocho exploration and dinner
+### Why This Day Works Better
+- **No backtracking:** Fushimi Inari → Kyoto Station → teamLab → Hotel area (logical flow)
+- **Beat the crowds:** Fushimi Inari at dawn/early morning - magical experience with fewer tourists
+- **Heat management:** Outdoor activity in cool morning, indoor activities during peak heat
+- **Kyoto Station hub:** Central location for food, shopping, and connections
+- **Energy pacing:** Activities spread throughout day with natural breaks
+- **Cultural variety:** Traditional Shinto shrine → Modern station complex → Cutting-edge digital art
+- **Flexible evening:** Multiple dinner options, early rest for next day's early start
 
 ---
 
-## Tuesday, July 22 — Arashiyama and Western Kyoto temples
+## Tuesday, July 22 — Arashiyama and Golden Pavilion
 
 **Hotel:** Hotel Gran Ms Kyoto (Near Nishiki Market) - recommended
 
 ### Early Morning - Arashiyama
-- Start early to beat crowds and heat
+- Start early to beat crowds and heat (6:30-7:00 AM departure)
 - Travel to Arashiyama (20-25 minutes from central Kyoto)
 - [**Arashiyama Bamboo Grove**](https://www.google.com/maps/search/Arashiyama+Bamboo+Grove+Kyoto) ⭐⭐⭐ - Walk through the iconic bamboo forest
-  - Best experienced early morning before tour groups
-  - Magical atmosphere with towering bamboo
-  - Perfect for photos
+  - Best experienced early morning before tour groups (arrive by 7:30 AM)
+  - Magical atmosphere with towering bamboo stalks
+  - Perfect for photos in soft morning light
   - **Time needed:** 30-45 minutes
-  - **Alternative 1:** [**Sagano Bamboo Forest**](https://www.google.com/maps/search/Sagano+Bamboo+Forest+Kyoto) - Same area, different entrance
+  - **Alternative path:** [**Sagano Bamboo Forest**](https://www.google.com/maps/search/Sagano+Bamboo+Forest+Kyoto) - Same area, different entrance
     - Less crowded path through bamboo
     - Connects to Tenryu-ji Temple
     - Equally beautiful experience
-  - **Alternative 2:** [**Adashino Nenbutsu-ji Temple**](https://www.google.com/maps/search/Adashino+Nenbutsu-ji+Temple+Kyoto) ⭐⭐⭐ - Serene temple with 8,000 stone statues
-    - Much less crowded than bamboo grove
-    - Peaceful moss garden and stone Buddha statues
-    - Atmospheric and contemplative experience
-    - Located in northern Arashiyama (Sagano area)
-    - **Time needed:** 45-60 minutes
-    - **Access:** 20-min walk from bamboo grove or 10-min bus ride
-    - **Best for:** Those seeking tranquility over crowds, photography enthusiasts
-    - **Note:** Can visit both if time allows, or choose one based on preference
 
 - [**Togetsukyo Bridge**](https://www.google.com/maps/search/Togetsukyo+Bridge+Kyoto) ⭐⭐ - Scenic bridge over Katsura River
-  - Beautiful river views
-  - Mountain backdrop
+  - Beautiful river views with mountain backdrop
   - Photo opportunity
   - **Time needed:** 15-20 minutes
 
-- **Arashiyama riverside area** - Scenic walks along the river
-- Optional: Quick visit to nearby temples if time and energy allow
-- **Total Arashiyama time:** 2-2.5 hours
-
-### Late Morning - Uji Matcha Experience
-- Travel from Arashiyama to Uji (30-35 minutes)
-- [**Byodoin Temple**](https://www.google.com/maps/search/Byodoin+Temple+Uji+Kyoto) ⭐⭐⭐ - UNESCO World Heritage site with Phoenix Hall (on 10 yen coin)
-  - Beautiful temple and gardens
-  - Iconic architecture featured on Japanese currency
+- **Optional:** [**Tenryu-ji Temple**](https://www.google.com/maps/search/Tenryu-ji+Temple+Kyoto) ⭐⭐⭐ - UNESCO World Heritage Zen temple
+  - Beautiful gardens
+  - Near bamboo grove
   - **Time needed:** 30-45 minutes
 
-- [**Uji Matcha Experience**](https://www.google.com/maps/search/Uji+Matcha+Kyoto) ⭐⭐⭐
-  - Visit famous matcha shops on Omotesando Street
-  - Try authentic Uji matcha soft serve, matcha parfaits, or matcha sweets
-  - Recommended shops: Nakamura Tokichi, Tsujiri, or Itohkyuemon
-  - Browse tea shops and purchase high-quality matcha
+- **Arashiyama riverside area** - Brief scenic walk along the river
+- **Total Arashiyama time:** 1.5-2 hours (complete by 9:00-9:30 AM)
+
+### Late Morning - Golden Pavilion
+- Travel from Arashiyama to Kinkaku-ji (15-20 minutes by bus or taxi)
+- [**Kinkaku-ji (Golden Pavilion)**](https://www.google.com/maps/search/Kinkaku-ji+Golden+Pavilion+Kyoto) ⭐⭐⭐ - Stunning gold-leaf covered temple
+  - One of Kyoto's most iconic sights
+  - Three-story pavilion covered in gold leaf
+  - Beautiful gardens and pond reflections
+  - Perfect photo opportunity
   - **Time needed:** 45-60 minutes
+  - **Best time:** Mid-morning (9:30-10:30 AM) after early crowds but before peak
 
-- **Uji River walk** - Brief stroll along scenic river if time permits
-- Lunch in Uji (matcha soba, traditional Japanese set meals)
+### Midday - Return to Hotel
+- Travel back to central Kyoto (20-25 min)
+- Lunch near hotel or in central area
+- Rest indoors during peak afternoon heat
 
-**Total Uji time:** 1.5-2 hours (complete by early afternoon)
-
-### Afternoon - teamLab Kyoto
-- Return to central Kyoto from Uji (20 min)
-- [**teamLab Kyoto**](https://www.google.com/maps/search/teamLab+Kyoto) ⭐⭐⭐ - Digital art museum experience
-  - Interactive digital art installations
-  - Perfect indoor activity during peak heat
-  - Great for kids and families
-  - **Time needed:** 1.5-2 hours
-- This keeps you indoors during peak afternoon heat
+### Afternoon - Rest and Pack
+- Relax at hotel
+- Pack and organize for checkout tomorrow
+- Optional: Light shopping or exploration near hotel if energy allows
+- Prepare luggage for forwarding service tomorrow morning
 
 ### Evening
-- Return to hotel for rest
+- Dinner near hotel
 - [**Pontocho Alley**](https://www.google.com/maps/search/Pontocho+Alley+Kyoto) ⭐⭐⭐ - Atmospheric dining alley (if not visited Day 6)
   - Traditional restaurants with lanterns
-  - Perfect for dinner
-- Alternative: Dinner near hotel or Kyoto Station area
-- Early rest before Osaka transfer next day
+  - Perfect for final Kyoto dinner
+- Early rest before early morning Kiyomizu-dera visit and checkout tomorrow
 
 ### Food focus
-- **Early morning:** Light breakfast before Arashiyama
+- **Early morning:** Light breakfast before departure
 - **In Arashiyama:** Yuba (tofu skin), tofu dishes, croquettes, matcha soft serve
-- **In Uji:** Authentic Uji matcha soft serve ⭐⭐⭐, matcha parfaits, matcha soba, matcha sweets
-- **Lunch:** Matcha-themed meal in Uji or light Japanese set meal
-- **Dinner:** Pontocho dining or casual meal near hotel
+- **Lunch:** Kyoto-style set meal, udon/soba near hotel
+- **Dinner:** Pontocho dining or special Kyoto kaiseki meal for last night
 
 ### Transportation
 - **Hotel to Arashiyama:**
   - **Best option:** **JR Sagano Line** (local train) from Kyoto Station to Saga-Arashiyama Station (15 min, frequent service)
-  - **Alternative:** Kyoto City Bus (30-35 min, slower but scenic)
-  - **Taxi:** 20 min, ~¥2,500-3,000
-- **Within Arashiyama:** Walk (all attractions within 15-min walk)
-- **Arashiyama to Uji:**
-  - **Option 1:** **JR Sagano Line** (local train) back to Kyoto Station (15 min), then **JR Nara Line** (local train) to Uji Station (20 min) - 35-40 min total
-  - **Option 2:** Taxi direct (30 min, ~¥4,000-5,000)
-- **Within Uji:** Walk (Byodoin Temple and matcha shops within 10-min walk)
-- **Uji back to central Kyoto:** JR Nara Line to Kyoto Station (20 min)
-- **Kyoto Station to teamLab Kyoto:** Taxi preferred (15-20 min), or subway/bus depending on exact venue (20-30 min)
-- **teamLab to hotel:** Taxi (10-15 min) or subway/bus (15-25 min)
+  - **Taxi:** 20 min, ~¥2,500-3,000 (convenient for early morning)
+- **Arashiyama to Kinkaku-ji:**
+  - **Kyoto City Bus #93** (20-25 min) or taxi (15-20 min, ~¥2,000-2,500)
+- **Kinkaku-ji back to central Kyoto:**
+  - **Kyoto City Bus** (25-30 min, ¥230) or taxi (15-20 min, ~¥2,000-2,500)
 
-### Why This Revised Order Works Better
-- **Geographic flow:** Arashiyama (west) → Uji (south) → Central Kyoto - natural progression
-- **Both western/southern attractions combined:** Eliminates backtracking from previous Day 6 route
-- **Beat the crowds:** Early Arashiyama visit before tour groups arrive
-- **Heat management:** Outdoor activities done by early afternoon, indoor teamLab during peak heat
-- **Cultural variety:** Bamboo forest → UNESCO temple → matcha culture → digital art
-- **Travel efficiency:** Arashiyama and Uji are in same general direction from central Kyoto
-- **Built-in rest:** Afternoon indoor time and evening flexibility
-- **Energy management:** Most active sightseeing in cool morning hours
-
-### Uji tips
-- Uji is the birthplace of Japanese green tea culture
-- Byodoin Temple is iconic and worth the visit
-- Matcha in Uji is considered the highest quality in Japan
-- Perfect cultural addition to your Kyoto experience
+### Why This Day Works Well
+- **Geographic efficiency:** Arashiyama and Kinkaku-ji are both in western Kyoto (15-20 min apart)
+- **Beat the crowds:** Early morning visits to both major attractions
+- **Two iconic sights:** Bamboo grove and Golden Pavilion - Kyoto's most photographed locations
+- **Heat management:** Outdoor activities done by late morning, afternoon rest
+- **Preparation time:** Afternoon to pack and prepare for checkout/travel day tomorrow
+- **Perfect finale:** Last evening in Kyoto with special dinner
 
 ---
 
 ## Osaka and Nara
 
-## Wednesday, July 23 — Kyoto to Nara to Osaka (Kiyomizu-dera morning, Nara stopover)
+## Wednesday, July 23 — Kiyomizu-dera, Nara day trip, then to Osaka
 
 ### Early Morning - Kiyomizu-dera
 - Wake up early (6:00-6:30 AM)
