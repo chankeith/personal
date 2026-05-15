@@ -809,17 +809,44 @@ For comprehensive information about navigating Japan's train and bus systems, in
 
 ### Late Morning - Explore Kyoto Station Area
 - Travel to Kyoto Station area (15-20 min from Fushimi Inari)
-- Brunch at Kyoto Station
-  - Many restaurants on upper floors with views
+- Light snacks at Kyoto Station
   - Depachika (basement food halls) for snacks and treats
 - Browse Kyoto Station complex
   - Modern architecture and rooftop views
   - Shopping and air-conditioned comfort
 - **Time:** 9:30 AM - 12:00 PM
 
+### Midday - Lunch Before teamLab
+- **Lunch timing:** 12:00-1:30 PM (allows time to arrive at teamLab by 1:45 PM)
+- **Recommended lunch options:**
+
+  **Inside Kyoto Station:**
+  - [**Kyoto Ramen Koji**](https://www.google.com/maps/search/Kyoto+Ramen+Koji) ⭐⭐⭐ - 10th floor, multiple famous ramen shops
+  - [**Isetan Department Store restaurants**](https://www.google.com/maps/search/Isetan+Kyoto+Station) - 11th floor, various Japanese restaurants with views
+  - [**Tonkatsu Katsukura**](https://www.google.com/maps/search/Tonkatsu+Katsukura+Kyoto+Station) ⭐⭐⭐ - Famous Kyoto tonkatsu chain
+  - [**Cube**](https://www.google.com/maps/search/Cube+Kyoto+Station) - 11th floor restaurant complex
+
+  **Around Kyoto Station (walking distance):**
+  - [**Ganko Sushi Kyoto Station**](https://www.google.com/maps/search/Ganko+Sushi+Kyoto+Station) ⭐⭐⭐ - Traditional sushi restaurant near station
+  - [**Ramen Yokocho**](https://www.google.com/maps/search/Ramen+Yokocho+Kyoto+Station) ⭐⭐ - Ramen alley near station
+  - [**Yoshinoya**](https://www.google.com/maps/search/Yoshinoya+Kyoto+Station) ⭐⭐ - Famous beef bowl chain, quick option
+  - [**Sukiya**](https://www.google.com/maps/search/Sukiya+Kyoto+Station) ⭐⭐ - Another beef bowl chain, 24/7
+  - [**McDonald's Kyoto Station**](https://www.google.com/maps/search/McDonalds+Kyoto+Station) ⭐ - Familiar option for kids
+  - [**Ootoya**](https://www.google.com/maps/search/Ootoya+Kyoto+Station) ⭐⭐⭐ - Japanese home-style cooking chain
+  - [**Matsuya**](https://www.google.com/maps/search/Matsuya+Kyoto+Station) ⭐⭐ - Beef bowl and curry chain
+  - **Local restaurants** in the station area (many options within 2-3 blocks)
+
+  **Quick options:**
+  - Kyoto Station depachika food hall for bento boxes
+  - Convenience store premium bentos (surprisingly good!)
+  - Station food courts and casual dining
+
+- **Recommendation:** Stay around Kyoto Station area for convenience - teamLab is only 15-20 minute walk away
+
 ### Afternoon - teamLab Biovortex
-- Travel to teamLab Biovortex location from Kyoto Station (check exact venue when booking)
+- Travel to teamLab Biovortex from lunch location
 - [**teamLab Biovortex**](https://www.teamlab.art/e/biovortex-kyoto/) ⭐⭐⭐ - Immersive digital art experience
+  - **Address:** 21-5 Higashikujo Higashi Iwamoto-cho, Minami-ku, Kyoto (near Kyoto Station)
   - **Ticket time: 2:00 PM** ✅ (purchased)
   - Interactive digital art installations
   - Biovortex features nature-inspired digital ecosystems
@@ -855,14 +882,30 @@ For comprehensive information about navigating Japan's train and bus systems, in
 - **Dinner:** Pontocho kaiseki, yakitori, izakaya, or casual dining
 
 ### Transportation
-- **Hotel to Fushimi Inari:**
+- **Hotel to Fushimi Inari (early morning):**
   - **Option 1:** **JR Nara Line** (local train) from Kyoto Station to Inari Station (10 min, 2 stops + 5 min walk to shrine)
   - **Option 2:** **Keihan Main Line** (private railway) to Fushimi-Inari Station (12 min + 3 min walk) - closer to shrine entrance
-  - **Taxi:** 15 min, ~¥1,500-2,000 (convenient for early morning)
-- **Fushimi Inari to Kyoto Station:** **JR Nara Line** (10 min) or taxi (15 min)
-- **Kyoto Station to teamLab Biovortex:** Depends on exact venue location (check when booking tickets)
-- **teamLab to hotel area:** Taxi or public transport depending on location
-- **Hotel to Pontocho:** Walk (10-15 min) or taxi (5 min)
+  - **Option 3 (Recommended for 6:30 AM):** **Taxi** (15 min, ~¥1,500-2,000) - most convenient for early morning departure
+- **Fushimi Inari to Kyoto Station:**
+  - **JR Nara Line** (local train, 10 min, frequent service) - recommended
+  - **Taxi:** 15 min, ~¥1,500-2,000
+- **Kyoto Station area to lunch location:**
+  - **Recommended:** Stay at Kyoto Station for lunch (Ramen Koji, Isetan, or Katsukura)
+  - **Alternative:** Central Kyoto restaurants via subway or taxi (10-15 min)
+- **Lunch location to teamLab Biovortex:**
+  - **teamLab address:** 21-5 Higashikujo Higashi Iwamoto-cho, Minami-ku, Kyoto
+  - **Location:** Near Kyoto Station (south side, Minami-ku area)
+  - **From Kyoto Station:**
+    - **Walk:** 15-20 minutes (most direct)
+    - **Taxi:** 5-10 minutes (~¥800-1,000)
+    - **Bus:** Kyoto City Bus from Kyoto Station (check route on day)
+  - **Recommended:** Walk or taxi to arrive by 1:45 PM
+- **teamLab to hotel area:**
+  - **Walk to Kyoto Station:** 15-20 minutes
+  - **Taxi:** 5-10 minutes (~¥800-1,000)
+  - **From Kyoto Station to hotel:** Depends on hotel location
+- **Hotel to Pontocho/Gion (evening):**
+  - Walk (10-15 min) or taxi (5 min)
 
 ### Why This Day Works Better
 - **No backtracking:** Fushimi Inari → Kyoto Station → teamLab → Hotel area (logical flow)
