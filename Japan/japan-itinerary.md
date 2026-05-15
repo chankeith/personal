@@ -495,9 +495,29 @@ For comprehensive information about navigating Japan's train and bus systems, in
   - Travel to Hakone with just overnight bag for ryokan
   - **Benefit:** No need to manage large luggage on Hakone loop or at ryokan
 - Travel to Shinjuku Station
-- Board Odakyu Romancecar to Hakone-Yumoto (arrive ~10:30 AM)
+- Board Odakyu Romancecar to Hakone-Yumoto
 
-### Late Morning - Hakone Open-Air Museum
+### Optional Stop - Shin-Yokohama Ramen Museum
+- **[OPTIONAL]** Stop at Shin-Yokohama Station (Romancecar stops here)
+- [**Shin-Yokohama Ramen Museum**](https://www.google.com/maps/search/Shin-Yokohama+Ramen+Museum) ⭐⭐⭐ - Ramen theme park
+  - 5-minute walk from Shin-Yokohama Station
+  - Multiple ramen shops from different regions of Japan
+  - Recreated 1958 downtown Tokyo atmosphere
+  - Ramen history exhibits
+  - **Strategy:** Order mini portions (mini ramen) to try multiple shops
+  - **Popular shops inside:**
+    - Sumire (Sapporo miso ramen)
+    - Ryushanhai (Yamagata)
+    - Hachiya (Tokyo shoyu ramen)
+    - Komurasaki (Kumamoto tonkotsu)
+  - **Time needed:** 1.5-2 hours
+  - **Pros:** Unique ramen experience, fun for food lovers
+  - **Cons:** Adds 2-3 hours to travel day, reduces Hakone time
+  - **Recommendation:** Skip if you want maximum Hakone time; consider if family loves ramen
+- If skipping: Continue directly to Hakone-Yumoto (arrive ~10:30 AM)
+- If visiting: Arrive Hakone-Yumoto early afternoon (~1:00 PM)
+
+### Late Morning/Afternoon - Hakone Open-Air Museum
 - **The Hakone Open-Air Museum** ⭐⭐⭐ **[RECOMMENDED TO SKIP]**
   - Japan's first open-air sculpture museum
   - Great for kids with interactive art installations
