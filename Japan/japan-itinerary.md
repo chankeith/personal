@@ -820,13 +820,15 @@ For comprehensive information about navigating Japan's train and bus systems, in
 ### Afternoon - teamLab Biovortex
 - Travel to teamLab Biovortex location from Kyoto Station (check exact venue when booking)
 - [**teamLab Biovortex**](https://www.teamlab.art/e/biovortex-kyoto/) ⭐⭐⭐ - Immersive digital art experience
+  - **Ticket time: 2:00 PM** ✅ (purchased)
   - Interactive digital art installations
   - Biovortex features nature-inspired digital ecosystems
   - Perfect indoor activity during peak afternoon heat
   - Great for kids and families
   - **Time needed:** 1.5-2 hours
+  - **Arrive by:** 1:45 PM (15 minutes early)
 - This keeps you in a comfortable air-conditioned environment during the hottest part of the day
-- **Time:** 12:30-2:30 PM or 1:00-3:00 PM (depending on ticket time)
+- **Time:** 2:00-4:00 PM (timed entry)
 
 ### Late Afternoon/Evening
 - Return to hotel area for rest (if needed)
