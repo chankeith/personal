@@ -884,8 +884,8 @@ For comprehensive information about navigating Japan's train and bus systems, in
 ### Transportation
 - **Hotel to Fushimi Inari (early morning):**
   - **Option 1:** **JR Nara Line** (local train) from Kyoto Station to Inari Station (10 min, 2 stops + 5 min walk to shrine)
-  - **Option 2:** **Keihan Main Line** (private railway) to Fushimi-Inari Station (12 min + 3 min walk) - closer to shrine entrance
-  - **Option 3 (Recommended for 6:30 AM):** **Taxi** (15 min, ~¥1,500-2,000) - most convenient for early morning departure
+  - **Option 2 (RECOMMENDED):** **Keihan Main Line** (private railway) to Fushimi-Inari Station (12 min + 3 min walk) - **closer to shrine entrance, most convenient**
+  - **Option 3 (Alternative for 6:30 AM):** **Taxi** (15 min, ~¥1,500-2,000) - most convenient for very early morning departure
 - **Fushimi Inari to Kyoto Station:**
   - **JR Nara Line** (local train, 10 min, frequent service) - recommended
   - **Taxi:** 15 min, ~¥1,500-2,000
@@ -903,7 +903,12 @@ For comprehensive information about navigating Japan's train and bus systems, in
 - **teamLab to hotel area:**
   - **Walk to Kyoto Station:** 15-20 minutes
   - **Taxi:** 5-10 minutes (~¥800-1,000)
-  - **From Kyoto Station to hotel:** Depends on hotel location
+  - **From Kyoto Station to Hotel Gran Ms Kyoto (Near Nishiki Market):**
+    - **Walk:** 15-20 minutes north from Kyoto Station
+    - **Kyoto City Bus:** #4, #5, #17, or #205 from Kyoto Station to Shijo-Kawaramachi area (10 min, ¥230)
+    - **Kyoto Metro Karasuma Line:** From Kyoto Station to Shijo Station (5 min, ¥220), then 5-minute walk east to Nishiki Market area
+    - **Taxi:** 10 minutes (~¥1,000-1,200)
+    - **Recommended:** Subway to Shijo Station (fastest and most direct)
 - **Hotel to Pontocho/Gion (evening):**
   - Walk (10-15 min) or taxi (5 min)
 
