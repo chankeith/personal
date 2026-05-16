@@ -688,6 +688,7 @@ For comprehensive information about navigating Japan's train and bus systems, in
 
 ### Evening - Gion Area
 - [**Gion**](https://maps.app.goo.gl/gion) evening walk ⭐⭐⭐ - Explore Kyoto's famous geisha district
+- [**Hanamikoji Street**](https://www.google.com/maps/search/Hanamikoji+Street+Kyoto) ⭐⭐⭐ - Main street of Gion with traditional teahouses
 - [**Gionmachi Kitagawa**](https://maps.app.goo.gl/gionkitagawa) - Northern Gion street with traditional machiya houses
 - [**Gionmachi Minamigawa**](https://maps.app.goo.gl/gionminamigawa) - Southern Gion street, equally atmospheric
 - [**Gion Weeping Cherry Tree**](https://maps.app.goo.gl/gioncherry) - Famous cherry tree (beautiful in any season)
@@ -800,6 +801,8 @@ For comprehensive information about navigating Japan's train and bus systems, in
 
 ### Early Morning - Fushimi Inari
 - [**Fushimi Inari Shrine**](https://www.google.com/maps/search/Fushimi+Inari+Shrine+Kyoto) ⭐⭐⭐ - Start very early (6:30-7:00 AM)
+  - **Senbon Torii** - The iconic thousands of vermillion torii gates
+  - **Kojingamine Observation Deck** - Scenic viewpoint along the mountain trail
 - Walk through the iconic thousands of vermillion torii gates
 - Hike up the mountain trails through the torii tunnels
 - Go as far up as energy allows - the higher you go, the fewer crowds
@@ -868,6 +871,7 @@ For comprehensive information about navigating Japan's train and bus systems, in
     - Perfect for evening stroll and dinner
     - Runs parallel to Kamo River
   - **Alternative:** [**Gion District**](https://maps.app.goo.gl/gion) ⭐⭐⭐ - Kyoto's famous geisha district
+    - [**Hanamikoji Street**](https://www.google.com/maps/search/Hanamikoji+Street+Kyoto) ⭐⭐⭐ - Main street with traditional teahouses
     - [**Gionmachi Kitagawa**](https://maps.app.goo.gl/gionkitagawa) & [**Gionmachi Minamigawa**](https://maps.app.goo.gl/gionminamigawa) - Traditional streets
     - [**Yasaka Shrine**](https://maps.app.goo.gl/yasakashrine) ⭐⭐⭐ - Evening illumination
     - Traditional restaurants and atmosphere
@@ -981,6 +985,7 @@ For comprehensive information about navigating Japan's train and bus systems, in
     - Traditional restaurants with lanterns
     - Perfect for final Kyoto dinner
   - **Alternative:** [**Gion District**](https://maps.app.goo.gl/gion) ⭐⭐⭐ - Kyoto's famous geisha district (if not visited Day 6)
+    - [**Hanamikoji Street**](https://www.google.com/maps/search/Hanamikoji+Street+Kyoto) ⭐⭐⭐ - Main street with traditional teahouses
     - [**Gionmachi Kitagawa**](https://maps.app.goo.gl/gionkitagawa) & [**Gionmachi Minamigawa**](https://maps.app.goo.gl/gionminamigawa) - Traditional streets
     - [**Yasaka Shrine**](https://maps.app.goo.gl/yasakashrine) ⭐⭐⭐ - Evening illumination
     - Traditional kaiseki or izakaya dining
